@@ -12,8 +12,9 @@ relaxed socials and party's,
 workshops and bootcamps by (inter)national teachers,
 and other activities!
 
+<div class="responsive-video">
 <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Flisa.vanderplaats.7%2Fvideos%2F2231784906877633%2F&show_text=0&width=560" width="560" height="308" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
-
+</div>
 
 ## Lisa Denise van der Plaats
 Lisa Denise started dancing when she was four years old.
