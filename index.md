@@ -9,7 +9,7 @@ layout: home
 
 Welcome to the Utrecht Brazilian Zouk dance school! To grow and support the Brazilian Zouk community in and around Utrecht we organise weekly Zouk classes on progressing levels, organise and promote opportunities for social dancing, workshops and other activities!
 
-Upcoming! Join our try-out classes for Beginners and Intermediate dancers on Wednesday 10th of April @Sportcafe de Dreef!
+Upcoming! Join our free try-out classes for Beginners and Intermediate dancers on Wednesday 10th of April @Sportcafe de Dreef!
 
 Our current schedule for our weekly Zouk classes:
 
