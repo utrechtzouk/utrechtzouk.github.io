@@ -25,4 +25,20 @@ Our current schedule for our weekly Zouk classes:
   - [Register & more info](https://www.facebook.com/events/410705476169956/)
 
 ## What is Brazilian Zouk?
-Brazilian zouk is a social partner dance originating from Brazil. The dance is a descendant of the lambada, the music & dance style that swept over the world like a storm in the late 1980's. Brazilian zouk is characterized by the continues flowing movements and the girls' flowing hair. Depending on the style of Brazilian zouk, you can see a close connection embrace and long graceful steps, strong hip movements, body isolations and upper-body torsions, spins and tilting upper body movements. The movements in this dance are often called sensual due to their flow and their orginin from the core of the body. It is danced by people of all ages in night clubs, dance schools and events around the world!
+Brazilian Zouk is a social partner dance originating from Brazil.
+The dance is a descendant of the lambada,
+the music & dance style that took the world by storm in the late 1980's.
+Brazilian Zouk is characterized by the continuous flowing movements and the girls' flowing hair.
+You can often see a close connection/embrace,
+long graceful steps,
+strong hip movements,
+body isolations,
+spins,
+upper-body torsions,
+and tilted upper body movements.
+These movements are often called sensual due to their flow
+and their origin from the core of the body.
+It is danced by people of all ages in
+night clubs,
+dance schools,
+and events around the world!
