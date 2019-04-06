@@ -3,15 +3,26 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: "Welcome to the Utrecht Zouk Dance School"
+description: "Our goal is to help build the Zouk community - including classes on progressing levels, organise/promote opportunities for social dance, host/give workshops, and much more"
+seo:
+  name: Utrecht Brazilian Zouk
+  type: Organization
 ---
+
+To grow and support the Brazilian Zouk community in and around Utrecht
+we organise weekly Zouk classes on progressing levels,
+organise & promote opportunities for social dancing,
+workshops,
+and other activities!
 
 ![alt text](/international-zouk-day-2018.jpg "International Zouk Day Flashmob 2018")
 
-Welcome to the Utrecht Brazilian Zouk dance school! To grow and support the Brazilian Zouk community in and around Utrecht we organise weekly Zouk classes on progressing levels, organise and promote opportunities for social dancing, workshops and other activities!
+## Upcoming!
+Join our free try-out classes for Beginners and Intermediate dancers
+on Wednesday 10th of April @Sportcafe de Dreef!
 
-Upcoming! Join our free try-out classes for Beginners and Intermediate dancers on Wednesday 10th of April @Sportcafe de Dreef!
-
-Our current schedule for our weekly Zouk classes:
+Our current weekly Zouk Classes Schedule:
 
 * Wednesdays in [Sportcafé de Dreef](https://www.google.com/maps/place/Sportcafe+De+Dreef/@52.1210203,5.1168421,17z/data=!3m1!4b1!4m5!3m4!1s0x47c66f20f13d3cad:0x4866ca24be334309!8m2!3d52.1210203!4d5.1190308):
   - 19:00 Beginners 1

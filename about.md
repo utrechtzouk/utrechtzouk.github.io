@@ -2,14 +2,17 @@
 layout: page
 title: About Us
 permalink: /about/
+description: "These are the people that help provide our regular classes, relaxed socials & party's, workshops & bootcamps by (inter)national teachers, and other activities."
+seo:
+  name: Utrecht Brazilian Zouk
+  type: Organization
 ---
 
 # Welkom to Utrecht Brazilian Zouk!
 
-Our goal is to grow the Brazilian Zouk community in and around Utrecht.
-We organise regular classes,
-relaxed socials and party's,
-workshops and bootcamps by (inter)national teachers,
+These are the people that help provide our regular classes,
+relaxed socials & party's,
+workshops & bootcamps by (inter)national teachers,
 and other activities!
 
 <div class="responsive-video">
