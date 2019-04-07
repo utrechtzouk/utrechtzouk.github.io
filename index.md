@@ -3,8 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: "Welcome to the Utrecht Zouk Dance Community"
-description: "Our goal is to help build the Zouk community - including classes on progressing levels, organise/promote opportunities for social dance, host/give workshops, and much more"
+title: "Welcome to Utrecht Zouk Dance Company"
+description: "Our goal is to help build the Zouk Community - including classes on progressing levels, organise/promote opportunities for social dance, host/give workshops, and much more"
 seo:
   name: Utrecht Brazilian Zouk
   type: Organization
