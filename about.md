@@ -8,12 +8,19 @@ seo:
   type: Organization
 ---
 
-# Welkom to Utrecht Brazilian Zouk!
+# Welkom to Utrecht Zouk!
 <section>
-These are the people that help provide our regular classes,
-relaxed socials & party's,
-workshops & bootcamps by (inter)national teachers,
-and other activities!
+  <p>
+  These are the people behind Utrecht Zouk.
+  Their mission? To create a collaborative environment where all local teachers
+  and organisers work together to run a vibrant and harmonious Zouk scene.
+  They provide classes,
+  relaxed socials,
+  and parties;
+  as well as workshops,
+  bootcamps by (inter)national teachers,
+  and other activities.
+  </p>
 </section>
 
 <section>
@@ -67,3 +74,49 @@ and other activities!
     allowfullscreen
   ></iframe>
 </div>
+
+<div> </div>
+
+<section>
+  <picture class="drop-shadow">
+  <img src="/tim-and-sascha.jpg" width="200px" height="160px" />
+  </picture>
+  <h4>Tim & Sascha</h4>
+  <p>
+  From the moment they met they started exploring their love for partner dance.
+  From Dancing,
+  to performing,
+  and teaching various dance styles such as:
+  Salsa,
+  Bachata,
+  Merengue,
+  and Zouk.
+  Having started a Zouk scene in Edmonton
+  and helped foster Zouk in West Canada at large,
+  they know what it takes to build a community.
+  All that experience is brought to nurture Utrecht Zouk,
+  and their infectious energy helps provide a great space for learning
+  during classes or one of their workshops in Holland or abroad.
+  <!-- <a href='' class='more'>read more</a> -->
+  </p>
+</section>
+
+<section>
+  <picture class="drop-shadow">
+  <img src="/artul-and-kraken.jpg" width="200px" height="160px" />
+  </picture>
+  <h4>Artül & Kraken</h4>
+  <p>
+  As Co-Founders of Zouk Elements,
+  organizers of ZoukLand Festival,
+  and international Zouk Lambada & FlowBody performers and teachers.
+  They travel the world,
+  to share their passion about how dance,
+  music,
+  and the elements can help people achieve a deeper connection with themselves.
+  Having moved to the Netherlands they have joined up with Utrecht Zouk
+  to teach their FlowBody style Zouk,
+  and use their experience to help build our community.
+  <!-- <a href='' class='more'>read more</a> -->
+  </p>
+</section>
