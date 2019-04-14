@@ -96,6 +96,7 @@ $on-laptop:        800px !default;
 .responsive-video {
   overflow: hidden;
   padding-bottom: 56.25%;
+  margin-bottom: 20px;
   position: relative;
   height: 0;
 
@@ -105,5 +106,57 @@ $on-laptop:        800px !default;
     height: 100%;
     width: 100%;
     position: absolute;
+  }
+}
+
+.drop-shadow {
+  position: relative;
+  width: 200px;
+  height: 160px;
+}
+
+.drop-shadow:before, .drop-shadow:after {
+  content: "";
+  position: absolute;
+  z-index: -1;
+  bottom: 15px;
+  left: 10px;
+  width: 90%;
+  height: 20%;
+  box-shadow: 0 15px 10px rgba(0, 0, 0, 0.7);
+  transform: rotate(-5deg);
+}
+
+.drop-shadow:after{
+  right: 10px;
+  left: auto;
+  transform: rotate(3deg);
+}
+
+section {
+  margin: 0 0 60px 0;
+
+  .more {
+    font-size: 0.7em;
+    line-height: 1em;
+    text-align: bottom;
+  }
+
+  img {
+    border-radius: 8px;
+  }
+
+  &:nth-child(odd) {
+    picture {
+      float: left;
+      margin: 0 20px 20px 0;
+    }
+  }
+
+  &:nth-child(even) {
+    picture {
+      float: right;
+      margin: 0 0 20px 20px;
+    }
   }
 }
