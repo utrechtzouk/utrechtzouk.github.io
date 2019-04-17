@@ -3,28 +3,28 @@
 // Define defaults for each variable.
 
 $base-font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !default;
-$base-font-size:   16px !default;
+$base-font-size: 16px !default;
 $base-font-weight: 400 !default;
-$small-font-size:  $base-font-size * 0.875 !default;
+$small-font-size: $base-font-size * 0.875 !default;
 $base-line-height: 1.5 !default;
 
-$spacing-unit:     30px !default;
+$spacing-unit: 30px !default;
 
-$text-color:       #111 !default;
+$text-color: #111 !default;
 $background-color: #fdfdfd !default;
-$brand-color:      #2a7ae2 !default;
+$brand-color: #00aeef !default;
 
-$grey-color:       #828282 !default;
+$grey-color: #828282 !default;
 $grey-color-light: lighten($grey-color, 40%) !default;
 $grey-color-dark:  darken($grey-color, 25%) !default;
 
 $table-text-align: left !default;
 
 // Width of the content area
-$content-width:    800px !default;
+$content-width: 800px !default;
 
-$on-palm:          600px !default;
-$on-laptop:        800px !default;
+$on-palm: 600px !default;
+$on-laptop: 800px !default;
 
 // Use media queries like this:
 // @include media-query($on-palm) {
@@ -51,27 +51,27 @@ $on-laptop:        800px !default;
 ;
 
 .site-header {
-  background: black;
+  background-color: $text-color;
   border-top: 2px solid #444;
   border-bottom: 2px solid #444;
   padding: 8px 0 4px 0;
 
   .site-nav {
+    background-color: $text-color;
     .page-link {
-      color: white;
-      background: black;
+      color: $background-color;
+      background: $text-color;
     }
   }
 }
 
-@media screen and (max-width: 600px) {
+@include media-query($on-palm) {
   .site-nav {
     position: absolute;
-    top: 9px;
-    right: 15px;
+    top: #{$spacing-unit / 2};
+    right: #{$spacing-unit / 2};
     background-color: black;
-    border: 1px solid #e8e8e8;
-    border-radius: 5px;
+    border: none;
     text-align: right;
 
     .menu-icon > svg {
@@ -109,32 +109,9 @@ $on-laptop:        800px !default;
   }
 }
 
-.drop-shadow {
-  position: relative;
-  width: 200px;
-  height: 100%;
-}
-
-.drop-shadow:before, .drop-shadow:after {
-  content: "";
-  position: absolute;
-  z-index: -1;
-  bottom: 14px;
-  left: 4px;
-  width: 90%;
-  height: 20%;
-  box-shadow: 0 15px 10px rgba(0, 0, 0, 0.7);
-  transform: rotate(-5deg);
-}
-
-.drop-shadow:after{
-  right: 4px;
-  left: auto;
-  transform: rotate(3deg);
-}
-
 section {
-  margin: 0 0 60px 0;
+  position: relative;
+  margin: 0 0 $spacing-unit 0;
 
   .more {
     font-size: 0.7em;
@@ -142,21 +119,85 @@ section {
     text-align: bottom;
   }
 
-  img {
-    border-radius: 8px;
-  }
+  picture {
+    display: block;
+    height: 160px;
 
-  &:nth-child(odd) {
-    picture {
-      float: left;
-      margin: 0 20px 20px 0;
+    img {
+      max-width: auto;
+      height: 160px;
+      border-radius: 8px;
+      object-fit: cover;
     }
   }
 
-  &:nth-child(even) {
+  @include media-query($on-palm) {
     picture {
-      float: right;
-      margin: 0 0 20px 20px;
+      float: none !important;
+      margin: 0 #{-$spacing-unit / 2} 4px #{-$spacing-unit / 2};
+
+      img {
+        width: calc(100% + #{2 * $spacing-unit});
+        max-width: calc(100% + #{2 * $spacing-unit});
+        border-radius: 0;
+      }
+    }
+
+    h4 {
+      position: absolute;
+      top: calc(160px - #{$spacing-unit});
+      height: $spacing-unit;
+      line-height: $spacing-unit;
+      left: #{-$spacing-unit / 2};
+      right: #{-$spacing-unit / 2};
+      padding: 0 #{$spacing-unit / 2};
+      color: $background-color;
+      text-shadow: $text-color 0 0 1px;
+      // background-image: linear-gradient(to right, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.1));
+
+    }
+
+    &.palm-right h4 {
+      text-align: right;
+    }
+  }
+
+  @media (min-width: $on-palm) {
+    picture {
+      position: relative;
+      height: 100%;
+
+      &:before, &:after {
+        content: "";
+        position: absolute;
+        z-index: -1;
+        bottom: #{$spacing-unit / 2};
+        left: 4px;
+        width: calc(100% - #{2 * $spacing-unit});
+        height: 20%;
+        box-shadow: 0 #{$spacing-unit / 2} #{$spacing-unit / 3} rgba(0, 0, 0, 0.7);
+        transform: rotate(-5deg);
+      }
+
+      &:after {
+        right: 4px;
+        left: auto;
+        transform: rotate(3deg);
+      }
+    }
+
+    &:nth-child(odd) {
+      picture {
+        float: left;
+        margin: 0 $spacing-unit $spacing-unit 0;
+      }
+    }
+
+    &:nth-child(even) {
+      picture {
+        float: right;
+        margin: 0 0 $spacing-unit $spacing-unit;
+      }
     }
   }
 }

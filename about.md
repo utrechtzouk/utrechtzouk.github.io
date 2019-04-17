@@ -24,8 +24,14 @@ seo:
 </section>
 
 <section>
-  <picture class="drop-shadow">
-  <img src='/lisa-denise-van-der-plaats.jpg' width='200px' height='160px' alt='Lisa Denise van der Plaats' />
+  <picture>
+  <img
+    src='/lisa-denise-van-der-plaats.jpg'
+    width='200px'
+    height='160px'
+    alt='Lisa Denise van der Plaats wearing a Zouk baseball cap' 
+    style='object-position:50% 46%'
+    />
   </picture>
   <h4>Lisa Denise van der Plaats</h4>
   <p>
@@ -47,8 +53,14 @@ seo:
 </section>
 
 <section>
-  <picture class="drop-shadow">
-  <img src='/marcos-hudson-alves-soares.jpg' width='200px' height='160px' alt='Marcos Hudson Alves Soares' />
+  <picture>
+  <img
+    src='/marcos-hudson-alves-soares.jpg'
+    width='200px'
+    height='160px'
+    alt='Marcos Hudson Alves Soares'
+    style='object-position:50% 27%'
+  />
   </picture>
   <h4>Marcos Hudson Alves Soares</h4>
   <p>
@@ -77,9 +89,15 @@ seo:
 
 <div> </div>
 
-<section>
-  <picture class="drop-shadow">
-  <img src="/tim-and-sascha.jpg" width="200px" height="160px" />
+<section class="palm-right">
+  <picture>
+  <img
+    src='/tim-and-sascha.jpg'
+    width='200px'
+    height='160px'
+    alt='Tim & Sascha dancing Zouk'
+    style='object-position:50% 40%'
+  />
   </picture>
   <h4>Tim & Sascha</h4>
   <p>
@@ -101,9 +119,15 @@ seo:
   </p>
 </section>
 
-<section>
-  <picture class="drop-shadow">
-  <img src="/artul-and-kraken.jpg" width="200px" height="160px" />
+<section class="palm-right">
+  <picture>
+  <img
+    src='/artul-and-kraken.jpg'
+    width='200px'
+    height='160px'
+    alt='Artül & Kraken dancing Zouk'
+    style='object-position:50% 32%'
+  />
   </picture>
   <h4>Artül & Kraken</h4>
   <p>
