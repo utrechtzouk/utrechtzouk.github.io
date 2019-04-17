@@ -78,6 +78,10 @@ $on-laptop: 800px !default;
       fill: white;
     }
   }
+  .wrapper {
+    padding-left: #{$spacing-unit / 5};
+    padding-right: 0;
+  }
 }
 
 .site-title {
@@ -132,13 +136,14 @@ section {
   }
 
   @include media-query($on-palm) {
-    picture {
+    picture, .responsive-video {
       float: none !important;
-      margin: 0 #{-$spacing-unit / 2} 4px #{-$spacing-unit / 2};
+      margin: 0 #{-$spacing-unit / 5} 4px #{-$spacing-unit / 2};
 
       img {
-        width: calc(100% + #{2 * $spacing-unit});
-        max-width: calc(100% + #{2 * $spacing-unit});
+        width: 100%;
+        max-width: 100%;
+        border: none;
         border-radius: 0;
       }
     }
@@ -148,9 +153,9 @@ section {
       top: calc(160px - #{$spacing-unit});
       height: $spacing-unit;
       line-height: $spacing-unit;
-      left: #{-$spacing-unit / 2};
-      right: #{-$spacing-unit / 2};
-      padding: 0 #{$spacing-unit / 2};
+      left: #{-$spacing-unit / 5};
+      right: #{-$spacing-unit / 5};
+      padding: 0 #{$spacing-unit / 5};
       color: $background-color;
       text-shadow: $text-color 0 0 1px;
       // background-image: linear-gradient(to right, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.1));
