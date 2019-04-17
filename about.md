@@ -26,11 +26,11 @@ seo:
 <section>
   <picture>
   <img
-    src='/lisa-denise-van-der-plaats.jpg'
-    width='200px'
-    height='160px'
     alt='Lisa Denise van der Plaats wearing a Zouk baseball cap' 
+    height='160px'
+    src='/lisa-denise-van-der-plaats.jpg'
     style='object-position:50% 46%'
+    width='200px'
     />
   </picture>
   <h4>Lisa Denise van der Plaats</h4>
@@ -55,11 +55,11 @@ seo:
 <section>
   <picture>
   <img
-    src='/marcos-hudson-alves-soares.jpg'
-    width='200px'
-    height='160px'
     alt='Marcos Hudson Alves Soares'
+    height='160px'
+    src='/marcos-hudson-alves-soares.jpg'
     style='object-position:50% 27%'
+    width='200px'
   />
   </picture>
   <h4>Marcos Hudson Alves Soares</h4>
@@ -76,27 +76,29 @@ seo:
   </p>
 </section>
 
-<div class="responsive-video">
-  <iframe
-    width="560"
-    height="315"
-    src="https://www.youtube.com/embed/X_GtH00AlFs"
-    frameborder="0"
+<section>
+  <div class="responsive-video">
+  <iframe 
     allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
     allowfullscreen
+    frameborder="0"
+    height="315"
+    src="https://www.youtube.com/embed/X_GtH00AlFs"
+    width="560"
   ></iframe>
-</div>
+  </div>
+</section>
 
 <div> </div>
 
 <section class="palm-right">
   <picture>
   <img
-    src='/tim-and-sascha.jpg'
-    width='200px'
-    height='160px'
     alt='Tim & Sascha dancing Zouk'
+    height='160px'
+    src='/tim-and-sascha.jpg'
     style='object-position:50% 40%'
+    width='200px'
   />
   </picture>
   <h4>Tim & Sascha</h4>
@@ -122,11 +124,11 @@ seo:
 <section class="palm-right">
   <picture>
   <img
-    src='/artul-and-kraken.jpg'
-    width='200px'
-    height='160px'
     alt='Artül & Kraken dancing Zouk'
+    height='160px'
+    src='/artul-and-kraken.jpg'
     style='object-position:50% 32%'
+    width='200px'
   />
   </picture>
   <h4>Artül & Kraken</h4>
