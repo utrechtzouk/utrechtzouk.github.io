@@ -4,17 +4,20 @@
 
 layout: home
 title: "Welcome to Utrecht Zouk Dance Company"
-description: "Our goal is to help build the Zouk Community - including classes on progressing levels, organise/promote opportunities for social dance, host/give workshops, and much more"
+description: "Join our classes, workshops, and social dancing events! We help grow & support the Brazilian Zouk community in and around Utrecht."
 seo:
   name: Utrecht Brazilian Zouk
   type: Organization
 ---
 
-To grow and support the Brazilian Zouk community in and around Utrecht
-we organise weekly Zouk classes on progressing levels,
-organise & promote opportunities for social dancing,
+Join our classes,
+workshops,
+and social dancing events!
+To grow and support the Brazilian Zouk community in and around Utrecht,
+we organise & promote social dancing opportunities,
 workshops,
 and other activities!
+Sign up below, or follow us on facebook to stay up to date on Zouk events!
 
 ![alt text](/international-zouk-day-2018.jpg "International Zouk Day Flashmob 2018")
 
