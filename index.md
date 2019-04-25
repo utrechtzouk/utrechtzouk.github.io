@@ -28,7 +28,6 @@ on Wednesday 10th of April @Sportcafe de Dreef!
 Our current weekly Zouk Classes Schedule:
 
 * Wednesdays in [Sportcafé de Dreef](https://www.google.com/maps/place/Sportcafe+De+Dreef/@52.1210203,5.1168421,17z/data=!3m1!4b1!4m5!3m4!1s0x47c66f20f13d3cad:0x4866ca24be334309!8m2!3d52.1210203!4d5.1190308):
-  - 19:00 Beginners 1
   - 20:00 Beginners 2
   - 21:00 Intermediate
   - [Register here](http://www.salsaventura.nl/utrecht)
