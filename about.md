@@ -47,7 +47,7 @@ seo:
   Being the driving force behind Utrecht Zouk,
   she uses her boundless energy teaching regular classes,
   privates,
-  and at conferences around the world.
+  and at congresses around the world.
   <!-- <a href='' class='more'>read more</a> -->
   </p>
 </section>
