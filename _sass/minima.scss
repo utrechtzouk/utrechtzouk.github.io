@@ -206,3 +206,20 @@ section {
     }
   }
 }
+
+dl {
+  dd, dt {
+    display: inline-block;
+    width: 50%;
+  }
+}
+
+a.call-to-action {
+  background: $brand-color;
+  color: $background-color;
+  border-radius: 4px;
+  display: inline-block;
+  height: 2em;
+  line-height: 2em;
+  padding: 0 0.5em;
+}

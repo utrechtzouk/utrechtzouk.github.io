@@ -54,5 +54,7 @@ plugins:
 show_excerpts: true
 
 header_pages:
+  - wednesday-classes.md
+  - friday-classes.md
   - about.md
   - portfolio.md

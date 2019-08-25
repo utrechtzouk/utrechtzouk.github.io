@@ -22,20 +22,12 @@ Sign up below, or follow us on facebook to stay up to date on Zouk events!
 ![alt text](/international-zouk-day-2018.jpg "International Zouk Day Flashmob 2018")
 
 ## Upcoming!
-Join our free try-out classes for Beginners and Intermediate dancers
-on Wednesday 10th of April @Sportcafe de Dreef!
+[Join our free try-out classes](/wednesday-classes) for Beginners and Intermediate dancers
+on Wednesdays @Sportcafe de Dreef!
 
-Our current weekly Zouk Classes Schedule:
-
-* Wednesdays in [Sportcafé de Dreef](https://www.google.com/maps/place/Sportcafe+De+Dreef/@52.1210203,5.1168421,17z/data=!3m1!4b1!4m5!3m4!1s0x47c66f20f13d3cad:0x4866ca24be334309!8m2!3d52.1210203!4d5.1190308):
-  - 20:00 Intermediate
-  - 21:00 Beginners 2
-  - [Register here](http://www.salsaventura.nl/utrecht)
-* Fridays in [Theaterhuis de Berenkuil](https://deberenkuil.nl):
-  - 19:00 Intensive Zouk Training
-  - 20:00 Balance & Precision
-  - 21:00 Footwork & Isolations
-  - [Register & more info](https://www.facebook.com/events/410705476169956/)
+Our current weekly Zouk Classes Schedule can be found here:
+* [Wednesdays](/wednesday-classes) at [Sportcafé de Dreef](https://www.google.com/maps/place/Sportcafe+De+Dreef/@52.1210203,5.1168421,17z/data=!3m1!4b1!4m5!3m4!1s0x47c66f20f13d3cad:0x4866ca24be334309!8m2!3d52.1210203!4d5.1190308):
+* [Fridays](/friday-classes) at [Theaterhuis de Berenkuil](https://deberenkuil.nl):
 
 ## What is Brazilian Zouk?
 Brazilian Zouk is a social partner dance originating from Brazil.
