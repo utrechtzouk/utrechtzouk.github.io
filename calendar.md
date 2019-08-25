@@ -4,6 +4,7 @@
 
 layout: home
 title: "Calendar"
+permalink: /calendar/
 description: "Our shared calendar with all Utrecht Zouk & friends events"
 seo:
   name: All Utrecht Zouk Events
