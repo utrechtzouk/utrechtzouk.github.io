@@ -31,7 +31,7 @@ or register for Friday classes through our [registration form](/friday-registrat
 </dl>
 
 It is possible to be elligable for discount pricing;
-Our only condition is for you to have paid before September 13th.
+our only condition is for you to have paid before September 13th.
 **Discount prices** are listed below:
 <dl>
 <dt>1 course</dt><dd>€120,-</dd>
