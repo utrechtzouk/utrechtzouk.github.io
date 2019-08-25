@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Us
+title: Teachers
 permalink: /about/
 description: "These are the people that help provide our regular classes, relaxed socials & party's, workshops & bootcamps by (inter)national teachers, and other activities."
 seo:
