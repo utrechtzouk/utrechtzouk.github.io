@@ -17,6 +17,8 @@ title: Utrecht Brazilian Zouk
 email: utrechtzouk@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
+brand_color: '00aeef'
+background_color: 'fdfdfd'
 url: "http://utrechtzouk.nl" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 # github_username:  jekyll
@@ -56,5 +58,6 @@ show_excerpts: true
 header_pages:
   - wednesday-classes.md
   - friday-classes.md
+  - calendar.md
   - about.md
   - portfolio.md
