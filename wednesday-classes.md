@@ -34,5 +34,5 @@ Contact us for more information.
 
 # Pricing info:
 **Discount price:** €100,- for ten classes
-when registring before or during try-out classes.
+when registering before or during try-out classes.
 **Regular price:** €115,- for ten classes.

@@ -10,6 +10,15 @@ seo:
   type: Organization
 ---
 
+<iframe
+  frameborder="0"
+  height="600"
+  scrolling="no"
+  src="https://calendar.google.com/calendar/b/1/embed?height=400&amp;wkst=2&amp;bgcolor=%23ffffff&amp;ctz=Europe%2FAmsterdam&amp;src=dXRyZWNodHpvdWtAZ21haWwuY29t&amp;color=%23039BE5&amp;showTitle=0&amp;mode=AGENDA&amp;showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0"
+  style="border-width:0"
+  width="100%"
+  ></iframe>
+
 Join our classes,
 workshops,
 and social dancing events!
