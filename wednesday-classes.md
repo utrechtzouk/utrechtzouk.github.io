@@ -27,7 +27,7 @@ at [Sportcafé de Dreef](https://www.google.com/maps/place/Sportcafe+De+Dreef/@5
 
 [Register for courses](http://www.salsaventura.nl/utrecht)
 
-# Teachers: Artul & Kraken
+# Teachers: Artül & Kraken
 
 Want to join during the current season?
 Contact us for more information.
