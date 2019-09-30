@@ -18,6 +18,11 @@ at [Sportcafé de Dreef](https://www.google.com/maps/place/Sportcafe+De+Dreef/@5
 
 [Register for courses](http://www.salsaventura.nl/utrecht)
 
+Did you miss our free try-out class at the beginning of this season?
+
+It is possible to try out anywhere during the running season for € 15,-
+This will be deducted from the total when joining for remainder of the classes.
+
 # Teachers: Artül & Kraken
 
 Want to join during the current season?
