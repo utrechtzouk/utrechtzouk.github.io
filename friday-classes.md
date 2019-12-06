@@ -10,7 +10,7 @@ seo:
   type: Organization
 ---
 
-## NewYears Bootcamp Zouk Fundamentals
+## [NewYears Bootcamp Zouk Fundamentals](https://www.facebook.com/events/521677311720833/)
 Friday January 17<sup>th</sup>
 19.00-22.00h
 
