@@ -10,41 +10,83 @@ seo:
   type: Organization
 ---
 
-# Regular Classes: September 20th [12 lessons]
+## NewYears Bootcamp Zouk Fundamentals
+Friday January 17<sup>th</sup>
+19.00-22.00h
+
+We kickoff 2020 with a Zouk Fundamentals bootcamp!
+In this bootcamp we will touch upon the fundamentals of Zouk,
+the very foundation of this beautiful dance.
+Zouk is not just a set of patterns,
+but rather a complex language of which we need much more then just vocabulary.
+In this bootcamp we will focus on the grammar
+(techniques)
+that allow us to be so versatile with the fundamental footwork patterns.
+Highly recommended for Zoukers of every level!
+
+This bootcamp is intended for:
+- Fresh new Zoukers with some dancing experience who want to start dancing Zouk
+- Zoukers who want to freshen up their basics
+- Intermediate/Advanced followers who want to learn how to lead
+- Intermediate/Advanced leaders who want to learn how to follow
+
+**Bootcamp prices:**
+<dl>
+<dt>In advance</dt><dd>€30,-</dd>
+<dt>Cash at the door</dt><dd>€40,-</dd>
+</dl>
+Registration through our registration form.
+
+<a
+  class="call-to-action"
+  href="/friday-registration">
+  ✓ registration form
+</a>
+
+## Zouk Workshops on Friday the 24<sup>th</sup>
+
+Content of the workshops is yet to be determined.
+
+## Regular Classes: January 31<sup>st</sup> [10 lessons]
 
 at [Theaterhuis de Berenkuil](https://deberenkuil.nl):
 - 19:00 Intensive Zouk Training (Invitation only)
 - 20:00 Zouk Fundamentals: Reverse Roles
 - 21:00 Zouk Intermediate / Advanced (Themes change each season)
-- 22:00-22:45 Free Practise Time / Social Dancing (except 2nd Friday of the month)
+- 22:00-22:45 Free Practise Time / Social Dancing (except 2<sup>nd</sup> Friday of the month)
 
 Contact us about joining the Intensive Training,
 or register for Friday classes through our [registration form](/friday-registration).
 
-# Pricing:
-
-**Regular pricing** is as listed below:
+**Regular prices:**
 <dl>
-<dt>1 course</dt><dd>€130,-</dd>
-<dt>2 courses</dt><dd>€195,-</dd>
-<dt>3 courses</dt><dd>€260,-</dd>
+<dt>1 course</dt><dd>€110,-</dd>
+<dt>2 courses</dt><dd>€165,-</dd>
+<dt>3 courses</dt><dd>€220,-</dd>
 </dl>
 
 It is possible to be elligable for discount pricing;
-our only condition is for you to have paid before September 13th.
-**Discount prices** are listed below:
+our only condition is for you to have paid before Friday January 24<sup>th</sup>.
+
+**Discount prices:**
 <dl>
-<dt>1 course</dt><dd>€120,-</dd>
-<dt>2 courses</dt><dd>€180,-</dd>
-<dt>3 courses</dt><dd>€240,-</dd>
+<dt>1 course</dt><dd>€100,-</dd>
+<dt>2 courses</dt><dd>€150,-</dd>
+<dt>3 courses</dt><dd>€200,-</dd>
 </dl>
 
 <a
   class="call-to-action"
-  href="/friday-registration"> ✓ registration form </a>
+  href="/friday-registration">
+  ✓ registration form
+</a>
 
-# Strippenkaarten
-Not able to join a complete course? It is possible to buy a ticket strip (strippenkaart) for 4 classes which can be used at any time. A strippenkaart costs €50,-.
+## Strippenkaarten
+Not able to join a complete course?
+It is possible to buy a ticket strip
+(strippenkaart)
+for 4 classes which can be used at any time.
+A strippenkaart costs €50,-.
 
 ### Strippenkaart info:
 Please note that our Intensive Zouk Training is excluded.

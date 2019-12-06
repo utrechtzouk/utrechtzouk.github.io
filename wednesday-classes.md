@@ -10,25 +10,44 @@ seo:
   type: Organization
 ---
 
-# Regular Classes: September 18th [10 lessons]
+## Free try-out Classes: January 15<sup>th</sup>
 
 at [Sportcafé de Dreef](https://www.google.com/maps/place/Sportcafe+De+Dreef/@52.1210203,5.1168421,17z/data=!3m1!4b1!4m5!3m4!1s0x47c66f20f13d3cad:0x4866ca24be334309!8m2!3d52.1210203!4d5.1190308):
-- 20:00 Zouk Beginners 1
-- 21:00 Zouk Intermediate 1
+- 19:45 Zouk Beginners Tryouts
+- 20:30 Zouk Intermediate Tryouts
 
-[Register for courses](http://www.salsaventura.nl/utrecht)
+<a
+  class="call-to-action"
+  target="blank"
+  href="http://www.salsaventura.nl/utrecht">
+  ✓ Register for Free try-out classes
+</a>
+
+
+## Regular Classes: January 22<sup>nd</sup> [10 lessons]
+
+at [Sportcafé de Dreef](https://www.google.com/maps/place/Sportcafe+De+Dreef/@52.1210203,5.1168421,17z/data=!3m1!4b1!4m5!3m4!1s0x47c66f20f13d3cad:0x4866ca24be334309!8m2!3d52.1210203!4d5.1190308):
+- 20:00 Zouk Beginners
+- 21:00 Zouk Intermediate
+
+<a
+  class="call-to-action"
+  target="blank"
+  href="http://www.salsaventura.nl/utrecht">
+  ✓ Register for courses
+</a>
 
 Did you miss our free try-out class at the beginning of this season?
 
 It is possible to try out anywhere during the running season for € 15,-
 This will be deducted from the total when joining for remainder of the classes.
 
-# Teachers: Artül & Kraken
+## Teachers: Utrecht Zouk Team
 
 Want to join during the current season?
 Contact us for more information.
 
-# Pricing info:
+## Pricing info:
 **Discount price:** €100,- for ten classes
-when registering before or during try-out classes.
+when registering and paying on or before Friday January 17<sup>th</sup>  
 **Regular price:** €115,- for ten classes.
