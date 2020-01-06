@@ -11,8 +11,7 @@ seo:
 ---
 
 ## Free try-out Classes: January 15<sup>th</sup>
-
-at [Sportcafé de Dreef](https://www.google.com/maps/place/Sportcafe+De+Dreef/@52.1210203,5.1168421,17z/data=!3m1!4b1!4m5!3m4!1s0x47c66f20f13d3cad:0x4866ca24be334309!8m2!3d52.1210203!4d5.1190308):
+at [S.E.B.](https://www.google.com/maps/place/Stichting+Elinkwijk's+Belang/@52.1095517,5.0804193,17z/data=!4m5!3m4!1s0x47c66fa6dcdca4d3:0xe8efd68816a59fd0!8m2!3d52.1095517!4d5.082608):
 - 19:45 Zouk Beginners Tryouts
 - 20:30 Zouk Intermediate Tryouts
 
@@ -26,7 +25,7 @@ at [Sportcafé de Dreef](https://www.google.com/maps/place/Sportcafe+De+Dreef/@5
 
 ## Regular Classes: January 22<sup>nd</sup> [10 lessons]
 
-at [Sportcafé de Dreef](https://www.google.com/maps/place/Sportcafe+De+Dreef/@52.1210203,5.1168421,17z/data=!3m1!4b1!4m5!3m4!1s0x47c66f20f13d3cad:0x4866ca24be334309!8m2!3d52.1210203!4d5.1190308):
+at [S.E.B.](https://www.google.com/maps/place/Stichting+Elinkwijk's+Belang/@52.1095517,5.0804193,17z/data=!4m5!3m4!1s0x47c66fa6dcdca4d3:0xe8efd68816a59fd0!8m2!3d52.1095517!4d5.082608):
 - 20:00 Zouk Beginners
 - 21:00 Zouk Intermediate
 
