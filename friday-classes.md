@@ -40,12 +40,23 @@ Registration through our registration form.
 <a
   class="call-to-action"
   href="/friday-registration">
-  ✓ registration form
+  ✓ bootcamp registration form
 </a>
 
 ## Zouk Workshops on Friday the 24<sup>th</sup>
 
 Content of the workshops is yet to be determined.
+Key movement concepts
+focus on how to let your movement flow through your body
+while dancing and keeping your connection.
+Find what type of movement fits your body
+and how you can apply this in your Zouk dancing.
+
+<a
+  class="call-to-action"
+  href="/workshop-registration">
+  ✓ workshop registration form
+</a>
 
 ## Regular Classes: January 31<sup>st</sup> [10 lessons]
 
