@@ -45,7 +45,6 @@ Registration through our registration form.
 
 ## Zouk Workshops on Friday the 24<sup>th</sup>
 
-Content of the workshops is yet to be determined.
 Key movement concepts
 focus on how to let your movement flow through your body
 while dancing and keeping your connection.
