@@ -71,7 +71,7 @@ seo:
   and many Zouk styles,
   his repertoire & understanding of the lead/follow interaction gives him his own unique flow.
   He teaches workshops internationally,
-  and this year made his debut teaching our regular classes.
+  and as of January 2019 he joined Lisa at the Utrecht Zouk team to teach regular classes.
   <!-- <a href='' class='more'>read more</a> -->
   </p>
 </section>
