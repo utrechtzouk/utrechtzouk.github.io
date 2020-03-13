@@ -10,6 +10,35 @@ seo:
   type: Organization
 ---
 
+<section class='looming-notice'>
+<p>
+We,
+the team of Utrecht Zouk,
+have decided to cancel our weekly Brazilian Zouk classes both on the Wednesday's and Friday's,
+starting immediately.
+The classes are cancelled at least for the rest of March,
+and we will monitor the situation closely to decide what to do the coming days/weeks.
+</p>
+<p>
+We feel that it is unwise to continue weekly classes and we prefer to be a part of the solution rather than a part of the problem.
+Most of all,
+we care deeply for our social dancing community here and everywhere around the world,
+and want to keep all of you safe and healthy
+❤️
+but we miss you already!
+</p>
+<p>
+As the situation for the next few days/weeks is uncertain,
+we currently don’t have an answer to questions about refunds and/or rescheduled classes in the future.
+I'm 100% sure we will find a solution within the coming time,
+and we will communicate about that with our students as soon as we can
+🙏🙏
+❤️❤️
+</p>
+<br/>
+Stay safe everyone!
+</section>
+
 Join our classes,
 workshops,
 and social dancing events!
