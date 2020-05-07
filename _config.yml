@@ -57,6 +57,7 @@ plugins:
 show_excerpts: true
 
 header_pages:
+  - online-classes.md
   - wednesday-classes.md
   - friday-classes.md
   - calendar.md
