@@ -4,11 +4,13 @@
 
 layout: home
 permalink: /online-classes/
-title: "Online classes"
+title: Online classes
 seo:
   name: Brazilian Zouk Online Classes
   type: Organization
 ---
+
+![alt text](/weekly-online-zouk-classes.jpg "Weekly Online Zouk Classes with Lisa Denise")
 
 Just because we cannot meet in a studio,
 does not mean we cannot continue learning & dancing!
