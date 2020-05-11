@@ -120,29 +120,3 @@ seo:
   <!-- <a href='' class='more'>read more</a> -->
   </p>
 </section>
-
-<section class="palm-right">
-  <picture>
-  <img
-    alt='Artül & Kraken dancing Zouk'
-    height='160px'
-    src='/artul-and-kraken.jpg'
-    style='object-position:50% 32%'
-    width='200px'
-  />
-  </picture>
-  <h4>Artül & Kraken</h4>
-  <p>
-  As Co-Founders of Zouk Elements,
-  organizers of ZoukLand Festival,
-  and international Zouk Lambada & FlowBody performers and teachers.
-  They travel the world,
-  to share their passion about how dance,
-  music,
-  and the elements can help people achieve a deeper connection with themselves.
-  Having moved to the Netherlands they have joined up with Utrecht Zouk
-  to teach their FlowBody style Zouk,
-  and use their experience to help build our community.
-  <!-- <a href='' class='more'>read more</a> -->
-  </p>
-</section>
