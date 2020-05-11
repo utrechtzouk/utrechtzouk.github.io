@@ -55,8 +55,9 @@ to stay up to date!
 on Wednesdays @Sportcafe de Dreef!
 
 Our current weekly Zouk Classes Schedule can be found here:
-* [Wednesdays](/wednesday-classes) at [Sportcafé de Dreef](https://www.google.com/maps/place/Sportcafe+De+Dreef/@52.1210203,5.1168421,17z/data=!3m1!4b1!4m5!3m4!1s0x47c66f20f13d3cad:0x4866ca24be334309!8m2!3d52.1210203!4d5.1190308):
-* [Fridays](/friday-classes) at [Theaterhuis de Berenkuil](https://deberenkuil.nl):
+* [Online](/online-classes)
+* [Wednesdays](/wednesday-classes) at [Sportcafé de Dreef](https://www.google.com/maps/place/Sportcafe+De+Dreef/@52.1210203,5.1168421,17z/data=!3m1!4b1!4m5!3m4!1s0x47c66f20f13d3cad:0x4866ca24be334309!8m2!3d52.1210203!4d5.1190308)
+* [Fridays](/friday-classes) at [Theaterhuis de Berenkuil](https://deberenkuil.nl)
 
 ## What is Brazilian Zouk?
 Brazilian Zouk is a social partner dance originating from Brazil.
