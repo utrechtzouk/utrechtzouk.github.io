@@ -10,6 +10,18 @@ seo:
   type: Organization
 ---
 
+<section class='looming-notice'>
+<p>
+The information on this page will not be updated until we can go back to our regular classes.
+Feel free to contact us with any further questions at utrechtzouk@gmail.com.
+Stay safe and we hope to have more information soon!
+<br/>
+<br/>
+The Utrecht Zouk Team<br/>
+Lisa Denise van der Plaats
+</p>
+</section>
+
 ## Free try-out Classes: January 15<sup>th</sup>
 at [Sportcafé de Dreef](https://www.google.com/maps/place/Sportcafe+De+Dreef/@52.1210203,5.1168421,17z/data=!3m1!4b1!4m5!3m4!1s0x47c66f20f13d3cad:0x4866ca24be334309!8m2!3d52.1210203!4d5.1190308):
 ⇐ 

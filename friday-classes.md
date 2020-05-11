@@ -10,6 +10,18 @@ seo:
   type: Organization
 ---
 
+<section class='looming-notice'>
+<p>
+The information on this page will not be updated until we can go back to our regular classes.
+Feel free to contact us with any further questions at utrechtzouk@gmail.com.
+Stay safe and we hope to have more information soon!
+<br/>
+<br/>
+The Utrecht Zouk Team<br/>
+Lisa Denise van der Plaats
+</p>
+</section>
+
 ## [NewYears Bootcamp Zouk Fundamentals](https://www.facebook.com/events/521677311720833/)
 Friday January 17<sup>th</sup>
 19.00-22.00h
