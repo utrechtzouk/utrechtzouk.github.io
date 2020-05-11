@@ -4,7 +4,7 @@
 
 layout: home
 permalink: /friday-classes/
-title: "Friday classes"
+title: Fridays
 seo:
   name: Brazilian Zouk classes at de Berenkuil
   type: Organization

@@ -4,7 +4,7 @@
 
 layout: home
 permalink: /wednesday-classes/
-title: "Wednesday classes"
+title: Wednesdays
 seo:
   name: Brazilian Zouk classes at de Dreef
   type: Organization
