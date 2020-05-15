@@ -16,6 +16,11 @@ Just because we cannot meet in a studio,
 does not mean we cannot continue learning & dancing!
 Starting Wednesday 3rd of June,
 I will be teaching weekly classes covering solo topics in blocks of 4 weeks.
+In June we will start with Module 1,
+in July and August we will organise Module 2,
+and Module 3 of these courses.
+The modules can be followed separately from each other,
+as each module will cover its own topics within the focus of the course.
 
 There will be two courses,
 one focusing on footwork technique,
@@ -26,33 +31,40 @@ these classes will help you develop in Zouk and in dancing in general.
 
 Free try-out class for both courses on Facebook & Zoom:
 
-- Wednesday May 27<sup>th</sup> from 19:30-21:00
+Wednesday May 27<sup>th</sup> from 19:30-21:00
+
+[Check out the Facebook event.](https://www.facebook.com/events/710365383044613/)
 
 <!-- [Link to fb event]. -->
 
 ## Schedule Courses
-- 19:00-20:00 Zouk Footwork Training <strong>Training 1 out of 3</strong>
-- 20:15-21:30 Zouk Upper Body Training <strong>Training 1 out of 3</strong>
+- 19:00-20:00 Zouk Footwork Training <strong>Module 1 out of 3</strong>
+- 20:15-21:30 Zouk Upper Body Training <strong>Module 1 out of 3</strong>
 
-Class dates:
+Class dates Module 1:
 * Wednesday June 3<sup>rd</sup>
 * Wednesday June 10<sup>th</sup>
 * Wednesday June 17<sup>th</sup>
 * Wednesday June 24<sup>th</sup>
+
+Module 2: 8<sup>th</sup> of July - 29<sup>th</sup> of July (Registration not open yet)
+
+Module 3: 12<sup>th</sup> of August - 2<sup>nd</sup> of September (Registration not open yet)
+
 
 ## Classes
 The classes will be taught live via Zoom.
 For each course we will create a WhatsApp group where the access links to the live classes will be shared each week.
 
 ### Zouk Footwork Training
-This class will include short lower body workouts to get stronger and gain more power from the floor,
+This course will include short lower body workouts to get stronger and gain more power from the floor,
 explanations of footwork techniques,
 footwork drills and we'll practice this with a short choreography that you'll learn over the 4 weeks just to practice the movements.
 Nothing too fancy!
 The focus is on the technique,
 not the choreo.
 
-Training 1 out of 3: will cover different rhythms,
+Module 1 out of 3: will cover different rhythms,
 and detailed basic footwork patterns for leaders and followers.
 
 *Please note!*
@@ -63,13 +75,13 @@ If you're new to Brazilian Zouk,
 feel free to contact me (Lisa) to discuss your level in Zouk and these classes!
 
 ### Zouk Upper Body Training
-This class will include practices to enhance flexibility and strength of your upper body,
+This course will include practices to enhance flexibility and strength of your upper body,
 technique explanation,
 technique training and we will practice the movements with a short choreography that you will learn over the 4 weeks of the course.
 Also in this class: the focus is on the technique,
 not the choreo.
 
-Training 1 out of 3: will cover the following linear upper body movements: the elastico,
+Module 1 out of 3: will cover the following linear upper body movements: the elastico,
 the chicote and the cambré.
 
 *Please note!*
