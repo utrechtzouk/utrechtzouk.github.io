@@ -29,27 +29,19 @@ We'll start with foundations,
 as building a strong fundamental understanding of the movements is necessary to grow! No matter what your current level in Brazilian Zouk is,
 these classes will help you develop in Zouk and in dancing in general.
 
-Free try-out class for both courses on Facebook & Zoom:
-
-Wednesday May 27<sup>th</sup> from 19:30-21:00
-
-[Check out the Facebook event.](https://www.facebook.com/events/710365383044613/)
-
-<!-- [Link to fb event]. -->
-
 ## Schedule Courses
-- 19:00-20:00 Zouk Footwork Training <strong>Module 1 out of 3</strong>
-- 20:15-21:30 Zouk Upper Body Training <strong>Module 1 out of 3</strong>
+- 19:00-20:00 Zouk Footwork Training <strong>Module 2 out of 3</strong>
+- 20:15-21:30 Zouk Upper Body Training <strong>Module 2 out of 3</strong>
 
-Class dates Module 1:
-* Wednesday June 3<sup>rd</sup>
-* Wednesday June 10<sup>th</sup>
-* Wednesday June 17<sup>th</sup>
-* Wednesday June 24<sup>th</sup>
+Class dates Module 2:
+* Wednesday July 1<sup>st</sup>
+* Wednesday July 8<sup>th</sup>
+* Wednesday July 15<sup>th</sup>
+* Wednesday July 22<sup>nd</sup>
 
 Module 2: 8<sup>th</sup> of July - 29<sup>th</sup> of July (Registration not open yet)
 
-Module 3: 12<sup>th</sup> of August - 2<sup>nd</sup> of September (Registration not open yet)
+Module 3: 5<sup>th</sup> of August - 26<sup>nd</sup> of August (Registration not open yet)
 
 
 ## Classes
@@ -69,7 +61,7 @@ and detailed basic footwork patterns for leaders and followers.
 
 *Please note!*
 
-Although this course is designed to start at the very basics,
+Although this course is designed to work on the very basics,
 this course is not designed for students with no experience in Brazilian Zouk at all because of the level of detail and expected knowledge of the patterns.
 If you're new to Brazilian Zouk,
 feel free to contact me (Lisa) to discuss your level in Zouk and these classes!
@@ -81,8 +73,10 @@ technique training and we will practice the movements with a short choreography 
 Also in this class: the focus is on the technique,
 not the choreo.
 
-Module 1 out of 3: will cover the following linear upper body movements: the elastico,
-the chicote and the cambré.
+Module 2 out of 3:
+will focus on circular upper body movements
+(Balao, Roasted Chicken, Tilted Turns)
+and the transitions between these three.
 
 *Please note!*
 
