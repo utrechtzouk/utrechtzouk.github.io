@@ -39,8 +39,6 @@ Class dates Module 2:
 * Wednesday July 15<sup>th</sup>
 * Wednesday July 22<sup>nd</sup>
 
-Module 2: 8<sup>th</sup> of July - 29<sup>th</sup> of July (Registration not open yet)
-
 Module 3: 5<sup>th</sup> of August - 26<sup>nd</sup> of August (Registration not open yet)
 
 
@@ -56,7 +54,7 @@ Nothing too fancy!
 The focus is on the technique,
 not the choreo.
 
-Module 1 out of 3: will cover different rhythms,
+Module 2 out of 3: will cover different rhythms,
 and detailed basic footwork patterns for leaders and followers.
 
 *Please note!*
