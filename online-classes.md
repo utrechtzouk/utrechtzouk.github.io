@@ -72,9 +72,10 @@ Also in this class: the focus is on the technique,
 not the choreo.
 
 Module 2 out of 3:
-will focus on circular upper body movements
-(Balao, Roasted Chicken, Tilted Turns)
-and the transitions between these three.
+will focus on balance,
+and on turning patterns in Brazilian Zouk
+such as travelling turns
+and boomerang/bonus patterns.
 
 *Please note!*
 
