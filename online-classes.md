@@ -54,8 +54,10 @@ Nothing too fancy!
 The focus is on the technique,
 not the choreo.
 
-Module 2 out of 3: will cover different rhythms,
-and detailed basic footwork patterns for leaders and followers.
+Module 2 out of 3:
+will focus on balance,
+and on turning patterns in Brazilian Zouk such as travelling turns
+and boomerang/bonus patterns.
 
 *Please note!*
 
@@ -72,10 +74,11 @@ Also in this class: the focus is on the technique,
 not the choreo.
 
 Module 2 out of 3:
-will focus on balance,
-and on turning patterns in Brazilian Zouk
-such as travelling turns
-and boomerang/bonus patterns.
+will focus on circular upper body movements
+(Balao,
+Roasted Chicken,
+Tilted Turns)
+and the transitions between these three.
 
 *Please note!*
 
