@@ -78,7 +78,7 @@ seo:
 
 <section>
   <div class="responsive-video">
-  <iframe 
+  <iframe
     allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
     allowfullscreen
     frameborder="0"
