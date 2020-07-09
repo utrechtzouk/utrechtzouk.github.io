@@ -217,6 +217,15 @@ Register using the location link at the bottom of the page.
   style="max-width: 100%; max-height: 600px;"
   src="/spelregels-voor-lessen-binnen.png"
 />
+<br>
+<br>
+Please
+<a
+  href="https://docs.google.com/document/d/1M01lk91xgPNstD6FhEM4-3evL38TLtbF3deaKW2QWkw/edit?usp=sharing">
+  read our COVID-19 guidelines
+</a>
+before registering for any Utrecht Zouk course.
+We count on everyone to help keep Utrecht Zouk a safe space to enjoy Brazilian Zouk.
 
 <br>
 
