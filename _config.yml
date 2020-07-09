@@ -57,9 +57,8 @@ plugins:
 show_excerpts: true
 
 header_pages:
+  - studio-classes.md
   - online-classes.md
-  - wednesday-classes.md
-  - friday-classes.md
   - calendar.md
   - about.md
   - portfolio.md

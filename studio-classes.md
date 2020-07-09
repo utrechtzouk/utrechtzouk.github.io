@@ -3,8 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-permalink: /friday-classes/
-title: Fridays
+permalink: /studio-classes/
+title: Studio Classes
 seo:
   name: Brazilian Zouk classes at de Berenkuil
   type: Organization

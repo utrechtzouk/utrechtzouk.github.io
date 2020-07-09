@@ -37,13 +37,9 @@ to stay up to date!
 </section>
 
 ## Danceclasses
-[Join our free try-out classes](/wednesday-classes) for Beginners and Intermediate dancers
-on Wednesdays @Sportcafe de Dreef!
-
 Our current weekly Zouk Classes Schedule can be found here:
-* [Online](/online-classes)
-* [Wednesdays](/wednesday-classes) at [Sportcafé de Dreef](https://www.google.com/maps/place/Sportcafe+De+Dreef/@52.1210203,5.1168421,17z/data=!3m1!4b1!4m5!3m4!1s0x47c66f20f13d3cad:0x4866ca24be334309!8m2!3d52.1210203!4d5.1190308)
-* [Fridays](/friday-classes) at [Theaterhuis de Berenkuil](https://deberenkuil.nl)
+* [Online Classes](/online-classes)
+* [Studio Classes](/studio-classes)
 
 ![alt text](/international-zouk-day-2018.jpg "International Zouk Day Flashmob 2018")
 

@@ -4,7 +4,7 @@
 
 layout: home
 permalink: /online-classes/
-title: Online
+title: Online Classes
 seo:
   name: Brazilian Zouk Online Classes
   type: Organization
