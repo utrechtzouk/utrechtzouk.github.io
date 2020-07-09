@@ -27,6 +27,7 @@ seo:
   <picture>
   <img
     alt='Lisa Denise van der Plaats wearing a Zouk baseball cap' 
+    id='lisa lisa-and-marcos'
     height='160px'
     src='/lisa-denise-van-der-plaats.jpg'
     style='object-position:50% 46%'
@@ -56,6 +57,7 @@ seo:
   <picture>
   <img
     alt='Marcos Hudson Alves Soares'
+    id='marcos'
     height='160px'
     src='/marcos-hudson-alves-soares.jpg'
     style='object-position:50% 27%'
@@ -95,6 +97,7 @@ seo:
   <picture>
   <img
     alt='Tim & Sascha dancing Zouk'
+    id='tim-and-sascha'
     height='160px'
     src='/tim-and-sascha.jpg'
     style='object-position:50% 40%'

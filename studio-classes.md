@@ -10,111 +10,227 @@ seo:
   type: Organization
 ---
 
-## [NewYears Bootcamp Zouk Fundamentals](https://www.facebook.com/events/521677311720833/)
-Friday January 17<sup>th</sup>
-19.00-22.00h
+Version 1 July 2020
 
-We kickoff 2020 with a Zouk Fundamentals bootcamp!
-In this bootcamp we will touch upon the fundamentals of Zouk,
-the very foundation of this beautiful dance.
-Zouk is not just a set of patterns,
-but rather a complex language of which we need much more then just vocabulary.
-In this bootcamp we will focus on the grammar
-(techniques)
-that allow us to be so versatile with the fundamental footwork patterns.
-Highly recommended for Zoukers of every level!
+<table id="schedule">
+<tbody>
 
-This bootcamp is intended for:
-- Fresh new Zoukers with some dancing experience who want to start dancing Zouk
-- Zoukers who want to freshen up their basics
-- Intermediate/Advanced followers who want to learn how to lead
-- Intermediate/Advanced leaders who want to learn how to follow
+<tr>
+  <td>Day</td>
+  <td>Kick&#8209;off</td>
+  <td>Teacher(s)</td>
+  <td>Time</td>
+  <td>Dance</td>
+  <td>Level</td>
+  <td>Course</td>
+  <td>Price</td>
+  <td>Location</td>
+</tr>
 
-**Bootcamp prices:**
-<dl>
-<dt>In advance</dt><dd>€30,-</dd>
-<dt>Cash at the door</dt><dd>€40,-</dd>
-</dl>
-Registration through our registration form.
+<tr style="height: 40px;">
+  <th colspan="9">Utrecht Zouk Summer Program</th>
+</tr>
+
+<tr>
+  <td>Mon</td>
+  <td>20 Jul</td>
+  <td><a href="/about#lisa">Lisa</a></td>
+  <td>19:30&#8209;21:00</td>
+  <td>Zouk Solo</td>
+  <td>Beginners&nbsp;2/ Intermediate</td>
+  <td>3x1.5h</td>
+  <td>€ 45</td>
+  <td>SalsaVentura: Sportcafé de Dreef
+  </td>
+</tr>
+
+<tr>
+  <td>Fri</td>
+  <td>31 Jul</td>
+  <td><a href="/about#lisa-and-marcos">Lisa & Marcos</a></td>
+  <td>19:00&#8209;20:30</td>
+  <td>Zouk Solo</td>
+  <td>Intermediate/ Advanced</td>
+  <td>4x1.5h</td>
+  <td>€ 60</td>
+  <td>Theaterhuis de Berenkuil</td>
+</tr>
+
+<tr>
+  <td>Fri</td>
+  <td>31 Jul</td>
+  <td><a href="/about#lisa-and-marcos">Lisa & Marcos</a></td>
+  <td>20:45&#8209;22:15</td>
+  <td>Zouk Solo</td>
+  <td>Intermediate/ Advanced</td>
+  <td>4x1.5h</td>
+  <td>€ 60</td>
+  <td>Theaterhuis de Berenkuil</td>
+</tr>
+
+<tr style="height: 40px">
+  <th colspan="9">Regular Studio Classes&#8209;September</th>
+</tr>
+
+<tr>
+  <td>Wed</td>
+  <td>TBD</td>
+  <td><a href="/about#lisa-and-marcos">Lisa & Marcos</a></td>
+  <td>TBD</td>
+  <td>Brazilian Zouk</td>
+  <td>Beginners&nbsp;2</td>
+  <td>3x1h</td>
+  <td>catch-up classes</td>
+  <td>SalsaVentura: Sportcafé de Dreef</td>
+</tr>
+
+<tr>
+  <td>Web</td>
+  <td>TBD</td>
+  <td><a href="/about#lisa-and-marcos">Lisa & Marcos</a></td>
+  <td>TBD</td>
+  <td>Brazilian Zouk</td>
+  <td>Intermediate</td>
+  <td>3x1h</td>
+  <td>catch-up classes</td>
+  <td>SalsaVentura: Sportcafé de Dreef</td>
+</tr>
+
+<tr>
+  <td>Fri</td>
+  <td>4 Sep</td>
+  <td><a href="/about#lisa-and-marcos">Lisa & Marcos</a></td>
+  <td>19:00&#8209;20:00</td>
+  <td>Brazilian Zouk</td>
+  <td>Zouk Solo Training</td>
+  <td>4x1h</td>
+  <td>€ 40</td>
+  <td>Theaterhuis de Berenkuil</td>
+</tr>
+
+<tr>
+  <td>Fri</td>
+  <td>4 Sep</td>
+  <td><a href="/about#lisa-and-marcos">Lisa & Marcos</a></td>
+  <td>20:15&#8209;21:15</td>
+  <td>Brazilian Zouk</td>
+  <td>Intermediate/ Advanced</td>
+  <td>4x1h</td>
+  <td>€ 40</td>
+  <td>Theaterhuis de Berenkuil</td>
+</tr>
+
+<tr>
+  <td>Fri</td>
+  <td>4 Sep</td>
+  <td><a href="/about#lisa-and-marcos">Lisa & Marcos</a></td>
+  <td>21:30&#8209;22:30</td>
+  <td>Brazilian Zouk</td>
+  <td>Advanced/ Intensive</td>
+  <td>4x1h</td>
+  <td>€ 40</td>
+  <td>Theaterhuis de Berenkuil</td>
+</tr>
+
+<tr style="height: 40px;">
+  <th colspan="9">Regular Studio Classes&#8209;October</th>
+</tr>
+
+<tr>
+  <td>Wed</td>
+  <td>TBD</td>
+  <td>Kirsten &amp; Jacques</td>
+  <td>TBD</td>
+  <td>Brazilian Zouk</td>
+  <td>Beginners&nbsp;1</td>
+  <td>TBD</td>
+  <td>TBD</td>
+  <td>SalsaVentura: Sportcafé de Dreef</td>
+</tr>
+
+<tr>
+  <td>Wed</td>
+  <td>TBD</td>
+  <td><a href="/about#lisa-and-marcos">Lisa & Marcos</a></td>
+  <td>TBD</td>
+  <td>Brazilian Zouk</td>
+  <td>Beginners&nbsp;3</td>
+  <td>TBD</td>
+  <td>TBD</td>
+  <td>SalsaVentura: Sportcafé de Dreef</td>
+</tr>
+
+<tr>
+  <td>Web</td>
+  <td>TBD</td>
+  <td><a href="/about#lisa-and-marcos">Lisa & Marcos</a></td>
+  <td>TBD</td>
+  <td>Brazilian Zouk</td>
+  <td>Intermediate</td>
+  <td>TBD</td>
+  <td>TBD</td>
+  <td>SalsaVentura: Sportcafé de Dreef</td>
+</tr>
+
+<tr>
+  <td>Fri</td>
+  <td>4 Sep</td>
+  <td><a href="/about#lisa-and-marcos">Lisa & Marcos</a></td>
+  <td>19:00&#8209;20:00 </td>
+  <td>Brazilian Zouk</td>
+  <td>Zouk Solo Training</td>
+  <td>4x1h</td>
+  <td>€ 40</td>
+  <td>Theaterhuis de Berenkuil</td>
+</tr>
+
+<tr>
+  <td>Fri</td>
+  <td>4 Sep</td>
+  <td><a href="/about#lisa-and-marcos">Lisa & Marcos</a></td>
+  <td>20:15&#8209;21:15</td>
+  <td>Brazilian Zouk</td>
+  <td>Intermediate/ Advanced</td>
+  <td>4x1h</td>
+  <td>€ 40</td>
+  <td>Theaterhuis de Berenkuil</td>
+</tr>
+
+<tr>
+  <td>Fri</td>
+  <td>4 Sep</td>
+  <td><a href="/about#lisa-and-marcos">Lisa & Marcos</a></td>
+  <td>21:30&#8209;22:30</td>
+  <td>Brazilian Zouk</td>
+  <td>Advanced/ Intensive</td>
+  <td>4x1h</td>
+  <td>€ 40</td>
+  <td>Theaterhuis de Berenkuil</td>
+</tr>
+
+</tbody>
+</table>
+
+Register using the location link at the bottom of the page.
+
+<img
+  style="max-width: 100%; max-height: 600px;"
+  src="/spelregels-voor-lessen-binnen.png"
+/>
+
+<br>
 
 <a
-  class="call-to-action"
-  href="/friday-registration">
-  ✓ bootcamp registration form
+  class="button"
+  href="/studio-classes-registration">
+  ✓ Register
 </a>
-
-## Zouk Workshops on Friday the 24<sup>th</sup>
-
-Key movement concepts
-focus on how to let your movement flow through your body
-while dancing and keeping your connection.
-Find what type of movement fits your body
-and how you can apply this in your Zouk dancing.
+for classes at Theaterhuis de Berenkuil.
 
 <a
-  class="call-to-action"
-  href="/workshop-registration">
-  ✓ workshop registration form
+  class="button"
+  href="http://www.salsaventura.nl/utrecht">
+  ✓ Register
 </a>
-
-## Regular Classes: January 31<sup>st</sup> [10 lessons]
-
-at [Theaterhuis de Berenkuil](https://deberenkuil.nl):
-- 19:00 Intensive Zouk Training (Invitation only)
-- 20:00 Zouk Fundamentals: Reverse Roles
-- 21:00 Zouk Intermediate / Advanced (Themes change each season)
-- 22:00-22:45 Free Practise Time / Social Dancing (except 2<sup>nd</sup> Friday of the month)
-
-Contact us about joining the Intensive Training,
-or register for Friday classes through our [registration form](/friday-registration).
-
-**Regular prices:**
-<dl>
-<dt>1 course</dt><dd>€110,-</dd>
-<dt>2 courses</dt><dd>€165,-</dd>
-<dt>3 courses</dt><dd>€220,-</dd>
-</dl>
-
-It is possible to be elligable for discount pricing;
-our only condition is for you to have paid before Friday January 24<sup>th</sup>.
-
-**Discount prices:**
-<dl>
-<dt>1 course</dt><dd>€100,-</dd>
-<dt>2 courses</dt><dd>€150,-</dd>
-<dt>3 courses</dt><dd>€200,-</dd>
-</dl>
-
-<a
-  class="call-to-action"
-  href="/friday-registration">
-  ✓ registration form
-</a>
-
-## Strippenkaarten
-Not able to join a complete course?
-It is possible to buy a ticket strip
-(strippenkaart)
-for 4 classes which can be used at any time.
-A strippenkaart costs €50,-.
-
-### Strippenkaart info:
-Please note that our Intensive Zouk Training is excluded.
-Fill in the registration form which class
-(Zouk Fundamentals; Reverse Roles or Zouk Intermediate/Advanced)
-you intend to join with your strippenkaart
-and transfer the total amount to our bank account.
-
-### Give us a weekly update:
-Let us know when you plan to join a class!
-We do our best to keep track of leader/follower ratio's.
-Because of this,
-we prefer to know you're planning to join but might cancel last minute,
-then the other way around.
-
-<a
-  class="call-to-action"
-  href="/friday-registration"> ✓ registration form </a>
-
-# Teachers: Lisa & Marcos
+for classes at SalsaVentura: Sportcafé de Dreef.
 

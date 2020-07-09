@@ -218,6 +218,18 @@ section.looming-notice {
   border-radius: 1em;
 }
 
+section.responsive-buttons {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+
+  a {
+    display: inline-block;
+    width: calc(50% - 1.5em);
+    text-align: center;
+  }
+}
+
 dl {
   dd, dt {
     display: inline-block;
@@ -225,7 +237,7 @@ dl {
   }
 }
 
-a.call-to-action {
+a.button, .buttons a {
   background: $brand-color;
   color: $background-color;
   border-radius: 4px;
@@ -233,4 +245,18 @@ a.call-to-action {
   height: 2em;
   line-height: 2em;
   padding: 0 0.5em;
+}
+
+table#schedule {
+  font-size: 0.6em;
+
+  th, td {
+    padding: 0.125em 0.5em;
+  }
+  th {
+    font-size: 1.2em;
+  }
+  tr &:last-child {
+    padding: 0;
+  }
 }
