@@ -37,12 +37,15 @@ to stay up to date!
 </section>
 
 ## Danceclasses
-Our current weekly Zouk Classes Schedule can be found here:
 
-<section class="responsive-buttons buttons">
-  <a href="/studio-classes"> Studio Classes </a>
-  <a href="/online-classes"> Online Classes </a>
-</section>
+<p>
+Our current weekly Zouk Classes Schedule can be found here:
+<a
+  class="button"
+  href="/studio-classes">
+  Studio Classes
+</a>
+</p>
 
 ![alt text](/international-zouk-day-2018.jpg "International Zouk Day Flashmob 2018")
 
