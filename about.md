@@ -100,7 +100,7 @@ seo:
     id='jacques-and-kirsten'
     height='160px'
     src='/jacques-and-kirsten.jpg'
-    style='object-position:50% 40%'
+    style='object-position:50% 27%'
     width='200px'
   />
   </picture>
