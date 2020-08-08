@@ -96,6 +96,30 @@ seo:
 <section class="palm-right">
   <picture>
   <img
+    alt='Jacques & Kirsten dancing Zouk'
+    id='jacques-and-kirsten'
+    height='160px'
+    src='/jacques-and-kirsten.jpg'
+    style='object-position:50% 40%'
+    width='200px'
+  />
+  </picture>
+  <h4>Jacques & Kirsten</h4>
+  <p>
+  Jacques & Kirsten met whilst taking Salsa lessons back in 2011 in the beautiful city of Vancouver,
+  Canada.
+  Since then,
+  they have explored a few different dances but eventually fell in love with Brazilian Zouk;
+  Drawn in by the diversity of musical genres to which Zouk can be danced to as well as its' colorful complexity.
+  They have been assisting the Utrecht Zouk community for the past years
+  and are now very excited to start teaching Beginner Zouk lessons in the fall of 2020.
+  <!-- <a href='' class='more'>read more</a> -->
+  </p>
+</section>
+
+<section class="palm-left">
+  <picture>
+  <img
     alt='Tim & Sascha dancing Zouk'
     id='tim-and-sascha'
     height='160px'
