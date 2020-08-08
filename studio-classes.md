@@ -23,7 +23,7 @@ Version 8<sup>th</sup> of August 2020
   <td>Dance</td>
   <td>Level</td>
   <td>Course</td>
-  <td>Price</td>
+  <td style="width:60px">Price</td>
   <td>Location</td>
 </tr>
 
