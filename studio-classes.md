@@ -68,18 +68,6 @@ Version 8<sup>th</sup> of August 2020
   <td>Theaterhuis de Berenkuil</td>
 </tr>
 
-<tr>
-  <td>Fri</td>
-  <td>10 Aug</td>
-  <td><a href="/about#lisa-and-marcos">Lisa</a></td>
-  <td>19:30&#8209;21:00</td>
-  <td>Zouk Solo</td>
-  <td>Beginners&nbsp;2/ Intermediate</td>
-  <td>3x1.5h</td>
-  <td>€ 45</td>
-  <td>SalsaVentura: Sportcafé de Dreef</td>
-</tr>
-
 <tr style="height: 40px">
   <th colspan="9">Regular Studio Classes&#8209;September</th>
 </tr>
