@@ -10,7 +10,7 @@ seo:
   type: Organization
 ---
 
-Version 8<sup>th</sup> of August 2020
+Version 17<sup>th</sup> of August 2020
 
 <table id="schedule">
 <tbody>
@@ -36,7 +36,7 @@ Version 8<sup>th</sup> of August 2020
   <td>20 Jul</td>
   <td><a href="/about#lisa">Lisa</a></td>
   <td>19:30&#8209;21:00</td>
-  <td>Zouk Solo</td>
+  <td>Solo</td>
   <td>Beginners&nbsp;2/ Intermediate</td>
   <td>3x1.5h</td>
   <td>€ 45</td>
@@ -49,7 +49,7 @@ Version 8<sup>th</sup> of August 2020
   <td>31 Jul</td>
   <td><a href="/about#lisa-and-marcos">Lisa & Marcos</a></td>
   <td>19:00&#8209;20:30</td>
-  <td>Zouk Solo</td>
+  <td>Solo</td>
   <td>Intermediate/ Advanced</td>
   <td>4x1.5h</td>
   <td>€ 60</td>
@@ -61,7 +61,7 @@ Version 8<sup>th</sup> of August 2020
   <td>31 Jul</td>
   <td><a href="/about#lisa-and-marcos">Lisa & Marcos</a></td>
   <td>20:45&#8209;22:15</td>
-  <td>Zouk Solo</td>
+  <td>Solo</td>
   <td>Intermediate/ Advanced</td>
   <td>4x1.5h</td>
   <td>€ 60</td>
@@ -77,10 +77,10 @@ Version 8<sup>th</sup> of August 2020
   <td>TBD</td>
   <td><a href="/about#lisa-and-marcos">Lisa & Marcos</a></td>
   <td>TBD</td>
-  <td>Brazilian Zouk</td>
-  <td>Beginners&nbsp;2</td>
+  <td>Zouk</td>
+  <td>Catch-up Beginners&nbsp;2</td>
   <td>3x1h</td>
-  <td>catch-up classes</td>
+  <td>&dash;</td>
   <td>SalsaVentura: Sportcafé de Dreef</td>
 </tr>
 
@@ -89,10 +89,10 @@ Version 8<sup>th</sup> of August 2020
   <td>TBD</td>
   <td><a href="/about#lisa-and-marcos">Lisa & Marcos</a></td>
   <td>TBD</td>
-  <td>Brazilian Zouk</td>
-  <td>Intermediate</td>
+  <td>Zouk</td>
+  <td>Catch-up Intermediate</td>
   <td>3x1h</td>
-  <td>catch-up classes</td>
+  <td>&dash;</td>
   <td>SalsaVentura: Sportcafé de Dreef</td>
 </tr>
 
@@ -100,11 +100,11 @@ Version 8<sup>th</sup> of August 2020
   <td>Fri</td>
   <td>4 Sep</td>
   <td><a href="/about#lisa-and-marcos">Lisa & Marcos</a></td>
-  <td>19:00&#8209;20:00</td>
-  <td>Brazilian Zouk</td>
-  <td>Zouk Solo Training</td>
-  <td>4x1h</td>
-  <td>€ 40</td>
+  <td>19:00&#8209;20:30</td>
+  <td>Zouk</td>
+  <td>Solo Technique</td>
+  <td>4x1.5h</td>
+  <td>€ 60</td>
   <td>Theaterhuis de Berenkuil</td>
 </tr>
 
@@ -112,23 +112,11 @@ Version 8<sup>th</sup> of August 2020
   <td>Fri</td>
   <td>4 Sep</td>
   <td><a href="/about#lisa-and-marcos">Lisa & Marcos</a></td>
-  <td>20:15&#8209;21:15</td>
-  <td>Brazilian Zouk</td>
+  <td>20:45&#8209;22:15</td>
+  <td>Zouk</td>
   <td>Intermediate/ Advanced</td>
-  <td>4x1h</td>
-  <td>€ 40</td>
-  <td>Theaterhuis de Berenkuil</td>
-</tr>
-
-<tr>
-  <td>Fri</td>
-  <td>4 Sep</td>
-  <td><a href="/about#lisa-and-marcos">Lisa & Marcos</a></td>
-  <td>21:30&#8209;22:30</td>
-  <td>Brazilian Zouk</td>
-  <td>Advanced/ Intensive</td>
-  <td>4x1h</td>
-  <td>€ 40</td>
+  <td>4x1.5h</td>
+  <td>€ 60</td>
   <td>Theaterhuis de Berenkuil</td>
 </tr>
 
@@ -141,7 +129,7 @@ Version 8<sup>th</sup> of August 2020
   <td>TBD</td>
   <td>Kirsten &amp; Jacques</td>
   <td>TBD</td>
-  <td>Brazilian Zouk</td>
+  <td>Zouk</td>
   <td>Beginners&nbsp;1</td>
   <td>TBD</td>
   <td>TBD</td>
@@ -153,7 +141,7 @@ Version 8<sup>th</sup> of August 2020
   <td>TBD</td>
   <td><a href="/about#lisa-and-marcos">Lisa & Marcos</a></td>
   <td>TBD</td>
-  <td>Brazilian Zouk</td>
+  <td>Zouk</td>
   <td>Beginners&nbsp;3</td>
   <td>TBD</td>
   <td>TBD</td>
@@ -165,7 +153,7 @@ Version 8<sup>th</sup> of August 2020
   <td>TBD</td>
   <td><a href="/about#lisa-and-marcos">Lisa & Marcos</a></td>
   <td>TBD</td>
-  <td>Brazilian Zouk</td>
+  <td>Zouk</td>
   <td>Intermediate</td>
   <td>TBD</td>
   <td>TBD</td>
@@ -174,37 +162,25 @@ Version 8<sup>th</sup> of August 2020
 
 <tr>
   <td>Fri</td>
-  <td>4 Sep</td>
+  <td>9 Oct</td>
   <td><a href="/about#lisa-and-marcos">Lisa & Marcos</a></td>
-  <td>19:00&#8209;20:00 </td>
-  <td>Brazilian Zouk</td>
-  <td>Zouk Solo Training</td>
-  <td>4x1h</td>
-  <td>€ 40</td>
+  <td>19:00&#8209;20:30</td>
+  <td>Zouk</td>
+  <td>Solo Technique</td>
+  <td>4x1.5h</td>
+  <td>€ 60</td>
   <td>Theaterhuis de Berenkuil</td>
 </tr>
 
 <tr>
   <td>Fri</td>
-  <td>4 Sep</td>
+  <td>9 Oct</td>
   <td><a href="/about#lisa-and-marcos">Lisa & Marcos</a></td>
-  <td>20:15&#8209;21:15</td>
-  <td>Brazilian Zouk</td>
+  <td>20:45&#8209;22:15</td>
+  <td>Zouk</td>
   <td>Intermediate/ Advanced</td>
-  <td>4x1h</td>
-  <td>€ 40</td>
-  <td>Theaterhuis de Berenkuil</td>
-</tr>
-
-<tr>
-  <td>Fri</td>
-  <td>4 Sep</td>
-  <td><a href="/about#lisa-and-marcos">Lisa & Marcos</a></td>
-  <td>21:30&#8209;22:30</td>
-  <td>Brazilian Zouk</td>
-  <td>Advanced/ Intensive</td>
-  <td>4x1h</td>
-  <td>€ 40</td>
+  <td>4x1.5h</td>
+  <td>€ 60</td>
   <td>Theaterhuis de Berenkuil</td>
 </tr>
 
