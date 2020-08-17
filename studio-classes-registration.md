@@ -10,11 +10,10 @@ seo:
 ---
 <iframe
   frameborder="0"
-  height="4000"
-  marginheight="0"
-  marginwidth="0"
-  src="https://docs.google.com/forms/d/e/1FAIpQLScMzQ1hHxh-rwi442bdPoTdtVEInOVs0R3NJG1CZGfRv34ZAQ/viewform?embedded=true"
+  height="1000"
+  id="ledenbeheer-content"
+  src="https://www.ledenbeheer.be/public/459278"
   width="100%"
->Laden…</iframe>
-
-
+>
+  Laden…
+</iframe>
