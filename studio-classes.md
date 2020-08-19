@@ -78,7 +78,7 @@ Version 17<sup>th</sup> of August 2020
   <td><a href="/about#lisa-and-marcos">Lisa & Marcos</a></td>
   <td>20:00&#8209;21:00</td>
   <td>Zouk</td>
-  <td>Catch-up Beginners&nbsp;2</td>
+  <td>Catch-up Beginners&nbsp;1</td>
   <td>3x1h</td>
   <td>&dash; / € 35</td>
   <td>SalsaVentura: Sportcafé de Dreef</td>
@@ -152,7 +152,7 @@ Version 17<sup>th</sup> of August 2020
   <td>Wed</td>
   <td>28 Oct</td>
   <td><a href="/about#jacques-and-kirsten">Jacques &amp; Kirsten</a></td>
-  <td>20:00&#8209;21:00</td>
+  <td>TBD</td>
   <td>Zouk</td>
   <td>Beginners&nbsp;1</td>
   <td>5x1h</td>
