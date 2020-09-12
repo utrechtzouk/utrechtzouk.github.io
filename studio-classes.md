@@ -10,7 +10,7 @@ seo:
   type: Organization
 ---
 
-Version 17<sup>th</sup> of August 2020
+Version 12<sup>th</sup> of September 2020
 
 <table id="schedule">
 <tbody>
@@ -27,47 +27,6 @@ Version 17<sup>th</sup> of August 2020
   <td>Location</td>
 </tr>
 
-<tr style="height: 40px;">
-  <th colspan="9">Utrecht Zouk Summer Program</th>
-</tr>
-
-<tr>
-  <td>Mon</td>
-  <td>20 Jul</td>
-  <td><a href="/about#lisa">Lisa</a></td>
-  <td>19:30&#8209;21:00</td>
-  <td>Solo</td>
-  <td>Beginners&nbsp;2/ Intermediate</td>
-  <td>3x1.5h</td>
-  <td>€ 45</td>
-  <td>SalsaVentura: Sportcafé de Dreef
-  </td>
-</tr>
-
-<tr>
-  <td>Fri</td>
-  <td>31 Jul</td>
-  <td><a href="/about#lisa-and-marcos">Lisa & Marcos</a></td>
-  <td>19:00&#8209;20:30</td>
-  <td>Solo</td>
-  <td>Intermediate/ Advanced</td>
-  <td>4x1.5h</td>
-  <td>€ 60</td>
-  <td>Theaterhuis de Berenkuil</td>
-</tr>
-
-<tr>
-  <td>Fri</td>
-  <td>31 Jul</td>
-  <td><a href="/about#lisa-and-marcos">Lisa & Marcos</a></td>
-  <td>20:45&#8209;22:15</td>
-  <td>Solo</td>
-  <td>Intermediate/ Advanced</td>
-  <td>4x1.5h</td>
-  <td>€ 60</td>
-  <td>Theaterhuis de Berenkuil</td>
-</tr>
-
 <tr style="height: 40px">
   <th colspan="9">Regular Studio Classes&#8209;September</th>
 </tr>
@@ -76,7 +35,7 @@ Version 17<sup>th</sup> of August 2020
   <td>Wed</td>
   <td>9 Sep</td>
   <td><a href="/about#lisa-and-marcos">Lisa & Marcos</a></td>
-  <td>20:00&#8209;21:00</td>
+  <td>20:30&#8209;21:30</td>
   <td>Zouk</td>
   <td>Catch-up Beginners&nbsp;1</td>
   <td>3x1h</td>
@@ -85,21 +44,9 @@ Version 17<sup>th</sup> of August 2020
 </tr>
 
 <tr>
-  <td>Web</td>
-  <td>9 Sep</td>
-  <td><a href="/about#lisa-and-marcos">Lisa & Marcos</a></td>
-  <td>21:00&#8209;22:00</td>
-  <td>Zouk</td>
-  <td>Catch-up Intermediate</td>
-  <td>3x1h</td>
-  <td>&dash; / € 35</td>
-  <td>SalsaVentura: Sportcafé de Dreef</td>
-</tr>
-
-<tr>
   <td>Fri</td>
   <td>4 Sep</td>
-  <td><a href="/about#lisa-and-marcos">Lisa & Marcos</a></td>
+  <td><a href="/about#lisa-and-marcos">Lisa</a></td>
   <td>19:00&#8209;20:30</td>
   <td>Zouk</td>
   <td>Solo Technique</td>
@@ -121,16 +68,80 @@ Version 17<sup>th</sup> of August 2020
 </tr>
 
 <tr style="height: 40px;">
+  <th colspan="9">Try-out Classes&#8209;September/October</th>
+</tr>
+
+<tr>
+  <td>Wed</td>
+  <td>30 Sep</td>
+  <td><a href="/about#jacques-and-kirsten">Kirsten&amp;Jacques</a></td>
+  <td>19:15&#8209;20:00</td>
+  <td>Zouk</td>
+  <td>Beginners&nbsp;1</td>
+  <td>45m</td>
+  <td>€ 2,-</td>
+  <td>SalsaVentura: Sportcafé de Dreef</td>
+</tr>
+
+<tr>
+  <td>Fri</td>
+  <td>30 Sep</td>
+  <td><a href="/about#lisa-and-marcos">Lisa</a></td>
+  <td>20:15&#8209;21:00</td>
+  <td>Zouk</td>
+  <td>Solo</td>
+  <td>45m</td>
+  <td>€ 2,-</td>
+  <td>SalsaVentura: Sportcafé de Dreef</td>
+</tr>
+
+<tr style="height: 40px;">
   <th colspan="9">Regular Studio Classes&#8209;October</th>
+</tr>
+
+<tr>
+  <td>Wed</td>
+  <td>7 Oct</td>
+  <td><a href="/about#jacques-and-kirsten">Kirsten & Jacques</a></td>
+  <td>19:00&#8209;20:00</td>
+  <td>Zouk</td>
+  <td>Beginners&nbsp;1</td>
+  <td>5x1h</td>
+  <td>€ 55</td>
+  <td>SalsaVentura: Sportcafé de Dreef</td>
+</tr>
+
+<tr>
+  <td>Wed</td>
+  <td>7 Oct</td>
+  <td><a href="/about#lisa-and-marcos">Lisa</a></td>
+  <td>20:15&#8209;21:00</td>
+  <td>Zouk</td>
+  <td>Solo Beg/Int</td>
+  <td>5x1h</td>
+  <td>€ 55</td>
+  <td>SalsaVentura: Sportcafé de Dreef</td>
+</tr>
+
+<tr>
+  <td>Wed</td>
+  <td>7 Oct</td>
+  <td><a href="/about#lisa-and-marcos">Lisa & Marcos</a></td>
+  <td>21:30&#8209;22:30</td>
+  <td>Zouk</td>
+  <td>Intermediate</td>
+  <td>5x1h</td>
+  <td>€ 55</td>
+  <td>SalsaVentura: Sportcafé de Dreef</td>
 </tr>
 
 <tr>
   <td>Fri</td>
   <td>9 Oct</td>
-  <td><a href="/about#lisa-and-marcos">Lisa & Marcos</a></td>
+  <td><a href="/about#lisa-and-marcos">Lisa</a></td>
   <td>19:00&#8209;20:30</td>
   <td>Zouk</td>
-  <td>Solo Technique</td>
+  <td>Solo Technique Int/Adv</td>
   <td>4x1.5h</td>
   <td>€ 60</td>
   <td>Theaterhuis de Berenkuil</td>
@@ -148,40 +159,68 @@ Version 17<sup>th</sup> of August 2020
   <td>Theaterhuis de Berenkuil</td>
 </tr>
 
+<tr style="height: 40px;">
+  <th colspan="9">Regular Studio Classes&#8209;November</th>
+</tr>
+
 <tr>
   <td>Wed</td>
-  <td>28 Oct</td>
+  <td>11 Nov</td>
   <td><a href="/about#jacques-and-kirsten">Jacques &amp; Kirsten</a></td>
-  <td>TBD</td>
+  <td>19:00&#8209;20:00</td>
   <td>Zouk</td>
   <td>Beginners&nbsp;1</td>
   <td>5x1h</td>
-  <td>TBD</td>
+  <td>€ 55</td>
   <td>SalsaVentura: Sportcafé de Dreef</td>
 </tr>
 
 <tr>
   <td>Wed</td>
-  <td>TBD</td>
-  <td><a href="/about#lisa-and-marcos">Lisa & Marcos</a></td>
-  <td>TBD</td>
+  <td>11 Nov</td>
+  <td><a href="/about#lisa-and-marcos">Lisa</a></td>
+  <td>20:15&#8209;21:15</td>
   <td>Zouk</td>
-  <td>Beginners&nbsp;3</td>
-  <td>TBD</td>
-  <td>TBD</td>
+  <td>Solo Beg/Int</td>
+  <td>5x1h</td>
+  <td>€ 55</td>
   <td>SalsaVentura: Sportcafé de Dreef</td>
 </tr>
 
 <tr>
-  <td>Web</td>
-  <td>TBD</td>
+  <td>Wed</td>
+  <td>11 Nov</td>
   <td><a href="/about#lisa-and-marcos">Lisa & Marcos</a></td>
-  <td>TBD</td>
+  <td>21:30&#8209;22:30</td>
   <td>Zouk</td>
   <td>Intermediate</td>
-  <td>TBD</td>
-  <td>TBD</td>
+  <td>5x1h</td>
+  <td>€ 55</td>
   <td>SalsaVentura: Sportcafé de Dreef</td>
+</tr>
+
+<tr>
+  <td>Fri</td>
+  <td>13 Nov</td>
+  <td><a href="/about#lisa-and-marcos">Lisa</a></td>
+  <td>19:00&#8209;20:30</td>
+  <td>Zouk</td>
+  <td>Solo Technique Int/Adv</td>
+  <td>4x1.5h</td>
+  <td>€ 60</td>
+  <td>Theaterhuis de Berenkuil</td>
+</tr>
+
+<tr>
+  <td>Fri</td>
+  <td>13 Nov</td>
+  <td><a href="/about#lisa-and-marcos">Lisa & Marcos</a></td>
+  <td>20:45&#8209;22:15</td>
+  <td>Zouk</td>
+  <td>Intermediate/ Advanced</td>
+  <td>4x1.5h</td>
+  <td>€ 60</td>
+  <td>Theaterhuis de Berenkuil</td>
 </tr>
 
 </tbody>
