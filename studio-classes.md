@@ -10,6 +10,15 @@ seo:
   type: Organization
 ---
 
+<section class="looming-notice">
+Due to ever changing COVID-19 measures Studio Classes will be postponed until further notice.
+<br>
+We hope you understand that we say this with a heavy heart while continuing to look forward to dancing all together soon in our Studios.
+<br>
+Please have a look at our Facebook Page to stay up to date
+</section>
+
+
 Version 12<sup>th</sup> of September 2020
 
 <table id="schedule">

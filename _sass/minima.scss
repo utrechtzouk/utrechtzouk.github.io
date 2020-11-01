@@ -208,14 +208,18 @@ section {
 }
 
 section.looming-notice {
-  font-size: 0.8em;
-  margin: 0 auto 2em auto;
   padding: 2em;
-  width: 30em;
-  background: rgba(255,255,255,1);
-  box-shadow: 1em 1em 1em #888888;
   border: 1px solid black;
-  border-radius: 1em;
+
+  @media (min-width: $on-palm) {
+    font-size: 0.8em;
+    margin: 0 auto 2em auto;
+    width: 30em;
+    background: rgba(255,255,255,1);
+    box-shadow: 1em 1em 1em #888888;
+    border: 1px solid black;
+    border-radius: 1em;
+  }
 }
 
 section.responsive-buttons {
