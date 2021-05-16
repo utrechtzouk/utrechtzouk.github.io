@@ -17,8 +17,7 @@ seo:
  ✨
 </section>
 
-Utrecht Zouk offers regular Brazilian Zouk dance classes in our regular dance studio at Theaterhuis de Berenkuil,
-and in collaboration with dance school SalsaVentura at Sportcafe de Dreef.
+Utrecht Zouk offers regular Brazilian Zouk dance classes in our regular dance studio at Theaterhuis de Berenkuil.
 Join our classes,
 workshops,
 and social dancing events!
