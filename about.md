@@ -112,7 +112,7 @@ seo:
   they have explored a few different dances but eventually fell in love with Brazilian Zouk;
   drawn in by the diversity of musical genres to which Zouk can be danced to as well as its' colorful complexity.
   They have been assisting the Utrecht Zouk community for the past years
-  and are now very excited to start teaching Beginner Zouk lessons in the fall of 2020.
+  and are now very excited to start teaching Beginner Zouk lessons.
   <!-- <a href='' class='more'>read more</a> -->
   </p>
 </section>
