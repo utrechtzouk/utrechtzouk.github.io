@@ -117,6 +117,30 @@ seo:
   </p>
 </section>
 
+<!--
+<section class="palm-left">
+  <picture>
+  <img
+    alt='Xanne'
+    id='Xanne'
+    height='160px'
+    src='/xanne.jpg'
+    style='object-position:50% 40%'
+    width='200px'
+  />
+  </picture>
+
+  <h4>Xanne</h4>
+  <p>
+  <br />
+  <br />
+  <br />
+  <br />
+  <br />
+  </p>
+</section>
+-->
+
 <section class="palm-left">
   <picture>
   <img
