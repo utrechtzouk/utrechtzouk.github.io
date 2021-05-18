@@ -108,8 +108,7 @@ seo:
   <p>
   Jacques & Kirsten met whilst taking Salsa lessons back in 2011 in the beautiful city of Vancouver,
   Canada.
-  Since then,
-  they have explored a few different dances but eventually fell in love with Brazilian Zouk;
+  They have explored different styles but eventually fell in love with Brazilian Zouk;
   drawn in by the diversity of musical genres to which Zouk can be danced to as well as its' colorful complexity.
   They have been assisting the Utrecht Zouk community for the past years
   and are now very excited to start teaching Beginner Zouk lessons.
@@ -117,7 +116,6 @@ seo:
   </p>
 </section>
 
-<!--
 <section class="palm-left">
   <picture>
   <img
@@ -125,23 +123,27 @@ seo:
     id='Xanne'
     height='160px'
     src='/xanne.jpg'
-    style='object-position:50% 40%'
+    style='object-position:50% 26%'
     width='200px'
   />
   </picture>
 
   <h4>Xanne</h4>
   <p>
-  <br />
-  <br />
-  <br />
-  <br />
-  <br />
+  Having studied contact improvisation,
+  performance art,
+  dance expression,
+  jazz,
+  contemporary dance,
+  and Argentinian tango;
+  she fell in love with Zouk and went to Rio de Janeiro for intensive training.
+  Adding Hatha & Ashtanga certification (studied in Nepal) to her repertoire,
+  she now helps others find joy & relaxation in connecting to their bodies,
+  through meditation, breath work, and dance expression.
   </p>
 </section>
--->
 
-<section class="palm-left">
+<section class="palm-right">
   <picture>
   <img
     alt='Tim & Sascha dancing Zouk'
@@ -157,14 +159,14 @@ seo:
   From the moment they met they started exploring their love for partner dance.
   From Dancing,
   to performing,
-  and teaching various dance styles such as:
+  and teaching various styles such as:
   Salsa,
   Bachata,
   Merengue,
   and Zouk.
   Having started a Zouk scene in Edmonton
-  and helped foster Zouk in West Canada at large,
-  they know what it takes to build a community.
+  and helped foster Zouk in West Canada,
+  they know how to build a community.
   All that experience is brought to nurture Utrecht Zouk,
   and their infectious energy helps provide a great space for learning
   during classes or one of their workshops in Holland or abroad.
