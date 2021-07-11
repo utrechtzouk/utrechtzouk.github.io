@@ -25,30 +25,6 @@ Version 16<sup>th</sup> of May 2020
   <td style="width:60px">Price</td>
 </tr>
 
-<tr style="height: 40px">
-  <th colspan="9">Practice Nights&#8209;June</th>
-</tr>
-
-<tr>
-  <td>Tue, 1 Jun</td>
-  <td><a href="/about#lisa-and-marcos">Lisa & Team</a></td>
-  <td>20:00&#8209;21:30</td>
-  <td>Zouk</td>
-  <td>Guided Practice Night I (Fixed Partner)</td>
-  <td>1x1.5h</td>
-  <td>€ 15</td>
-</tr>
-
-<tr>
-  <td>Fri, 11 Jun</td>
-  <td><a href="/about#lisa-and-marcos">Lisa & Team</a></td>
-  <td>20:00&#8209;21:30</td>
-  <td>Zouk</td>
-  <td>Guided Practice Night II (Fixed Partner)</td>
-  <td>1x1.5h</td>
-  <td>€ 15</td>
-</tr>
-
 <tr style="height: 40px;">
   <th colspan="9">Regular Studio Classes&#8209;June/July</th>
 </tr>
