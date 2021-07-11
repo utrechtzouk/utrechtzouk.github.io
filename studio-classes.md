@@ -10,7 +10,7 @@ seo:
   type: Organization
 ---
 
-Version 16<sup>th</sup> of May 2020
+Version 11<sup>th</sup> of July 2021
 
 <table id="schedule">
 <tbody>
