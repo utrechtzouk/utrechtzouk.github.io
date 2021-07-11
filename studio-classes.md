@@ -95,7 +95,7 @@ Version 11<sup>th</sup> of July 2021
 
 <tr>
   <td>Fri, 30 Jul</td>
-  <td><a href="/about#lisa-and-marcos">Lisa &amp; Team</a></td>
+  <td><a href="/about#jacques-and-kirsten">Kirsten & Jacques</a></td>
   <td>20:00&#8209;22:00</td>
   <td>Zouk</td>
   <td>Zouk Level 1 Bootcamp for 9 couples</td>
