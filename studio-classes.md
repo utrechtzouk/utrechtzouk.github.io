@@ -108,12 +108,12 @@ Version 11<sup>th</sup> of July 2021
 </tr>
 
 <tr>
-  <td>Tue, 3 Aug</td>
+  <td>Tue, 3 Aug**</td>
   <td><a href="/about#xanne">Xanne</a></td>
   <td>19:00&#8209;20:15</td>
   <td>Yoga</td>
   <td>Yoga for (12) Dancers</td>
-  <td>3x1.15h</td>
+  <td>3x1.15h**</td>
   <td>€ 35,-</td>
 </tr>
 
@@ -150,7 +150,8 @@ Version 11<sup>th</sup> of July 2021
 </tbody>
 </table>
 
-\* €17,50 when you do both.
+\* € 17,50 when you do both.
+\*\* On the 3rd, 10th, and 24th of August
 
 
 All our classes and events are hosted 
