@@ -151,6 +151,7 @@ Version 11<sup>th</sup> of July 2021
 </table>
 
 \* € 17,50 when you do both.
+
 \*\* On the 3rd, 10th, and 24th of August
 
 
