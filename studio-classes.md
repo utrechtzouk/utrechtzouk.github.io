@@ -69,8 +69,89 @@ Version 16<sup>th</sup> of May 2020
   <td>€ 45,-</td>
 </tr>
 
+<tr style="height: 40px;">
+  <th colspan="9">Regular Studio Classes&#8209;July</th>
+</tr>
+
+<tr>
+  <td>Fri, 23 Jul</td>
+  <td><a href="/about#xanne">Xanne</a></td>
+  <td>19:00&#8209;20:15</td>
+  <td>Yoga</td>
+  <td>Yoga for (12) Dancers workshop</td>
+  <td>1.15h</td>
+  <td>€ 10,-*</td>
+</tr>
+
+<tr>
+  <td>Fri, 23 Jul</td>
+  <td><a href="/about#lisa-and-marcos">Lisa &amp; Team</a></td>
+  <td>20:15&#8209;22:15</td>
+  <td>Zouk</td>
+  <td>Guided Practise Night for 9 couples</td>
+  <td>1.15h</td>
+  <td>€ 10,-*</td>
+</tr>
+
+<tr>
+  <td>Fri, 30 Jul</td>
+  <td><a href="/about#lisa-and-marcos">Lisa &amp; Team</a></td>
+  <td>20:00&#8209;22:00</td>
+  <td>Zouk</td>
+  <td>Zouk Level 1 Bootcamp for 9 couples</td>
+  <td>2h</td>
+  <td>€ 20,-</td>
+</tr>
+
+<tr style="height: 40px;">
+  <th colspan="9">Regular Studio Classes&#8209;August</th>
+</tr>
+
+<tr>
+  <td>Tue, 3 Aug</td>
+  <td><a href="/about#xanne">Xanne</a></td>
+  <td>19:00&#8209;20:15</td>
+  <td>Yoga</td>
+  <td>Yoga for (12) Dancers</td>
+  <td>3x1.15h</td>
+  <td>€ 35,-</td>
+</tr>
+
+<tr>
+  <td>Tue, 3 Aug</td>
+  <td><a href="/about#lisa-and-marcos">Lisa & Marcos</a></td>
+  <td>20:30&#8209;21:45</td>
+  <td>Zouk</td>
+  <td>Int/Adv (9 Fixed Couples)</td>
+  <td>4x1.15h</td>
+  <td>€ 60,-</td>
+</tr>
+
+<tr>
+  <td>Fri, 6 Aug</td>
+  <td><a href="/about#jacques-and-kirsten">Kirsten & Jacques</a></td>
+  <td>19:00&#8209;20:15</td>
+  <td>Zouk</td>
+  <td>Level 1 (9 Fixed Couples)</td>
+  <td>4x1.15h</td>
+  <td>€ 60,-</td>
+</tr>
+
+<tr>
+  <td>Fri, 6 Aug</td>
+  <td><a href="/about#lisa-and-marcos">Lisa & Steven</a></td>
+  <td>20:30&#8209;21:45</td>
+  <td>Zouk</td>
+  <td>Zouk Flashmob Training (9 Fixed Couples)</td>
+  <td>4x1.15h</td>
+  <td>€ 45,-</td>
+</tr>
+
 </tbody>
 </table>
+
+\* €17,50 when you do both.
+
 
 All our classes and events are hosted 
 <a href='https://goo.gl/maps/86Nr5hmZY3mu5sVP6'>@Theaterhuis de Berenkuil, Studio OOST</a>.
