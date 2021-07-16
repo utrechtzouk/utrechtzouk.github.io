@@ -8,6 +8,8 @@ title: Studio Classes
 seo:
   name: Brazilian Zouk classes at de Berenkuil
   type: Organization
+lang: en
+ref: studio-classes
 ---
 
 Version 11<sup>th</sup> of July 2021

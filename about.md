@@ -6,9 +6,11 @@ description: "These are the people that help provide our regular classes, relaxe
 seo:
   name: Utrecht Brazilian Zouk
   type: Organization
+lang: en
+ref: about
 ---
 
-# Welkom to Utrecht Zouk!
+# Welcome to Utrecht Zouk!
 <section>
   <p>
   These are the people behind Utrecht Zouk.

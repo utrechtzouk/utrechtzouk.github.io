@@ -1,0 +1,33 @@
+en:
+  home:
+    name: Home
+    url: /
+  studio-classes:
+    name: Studio Classes
+    url: /studio-classes/
+  online-classes:
+    name: Online Classes
+    url: /online-classes/
+  calendar:
+    name: Calendar
+    url: /calendar/
+  about:
+    name: About
+    url: /about/
+
+nl:
+  home:
+    name: Welkom
+    url: /nl
+  studio-classes:
+    name: Studio Lessen
+    url: /studio-classes/
+  online-classes:
+    name: Online Lessen
+    url: /online-classes/
+  calendar:
+    name: Calendar
+    url: /calendar/
+  about:
+    name: Over ons
+    url: /about/

@@ -8,6 +8,8 @@ description: "Join our classes, workshops, and social dancing events! We help gr
 seo:
   name: Utrecht Brazilian Zouk
   type: Organization
+lang: en
+ref: home
 ---
 
 <section class="looming-notice">

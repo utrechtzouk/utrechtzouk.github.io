@@ -264,3 +264,13 @@ table#schedule {
     padding: 0;
   }
 }
+
+.en:lang(en), .nl:lang(nl) {
+  font-weight: bold;
+}
+
+.language-switcher {
+  position: absolute;
+  right: 2em;
+  top: 8px;
+}

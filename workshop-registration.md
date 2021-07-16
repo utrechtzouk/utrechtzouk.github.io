@@ -3,10 +3,12 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-permalink: /workshop-registration/
+permalink: /studio-classes-registration/
 title: ""
 seo:
   name: Brazilian Zouk bootcamp registration form
+lang: en
+ref: studio-classes-registration
 ---
 <iframe
   frameborder="0"

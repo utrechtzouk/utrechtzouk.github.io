@@ -1,6 +1,6 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+# feel free to add content and custom front matter to this file.
+# to modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
 title: "Calendar"
@@ -8,8 +8,9 @@ permalink: /calendar/
 description: "Our shared calendar with all Utrecht Zouk & friends events"
 seo:
   name: All Utrecht Zouk Events
+lang: en
+ref: calendar
 ---
-
 
 Keep up to date with Utrecht Zouk events by subscribing to our calendar:
 <iframe

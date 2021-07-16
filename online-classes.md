@@ -8,6 +8,8 @@ title: Online Classes
 seo:
   name: Brazilian Zouk Online Classes
   type: Organization
+lang: en
+ref: online-classes
 ---
 
 We do not provide online classes for now.
