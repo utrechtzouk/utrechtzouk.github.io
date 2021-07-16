@@ -3,7 +3,7 @@ layout: home
 title: "Welkom bij Utrecht Zouk Dansschool"
 description: "Doe mee met onze lessen, workshops, and social dansevenementen! Wij helpen groeien en ondersteunen de Braziliaanse Zouk community in en rond Utrecht."
 seo:
-  name: Utrecht Braziliaanse Zouk
+  name: Utrecht Zouk - Braziliaanse Zouk
   type: Organisatie
 lang: nl
 ref: home
@@ -16,7 +16,7 @@ ref: home
  ✨
 </section>
 
-Utrecht Zouk biedt Braziliaanse Zouk danslessen aan in de prachtige studio in Theaterhuis de Berenkuil.
+Utrecht Zouk is een dansschool en community waar je Braziliaanse Zouk danslessen kunt volgen in onze prachtige studio in Theaterhuis de Berenkuil.
 Doe mee met onze lessen,
 workshops,
 en social dans evenementen!
