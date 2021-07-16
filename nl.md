@@ -1,7 +1,7 @@
 ---
 layout: home
 title: "Welkom bij Utrecht Zouk Dansschool"
-description: "Doe mee met onze lessen, workshops, and social dansevenementen! Wij helpen groeien en ondersteunen de Braziliaanse Zouk community in en rond Utrecht."
+description: "Doe mee met onze lessen, workshops, and sociale dansevenementen! Wij helpen groeien en ondersteunen de Braziliaanse Zouk community in en rond Utrecht."
 seo:
   name: Utrecht Zouk - Braziliaanse Zouk
   type: Organisatie
@@ -19,9 +19,9 @@ ref: home
 Utrecht Zouk is een dansschool en community waar je Braziliaanse Zouk danslessen kunt volgen in onze prachtige studio in Theaterhuis de Berenkuil.
 Doe mee met onze lessen,
 workshops,
-en social dans evenementen!
+en sociale dans evenementen!
 Om te zorgen dat de Braziliaanse Zouk community in en rond Utrecht groeit,
-organiseren & promoten we social dans evenementen,
+organiseren & promoten we evenementen,
 workshops,
 en andere activiteiten.
 Bekijk onze kalender,
@@ -44,7 +44,7 @@ om op de hoogte te blijven!
 ## Danslessen
 
 <p>
-Ons huidige weekelijkse Zouk Les schema kan je hier vinden:
+Ons huidige wekelijkse Zouk Les schema kan je hier vinden:
 <a
   class="button"
   href="/studio-classes">
@@ -57,10 +57,8 @@ Ons huidige weekelijkse Zouk Les schema kan je hier vinden:
 ## Wat is Braziliaanse Zouk?
 Braziliaanse Zouk is een partner dans uit Brazilië.
 De dans is een afstammeling van de lambada,
-the muziek & dans stijl die de wereld over vloog in 1980.
-Braziliaanse Zouk
-continue
-Braziliaanse Zouk wordt gekenmerkt door de continue vloeiende bewegingen en het golvende haar van de dames.
+de muziek & dans stijl die de wereld over vloog in 1980.
+Braziliaanse Zouk wordt gekenmerkt door de vloeiende bewegingen en het golvende haar van de dames.
 Je ziet vaak een hechte band/omhelzing,
 lange sierlijke stappen,
 sterke heupbewegingen,
