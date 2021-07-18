@@ -7,6 +7,8 @@ permalink: /studio-classes-registration/
 title: ""
 seo:
   name: Brazilian Zouk registration form
+lang: en
+ref: studio-classes-registration
 ---
 <iframe
   frameborder="0"
