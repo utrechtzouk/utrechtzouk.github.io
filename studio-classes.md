@@ -38,7 +38,7 @@ Version 29<sup>th</sup> of August 2021
   <td>Zouk</td>
   <td>Bootcamp - Level 1</td>
   <td>3h</td>
-  <td>€30,-&ast;</td>
+  <td>€ 30,-&ast;</td>
 </tr>
 
 <tr>
