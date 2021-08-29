@@ -32,6 +32,16 @@ Version 29<sup>th</sup> of August 2021
 </tr>
 
 <tr>
+  <td>Fr, 10 Sept</td>
+  <td><a href="/about#lisa-and-marcos">Lisa & Jacques</a></td>
+  <td>19:00&#8209;22:00</td>
+  <td>Zouk</td>
+  <td>Bootcamp - Level 1</td>
+  <td>3h</td>
+  <td>€30,-&ast;</td>
+</tr>
+
+<tr>
   <td>Tue, 14 Sept</td>
   <td><a href="/about#lisa-and-marcos">Lisa &amp; Team</a></td>
   <td>19:30&#8209;22:00</td>
@@ -48,7 +58,7 @@ Version 29<sup>th</sup> of August 2021
   <td>Yoga</td>
   <td>Yoga for Dancers</td>
   <td>4x1.15h</td>
-  <td>€ 45,-</td>
+  <td>€ 45,-&ast;</td>
 </tr>
 
 <tr>
@@ -58,17 +68,7 @@ Version 29<sup>th</sup> of August 2021
   <td>Zouk</td>
   <td>Int/Adv (Fixed Partner)</td>
   <td>4x1.15h</td>
-  <td>€ 60,-</td>
-</tr>
-
-<tr>
-  <td>Fr, 10 Sept</td>
-  <td><a href="/about#lisa-and-marcos">Lisa & Jacques</a></td>
-  <td>19:00&#8209;22:00</td>
-  <td>Zouk</td>
-  <td>Bootcamp - Level 1</td>
-  <td>3h</td>
-  <td>€25,-/€30,-</td>
+  <td>€ 60,-&ast;</td>
 </tr>
 
 <tr>
@@ -78,7 +78,7 @@ Version 29<sup>th</sup> of August 2021
   <td>Zouk</td>
   <td>Zouk - Level 2 (part I)</td>
   <td>4x1.15h</td>
-  <td>€ 60,-</td>
+  <td>€ 60,-&ast;</td>
 </tr>
 
 <tr>
@@ -88,12 +88,15 @@ Version 29<sup>th</sup> of August 2021
   <td>Zouk</td>
   <td>Zouk - Level 1 (part I)</td>
   <td>4x1.15h</td>
-  <td>€ 60,-</td>
+  <td>€ 60,-&ast;</td>
 </tr>
 
 </tbody>
 </table>
 
+*
+Early Bird discount.
+Pay 8 days before classes start to get € 5,- off!
 
 All our classes and events are hosted 
 <a href='https://goo.gl/maps/86Nr5hmZY3mu5sVP6'>@Theaterhuis de Berenkuil, Studio OOST</a>.
