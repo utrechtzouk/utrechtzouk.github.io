@@ -4,7 +4,8 @@
 
 layout: home
 permalink: /studio-classes/
-title: Studio Classes
+title: "Utrecht Zouk - Studio Classes"
+description: "Check our class schedule, and come dance with us!"
 seo:
   name: Brazilian Zouk classes at de Berenkuil
   type: Organization
