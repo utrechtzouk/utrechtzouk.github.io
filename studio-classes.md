@@ -103,6 +103,15 @@ Version 29<sup>th</sup> of August 2021
 
 <tr>
   <td>Fri, 5 Nov</td>
+  <td><a href="/about#lisa-and-marcos">Lisa & Jacques</a></td>
+  <td>19:00&#8209;20:15</td>
+  <td>Zouk - Level 2 (part II)</td>
+  <td>6x1.15h</td>
+  <td>€ 90,-&ast;&ast;</td>
+</tr>
+
+<tr>
+  <td>Fri, 5 Nov</td>
   <td><a href="/about#lisa-and-marcos">Lisa & Steven</a></td>
   <td>20:30&#8209;21:45</td>
   <td>Zouk - Level 1 (part II)</td>
