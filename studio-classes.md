@@ -84,21 +84,21 @@ Version 29<sup>th</sup> of August 2021
 </tr>
 
 <tr>
-  <td>Tue, 2 Nov</td>
-  <td><a href="/about#lisa-and-marcos">Lisa & Marcos</a></td>
-  <td>20:30&#8209;21:45</td>
-  <td>Zouk - Advanced</td>
-  <td>6x1.15h</td>
-  <td>€ 90,-&ast;&ast;</td>
-</tr>
-
-<tr>
   <td>Tue, 16 Nov</td>
   <td><a href="/about#xanne">Xanne</a></td>
   <td>19:00&#8209;20:15</td>
   <td>Yoga for Dancers / Dance Expression</td>
   <td>4x1.15h</td>
   <td>€ 45,-&ast;</td>
+</tr>
+
+<tr>
+  <td>Tue, 2 Nov</td>
+  <td><a href="/about#lisa-and-marcos">Lisa & Marcos</a></td>
+  <td>20:30&#8209;21:45</td>
+  <td>Zouk - Advanced</td>
+  <td>6x1.15h</td>
+  <td>€ 90,-&ast;&ast;</td>
 </tr>
 
 <tr>
