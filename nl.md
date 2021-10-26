@@ -9,13 +9,6 @@ lang: nl
 ref: home
 ---
 
-<section class="looming-notice">
- ✨
- Na zes maanden pandemie hiatus,
- pakken we de lessen weer op!
- ✨
-</section>
-
 Utrecht Zouk is een dansschool en community waar je Braziliaanse Zouk danslessen kunt volgen in onze prachtige studio in Theaterhuis de Berenkuil.
 Doe mee met onze lessen,
 workshops,

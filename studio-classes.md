@@ -129,26 +129,24 @@ Early Bird discounts; Pay 8 days before classes start to get:
 <br/>
 \*\* € 10,- off!
 
-All our classes and events are hosted 
+All our classes and events are hosted
 <a href='https://goo.gl/maps/86Nr5hmZY3mu5sVP6'>@Theaterhuis de Berenkuil, Studio OOST</a>.
 We hope to see you there soon! Register using the link below.
 
-Please
 <a
+  class="button"
+  target="_blank"
+  href="https://www.ledenbeheer.be/public/459278">
+  ✓ Register
+</a>
+for classes at Theaterhuis de Berenkuil.
+
+We are following guidelines provided by RIVM & Dans Protocol NL.
+Please <a
+  target="_blank"
   href="https://docs.google.com/document/d/1M01lk91xgPNstD6FhEM4-3evL38TLtbF3deaKW2QWkw/edit?usp=sharing">
   read our COVID-19 guidelines
 </a>
 before registering for any Utrecht Zouk course.
 We count on everyone to help keep Utrecht Zouk a safe space to enjoy Brazilian Zouk.
-
-<a
-  class="button"
-  href="/studio-classes-registration">
-  ✓ Register
-</a>
-for classes at Theaterhuis de Berenkuil.
-
-<img
-  style="max-width: 100%; max-height: 600px;"
-  src="/spelregels-voor-lessen-binnen.png"
-/>
+</section>

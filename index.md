@@ -12,13 +12,6 @@ lang: en
 ref: home
 ---
 
-<section class="looming-notice">
- ✨
- After a six month pandemic induced hiatus,
- our classes begin anew!
- ✨
-</section>
-
 Utrecht Zouk offers regular Brazilian Zouk dance classes in our regular dance studio at Theaterhuis de Berenkuil.
 Join our classes,
 workshops,
