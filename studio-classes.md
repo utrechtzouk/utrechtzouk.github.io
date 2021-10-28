@@ -149,4 +149,3 @@ Please <a
 </a>
 before registering for any Utrecht Zouk course.
 We count on everyone to help keep Utrecht Zouk a safe space to enjoy Brazilian Zouk.
-</section>
