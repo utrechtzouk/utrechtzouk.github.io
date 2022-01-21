@@ -68,8 +68,8 @@ Version 20<sup>th</sup> of January 2022
   <td>Fri, 28 Jan</td>
   <td><a href="/about#lisa-and-marcos">Lisa & Marcos</a></td>
   <td>19:00&#8209;21:00</td>
-  <td>Zouk Workshop Int/Adv - theme to be announced</td>
-  <td>3h</td>
+  <td>Zouk Workshop Int/Adv - Dives & Aeroplanes</td>
+  <td>2h</td>
   <td>€ 25,-</td>
 </tr>
 
@@ -90,9 +90,9 @@ Version 20<sup>th</sup> of January 2022
 <tr>
   <td>Fri, 11 Feb</td>
   <td><a href="/about#lisa-and-marcos">Lisa & Steven</a></td>
-  <td>19:00&#8209;22:00</td>
+  <td>19:00&#8209;21:00</td>
   <td>Zouk Bootcamp - Level 1</td>
-  <td>3h</td>
+  <td>2h</td>
   <td>€ 25,-</td>
 </tr>
 
