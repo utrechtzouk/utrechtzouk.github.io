@@ -38,33 +38,6 @@ Version 20<sup>th</sup> of January 2022
 </tr>
 
 <tr>
-  <td>Tue, 25 Jan</td>
-  <td><a href="/about#lisa-and-marcos">Lisa & Steven</a></td>
-  <td>19:00&#8209;20:00</td>
-  <td>Zouk level 1/2 - catch-up</td>
-  <td>2x1h</td>
-  <td>contact us</td>
-</tr>
-
-<tr>
-  <td>Tue, 25 Jan</td>
-  <td><a href="/about#xanne">Xanne</a></td>
-  <td>20:00&#8209;21:00</td>
-  <td>Yoga for Dancers / Dance Expression - catch-up</td>
-  <td>2x1h</td>
-  <td>contact us</td>
-</tr>
-
-<tr>
-  <td>Tue, 25 Jan</td>
-  <td><a href="/about#lisa-and-marcos">Lisa & Marcos</a></td>
-  <td>21:00&#8209;22:00</td>
-  <td>Zouk - Advanced - catch-up</td>
-  <td>2x1h</td>
-  <td>contact us</td>
-</tr>
-
-<tr>
   <td>Fri, 28 Jan</td>
   <td><a href="/about#lisa-and-marcos">Lisa & Marcos</a></td>
   <td>19:00&#8209;21:00</td>
@@ -77,14 +50,31 @@ Version 20<sup>th</sup> of January 2022
 <tr style="height: 40px;">
   <th colspan="9">Regular Studio Classes&#8209;February</th>
 </tr>
+<tr>
+  <td>Tue, 1 Feb</td>
+  <td><a href="/about#lisa-and-marcos">Lisa & Steven</a></td>
+  <td>19:00&#8209;20:00</td>
+  <td>Zouk level 1/2 - catch-up</td>
+  <td>2x1h</td>
+  <td>contact us</td>
+</tr>
 
 <tr>
-  <td>Tue, 8 Feb</td>
+  <td>Tue, 1 Feb</td>
+  <td><a href="/about#xanne">Xanne</a></td>
+  <td>20:00&#8209;21:00</td>
+  <td>Yoga for Dancers / Dance Expression - catch-up</td>
+  <td>2x1h</td>
+  <td>contact us</td>
+</tr>
+
+<tr>
+  <td>Tue, 1 Feb</td>
   <td><a href="/about#lisa-and-marcos">Lisa & Marcos</a></td>
-  <td>19:00&#8209;22:00</td>
-  <td>Zouk Bootcamp - Level 2</td>
-  <td>3h</td>
-  <td>€ 30,-</td>
+  <td>21:00&#8209;22:00</td>
+  <td>Zouk - Advanced - catch-up</td>
+  <td>2x1h</td>
+  <td>contact us</td>
 </tr>
 
 <tr>
