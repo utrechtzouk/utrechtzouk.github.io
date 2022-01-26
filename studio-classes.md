@@ -37,15 +37,6 @@ Version 20<sup>th</sup> of January 2022
   <th colspan="9">Regular Studio Classes&#8209;January</th>
 </tr>
 
-<tr>
-  <td>Fri, 28 Jan</td>
-  <td><a href="/about#lisa-and-marcos">Lisa & Marcos</a></td>
-  <td>19:00&#8209;21:00</td>
-  <td>Zouk Workshop Int/Adv - Dives & Aeroplanes</td>
-  <td>2h</td>
-  <td>€ 25,-</td>
-</tr>
-
 
 <tr style="height: 40px;">
   <th colspan="9">Regular Studio Classes&#8209;February</th>
