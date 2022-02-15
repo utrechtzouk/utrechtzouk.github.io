@@ -13,7 +13,7 @@ lang: en
 ref: studio-classes
 ---
 
-Version 20<sup>th</sup> of January 2022
+Version 15<sup>th</sup> of February 2022
 
 <section class="looming-notice">
     Please take note we had to adapt our class-schedule.
@@ -34,13 +34,9 @@ Version 20<sup>th</sup> of January 2022
 </tr>
 
 <tr style="height: 40px;">
-  <th colspan="9">Regular Studio Classes&#8209;January</th>
-</tr>
-
-
-<tr style="height: 40px;">
   <th colspan="9">Regular Studio Classes&#8209;February</th>
 </tr>
+
 <tr>
   <td>Tue, 1 Feb</td>
   <td><a href="/about#lisa-and-marcos">Lisa & Steven</a></td>
@@ -79,15 +75,6 @@ Version 20<sup>th</sup> of January 2022
 
 <tr>
   <td>Tue, 15 Feb</td>
-  <td><a href="/about#xanne">Xanne</a></td>
-  <td>19:00&#8209;20:15</td>
-  <td>Yoga for Dancers / Dance Expression</td>
-  <td>8x1.15h</td>
-  <td>€ 80,-&ast;&ast;</td>
-</tr>
-
-<tr>
-  <td>Tue, 15 Feb</td>
   <td><a href="/about#lisa-and-marcos">Lisa & Marcos</a></td>
   <td>20:30&#8209;22:00</td>
   <td>Zouk Advanced</td>
@@ -120,6 +107,19 @@ Version 20<sup>th</sup> of January 2022
   <td>Zouk Level 3 - Isolations & Undulations</td>
   <td>8x1h</td>
   <td>€ 100,-&ast;&ast;</td>
+</tr>
+
+<tr style="height: 40px;">
+  <th colspan="9">Regular Studio Classes&#8209;March</th>
+</tr>
+
+<tr>
+  <td>Tue, 1 Mar</td>
+  <td><a href="/about#xanne">Xanne</a></td>
+  <td>19:00&#8209;20:15</td>
+  <td>Yoga for Dancers / Dance Expression</td>
+  <td>5x1.15h</td>
+  <td>€ 60,-&ast;&ast;</td>
 </tr>
 
 </tbody>
