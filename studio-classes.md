@@ -117,7 +117,7 @@ Version 15<sup>th</sup> of February 2022
   <td>Tue, 1 Mar</td>
   <td><a href="/about#xanne">Xanne</a></td>
   <td>19:00&#8209;20:15</td>
-  <td>Yoga for Dancers / Dance Expression</td>
+  <td>Flow & Connection for Partner Dance</td>
   <td>5x1.15h</td>
   <td>€ 60,-&ast;&ast;</td>
 </tr>
