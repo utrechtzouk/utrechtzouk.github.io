@@ -113,7 +113,7 @@ ref: about
   kungfu,
   breakdance,
   contact-improv,
-  and ecstatic into Zouk;
+  and ecstatic dance into Zouk;
   and bringing all these different aspects together with contact and connection,
   he brings an integrated Zouk Teaching.
   He loves sharing his journey in dance and dancing this journey together.
