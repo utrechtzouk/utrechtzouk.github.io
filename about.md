@@ -25,7 +25,7 @@ ref: about
   </p>
 </section>
 
-<section>
+<section class="palm-left">
   <picture>
   <img
     alt='Lisa Denise van der Plaats wearing a Zouk baseball cap' 
@@ -55,7 +55,7 @@ ref: about
   </p>
 </section>
 
-<section>
+<section class="palm-right">
   <picture>
   <img
     alt='Marcos Hudson Alves Soares'
@@ -98,23 +98,25 @@ ref: about
 <section class="palm-right">
   <picture>
   <img
-    alt='Jacques & Kirsten dancing Zouk'
-    id='jacques-and-kirsten'
+    alt='Steven Weller Love/Zouk baseball cap' 
+    id='steven'
     height='160px'
-    src='/jacques-and-kirsten.jpg'
-    style='object-position:50% 27%'
+    src='/steven-weller.jpg'
+    style='object-position:50% 37%'
     width='200px'
-  />
+    />
   </picture>
-  <h4>Jacques & Kirsten</h4>
+  <h4>Steven Weller</h4>
   <p>
-  Jacques & Kirsten met whilst taking Salsa lessons back in 2011 in the beautiful city of Vancouver,
-  Canada.
-  They have explored different styles but eventually fell in love with Brazilian Zouk;
-  drawn in by the diversity of musical genres to which Zouk can be danced to as well as its' colorful complexity.
-  They have been assisting the Utrecht Zouk community for the past years
-  and are now very excited to start teaching Beginner Zouk lessons.
-  <!-- <a href='' class='more'>read more</a> -->
+  He breathes movement.
+  By bundling his background in gymnastics,
+  kungfu,
+  breakdance,
+  contact-improv,
+  and ecstatic into Zouk;
+  and bringing all these different aspects together with contact and connection,
+  he brings an integrated Zouk Teaching.
+  He loves sharing his journey in dance and dancing this journey together.
   </p>
 </section>
 
@@ -142,6 +144,29 @@ ref: about
   Adding Hatha & Ashtanga certification (studied in Nepal) to her repertoire,
   she now helps others find joy & relaxation in connecting to their bodies,
   through meditation, breath work, and dance expression.
+  </p>
+</section>
+
+<section class="palm-right">
+  <picture>
+  <img
+    alt='Jacques & Kirsten dancing Zouk'
+    id='jacques-and-kirsten'
+    height='160px'
+    src='/jacques-and-kirsten.jpg'
+    style='object-position:50% 27%'
+    width='200px'
+  />
+  </picture>
+  <h4>Jacques & Kirsten</h4>
+  <p>
+  Jacques & Kirsten met whilst taking Salsa lessons back in 2011 in the beautiful city of Vancouver,
+  Canada.
+  They have explored different styles but eventually fell in love with Brazilian Zouk;
+  drawn in by the diversity of musical genres to which Zouk can be danced to as well as its' colorful complexity.
+  They have been assisting the Utrecht Zouk community for the past years
+  and are now very excited to start teaching Beginner Zouk lessons.
+  <!-- <a href='' class='more'>read more</a> -->
   </p>
 </section>
 

@@ -13,13 +13,7 @@ lang: en
 ref: studio-classes
 ---
 
-Version 15<sup>th</sup> of February 2022
-
-<section class="looming-notice">
-    Please take note we had to adapt our class-schedule.
-    <br>
-    For the forseeble future we require a valid COVID QR code to enter the studio.
-</section>
+Version 12<sup>th</sup> of March 2022
 
 <table id="schedule">
 <tbody>
@@ -35,42 +29,6 @@ Version 15<sup>th</sup> of February 2022
 
 <tr style="height: 40px;">
   <th colspan="9">Regular Studio Classes&#8209;February</th>
-</tr>
-
-<tr>
-  <td>Tue, 1 Feb</td>
-  <td><a href="/about#lisa-and-marcos">Lisa & Steven</a></td>
-  <td>19:00&#8209;20:00</td>
-  <td>Zouk level 1/2 - catch-up</td>
-  <td>2x1h</td>
-  <td>contact us</td>
-</tr>
-
-<tr>
-  <td>Tue, 1 Feb</td>
-  <td><a href="/about#xanne">Xanne</a></td>
-  <td>20:00&#8209;21:00</td>
-  <td>Yoga for Dancers / Dance Expression - catch-up</td>
-  <td>2x1h</td>
-  <td>contact us</td>
-</tr>
-
-<tr>
-  <td>Tue, 1 Feb</td>
-  <td><a href="/about#lisa-and-marcos">Lisa & Marcos</a></td>
-  <td>21:00&#8209;22:00</td>
-  <td>Zouk - Advanced - catch-up</td>
-  <td>2x1h</td>
-  <td>contact us</td>
-</tr>
-
-<tr>
-  <td>Fri, 11 Feb</td>
-  <td><a href="/about#lisa-and-marcos">Lisa & Steven</a></td>
-  <td>19:00&#8209;21:00</td>
-  <td>Zouk Bootcamp - Level 1</td>
-  <td>2h</td>
-  <td>€ 25,-</td>
 </tr>
 
 <tr>
