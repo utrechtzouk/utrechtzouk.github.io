@@ -29,7 +29,7 @@ ref: about
   <picture>
   <img
     alt='Lisa Denise van der Plaats wearing a Zouk baseball cap' 
-    id='lisa lisa-and-marcos'
+    id='lisa'
     height='160px'
     src='/lisa-denise-van-der-plaats.jpg'
     style='object-position:50% 46%'

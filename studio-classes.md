@@ -33,7 +33,11 @@ Version 3<sup>rd</sup> of April 2022
 
 <tr>
   <td>Tue, 15 Feb</td>
-  <td><a href="/about#lisa-and-marcos">Lisa & Marcos</a></td>
+  <td>
+    <a href="/about#lisa">Lisa</a>
+    &
+    <a href="/about#marcos">Marcos</a>
+  </td>
   <td>20:30&#8209;22:00</td>
   <td>Zouk Advanced</td>
   <td>8x1.5h</td>
@@ -42,7 +46,11 @@ Version 3<sup>rd</sup> of April 2022
 
 <tr>
   <td>Fri, 18 Feb</td>
-  <td><a href="/about#lisa-and-marcos">Lisa & Steven</a></td>
+  <td>
+    <a href="/about#lisa">Lisa</a>
+    &
+    <a href="/about#steven">Steven</a>
+  </td>
   <td>19:00&#8209;20:00</td>
   <td>Zouk Level 1</td>
   <td>8x1h</td>
@@ -51,7 +59,11 @@ Version 3<sup>rd</sup> of April 2022
 
 <tr>
   <td>Fri, 18 Feb</td>
-  <td><a href="/about#lisa-and-marcos">Lisa & Steven</a></td>
+  <td>
+    <a href="/about#lisa">Lisa</a>
+    &
+    <a href="/about#steven">Steven</a>
+  </td>
   <td>20:00&#8209;21:00</td>
   <td>Zouk Level 2</td>
   <td>8x1h</td>
@@ -60,7 +72,11 @@ Version 3<sup>rd</sup> of April 2022
 
 <tr>
   <td>Fri, 18 Feb</td>
-  <td><a href="/about#lisa-and-marcos">Lisa & Steven</a></td>
+  <td>
+    <a href="/about#lisa">Lisa</a>
+    &
+    <a href="/about#steven">Steven</a>
+  </td>
   <td>21:00&#8209;22:00</td>
   <td>Zouk Level 3 - Isolations & Undulations</td>
   <td>8x1h</td>
@@ -95,7 +111,11 @@ Version 3<sup>rd</sup> of April 2022
 
 <tr>
   <td>Tue, 3 May</td>
-  <td><a href="/about#lisa-and-marcos">Lisa & Marcos</a></td>
+  <td>
+    <a href="/about#lisa">Lisa</a>
+    &
+    <a href="/about#marcos">Marcos</a>
+  </td>
   <td>20:30&#8209;22:00</td>
   <td>Zouk Advanced</td>
   <td>9x1.5h</td>
@@ -104,7 +124,11 @@ Version 3<sup>rd</sup> of April 2022
 
 <tr>
   <td>Fri, 6 May</td>
-  <td><a href="/about#lisa-and-marcos">Lisa & Steven</a></td>
+  <td>
+    <a href="/about#lisa">Lisa</a>
+    &
+    <a href="/about#steven">Steven</a>
+  </td>
   <td>19:00&#8209;20:00</td>
   <td>Zouk Level 1</td>
   <td>8x1h</td>
@@ -113,7 +137,11 @@ Version 3<sup>rd</sup> of April 2022
 
 <tr>
   <td>Fri, 6 May</td>
-  <td><a href="/about#lisa-and-marcos">Lisa & Steven</a></td>
+  <td>
+    <a href="/about#lisa">Lisa</a>
+    &
+    <a href="/about#steven">Steven</a>
+  </td>
   <td>20:00&#8209;21:00</td>
   <td>Zouk Level 2</td>
   <td>8x1h</td>
@@ -122,7 +150,11 @@ Version 3<sup>rd</sup> of April 2022
 
 <tr>
   <td>Fri, 6 May</td>
-  <td><a href="/about#lisa-and-marcos">Lisa & Steven</a></td>
+  <td>
+    <a href="/about#lisa">Lisa</a>
+    &
+    <a href="/about#steven">Steven</a>
+  </td>
   <td>21:00&#8209;22:00</td>
   <td>Zouk Level 3 - Linear & Circular Head Movements</td>
   <td>8x1h</td>
