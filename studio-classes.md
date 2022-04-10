@@ -101,12 +101,47 @@ Version 3<sup>rd</sup> of April 2022
 </tr>
 
 <tr>
+  <td>Tue, 29 Apr</td>
+  <td><a href="/about#xanne">Xanne</a></td>
+  <td>19:00&#8209;20:00</td>
+  <td>Flow & Connection for Partner Dance</td>
+  <td>1h</td>
+  <td>Free</td>
+</tr>
+<tr>
+  <td>Fri, 29 Apr</td>
+  <td>
+    <a href="/about#lisa">Lisa</a>
+    &
+    <a href="/about#steven">Steven</a>
+  </td>
+  <td>20:00&#8209;22:00</td>
+  <td>Zouk Level 1 Introduction</td>
+  <td>2h</td>
+  <td>€ 25,-</td>
+</tr>
+<tr>
+  <td>Fri, 29 Apr</td>
+  <td>
+    -
+  </td>
+  <td>22:00&#8209;22:30</td>
+  <td>100% Zouk practice time</td>
+  <td>30min</td>
+  <td>€ 25,-</td>
+</tr>
+  
+<tr style="height: 40px;">
+  <th colspan="9">Regular Studio Classes&#8209;May</th>
+</tr>
+
+<tr>
   <td>Tue, 3 May</td>
   <td><a href="/about#xanne">Xanne</a></td>
   <td>19:00&#8209;20:15</td>
   <td>Flow & Technique for Partner Dance</td>
   <td>4x1.15h</td>
-  <td>€ 50,-&ast;&ast;</td>
+  <td>€ 50,-&ast;</td>
 </tr>
 
 <tr>
@@ -171,7 +206,7 @@ Version 3<sup>rd</sup> of April 2022
   <td>19:00&#8209;20:15</td>
   <td>Flow & Technique for Partner Dance</td>
   <td>4x1.15h</td>
-  <td>€ 50,-&ast;&ast;</td>
+  <td>€ 50,-&ast;</td>
 </tr>
 
 </tbody>
