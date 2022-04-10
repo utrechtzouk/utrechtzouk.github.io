@@ -230,18 +230,14 @@ We hope to see you there soon! Register using the link below.
 </a>
 for classes at Theaterhuis de Berenkuil.
 
-We are following guidelines provided by RIVM & Dans Protocol NL.
-Please <a
-  target="_blank"
-  href="https://docs.google.com/document/d/1M01lk91xgPNstD6FhEM4-3evL38TLtbF3deaKW2QWkw/edit?usp=sharing">
-  read our COVID-19 guidelines
-</a>
-before registering for any Utrecht Zouk course.
+We are organising our dance classes in accordance with the following guidelines,
+terms & conditions.
 We count on everyone to help keep Utrecht Zouk a safe space to enjoy Brazilian Zouk.
 
 * Stay home if you have any symptoms/don’t feel well (and get tested)!
-* Only come to a dance class when you are registered and have paid.
 * Be mindful of hygiene. Wash or disinfect your hands on arrival at the studio and on departure, bring your own water bottle, cough and sneeze in your elbow, etc.
-* When we are not dancing, keep 1,5 m distance from each other as much as possible.
-* Come to class either with a fixed partner or change partners in the group.
-* Wear a face mask in the hall/stairwell of Theaterhuis de Berenkuil, even when you go to the toilet. When you enter the dance studio you can take it off. A face mask is not mandatory while dancing.
+* Come to class either with a fixed partner or change partners in the group. We encourage rotating partners to help speed up your learning process.
+* Only come to a dance class when you are registered and have paid.
+* We have a "no money back" policy. if you miss one lesson, you can recover it on another day.
+* A try-out is ony possible in agreement with Lisa van der Plaats - only when agreed upon can it be free of charge
+* It is possible to do a drop-in into our Brazilian Zouk classes, in agreement with Lisa van der Plaats
