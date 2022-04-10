@@ -128,7 +128,7 @@ Version 3<sup>rd</sup> of April 2022
   <td>22:00&#8209;22:30</td>
   <td>100% Zouk practice time</td>
   <td>30min</td>
-  <td>€ 25,-</td>
+  <td>-</td>
 </tr>
   
 <tr style="height: 40px;">
