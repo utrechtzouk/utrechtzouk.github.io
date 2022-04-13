@@ -97,7 +97,7 @@ Version 3<sup>rd</sup> of April 2022
 </tr>
 
 <tr style="height: 40px;">
-  <th colspan="9">Regular Studio Classes&#8209;May</th>
+  <th colspan="9">Regular Studio Classes&#8209;Apr</th>
 </tr>
 
 <tr>
