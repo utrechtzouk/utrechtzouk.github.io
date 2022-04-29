@@ -13,7 +13,7 @@ lang: en
 ref: studio-classes
 ---
 
-Version 3<sup>rd</sup> of April 2022
+Version 29<sup>th</sup> of April 2022
 
 <table id="schedule">
 <tbody>
@@ -101,7 +101,7 @@ Version 3<sup>rd</sup> of April 2022
 </tr>
 
 <tr>
-  <td>Tue, 29 Apr</td>
+  <td>Fri, 29 Apr</td>
   <td><a href="/about#xanne">Xanne</a></td>
   <td>19:00&#8209;20:00</td>
   <td>Flow & Connection for Partner Dance</td>
