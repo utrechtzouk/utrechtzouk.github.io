@@ -263,6 +263,9 @@ table#schedule {
   tr &:last-child {
     padding: 0;
   }
+  tr td:last-child {
+    text-align: right;
+  }
 }
 
 .en:lang(en), .nl:lang(nl) {

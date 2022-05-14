@@ -13,7 +13,7 @@ lang: en
 ref: studio-classes
 ---
 
-Version 29<sup>th</sup> of April 2022
+Version 14<sup>th</sup> of May 2022
 
 <table id="schedule">
 <tbody>
@@ -41,7 +41,7 @@ Version 29<sup>th</sup> of April 2022
   <td>20:30&#8209;22:00</td>
   <td>Zouk Advanced</td>
   <td>8x1.5h</td>
-  <td>€ 130,-&ast;&ast;</td>
+  <td>&ast;&ast; € 130,-</td>
 </tr>
 
 <tr>
@@ -54,7 +54,7 @@ Version 29<sup>th</sup> of April 2022
   <td>19:00&#8209;20:00</td>
   <td>Zouk Level 1</td>
   <td>8x1h</td>
-  <td>€ 100,-&ast;&ast;</td>
+  <td>&ast;&ast; € 100,-</td>
 </tr>
 
 <tr>
@@ -67,7 +67,7 @@ Version 29<sup>th</sup> of April 2022
   <td>20:00&#8209;21:00</td>
   <td>Zouk Level 2</td>
   <td>8x1h</td>
-  <td>€ 100,-&ast;&ast;</td>
+  <td>&ast;&ast; € 100,-</td>
 </tr>
 
 <tr>
@@ -80,7 +80,7 @@ Version 29<sup>th</sup> of April 2022
   <td>21:00&#8209;22:00</td>
   <td>Zouk Level 3 - Isolations & Undulations</td>
   <td>8x1h</td>
-  <td>€ 100,-&ast;&ast;</td>
+  <td>&ast;&ast; € 100,-</td>
 </tr>
 
 <tr style="height: 40px;">
@@ -93,7 +93,7 @@ Version 29<sup>th</sup> of April 2022
   <td>19:00&#8209;20:15</td>
   <td>Flow & Connection for Partner Dance</td>
   <td>5x1.15h</td>
-  <td>€ 60,-&ast;&ast;</td>
+  <td>&ast;&ast; € 60,-</td>
 </tr>
 
 <tr style="height: 40px;">
@@ -128,7 +128,7 @@ Version 29<sup>th</sup> of April 2022
   <td>22:00&#8209;22:30</td>
   <td>100% Zouk practice time</td>
   <td>30min</td>
-  <td>-</td>
+  <td>Free</td>
 </tr>
   
 <tr style="height: 40px;">
@@ -141,7 +141,7 @@ Version 29<sup>th</sup> of April 2022
   <td>19:00&#8209;20:15</td>
   <td>Flow & Technique for Partner Dance</td>
   <td>4x1.15h</td>
-  <td>€ 50,-&ast;</td>
+  <td>&ast; € 50,-</td>
 </tr>
 
 <tr>
@@ -154,7 +154,7 @@ Version 29<sup>th</sup> of April 2022
   <td>20:30&#8209;22:00</td>
   <td>Zouk Advanced</td>
   <td>9x1.5h</td>
-  <td>€ 145,-&ast;&ast;</td>
+  <td>&ast;&ast; € 145,-</td>
 </tr>
 
 <tr>
@@ -167,7 +167,7 @@ Version 29<sup>th</sup> of April 2022
   <td>19:00&#8209;20:00</td>
   <td>Zouk Level 1</td>
   <td>8x1h</td>
-  <td>€ 100,-&ast;&ast;</td>
+  <td>&ast;&ast; € 100,-</td>
 </tr>
 
 <tr>
@@ -180,7 +180,7 @@ Version 29<sup>th</sup> of April 2022
   <td>20:00&#8209;21:00</td>
   <td>Zouk Level 2</td>
   <td>8x1h</td>
-  <td>€ 100,-&ast;&ast;</td>
+  <td>&ast;&ast; € 100,-</td>
 </tr>
 
 <tr>
@@ -193,20 +193,18 @@ Version 29<sup>th</sup> of April 2022
   <td>21:00&#8209;22:00</td>
   <td>Zouk Level 3 - Linear & Circular Head Movements</td>
   <td>8x1h</td>
-  <td>€ 100,-&ast;&ast;</td>
-</tr>
-
-<tr style="height: 40px;">
-  <th colspan="9">Regular Studio Classes&#8209;June</th>
+  <td>&ast;&ast; € 100,-</td>
 </tr>
 
 <tr>
-  <td>Tue, 7 Jun</td>
-  <td><a href="/about#xanne">Xanne</a></td>
-  <td>19:00&#8209;20:15</td>
-  <td>Flow & Technique for Partner Dance</td>
-  <td>4x1.15h</td>
-  <td>€ 50,-&ast;</td>
+  <td>Tue, 31 May</td>
+  <td>
+    <a href="/about#lisa">Lisa</a>
+  </td>
+  <td>19:00&#8209;20:00</td>
+  <td>Followers Technique Project</td>
+  <td>5x1h</td>
+  <td>&ast;&ast; € 70,-</td>
 </tr>
 
 </tbody>
