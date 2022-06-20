@@ -112,17 +112,6 @@ Version 20<sup>th</sup> of June 2022
 </tr>
 
 <tr>
-  <td>Tue, 5 July</td>
-  <td>
-    -
-  </td>
-  <td>21:30&#8209;22:30</td>
-  <td>Practise time</td>
-  <td>1x1h</td>
-  <td></td>
-</tr>
-
-<tr>
   <td>Tue, 12 July</td>
   <td>
     Gilson
@@ -136,17 +125,6 @@ Version 20<sup>th</sup> of June 2022
 </tr>
 
 <tr>
-  <td>Tue, 12 July</td>
-  <td>
-    -
-  </td>
-  <td>22:00&#8209;22:30</td>
-  <td>Practise time</td>
-  <td>1x30m</td>
-  <td></td>
-</tr>
-
-<tr>
   <td>Tue, 19 July</td>
   <td>
     <a href="/about#lisa">Lisa</a>
@@ -156,7 +134,7 @@ Version 20<sup>th</sup> of June 2022
   <td>19:00&#8209;21:30</td>
   <td>Zouk Intermediate - Undulations & Waves in Zouk</td>
   <td>2.5h</td>
-  <td>&ast;&ast; € 30,-</td>
+  <td>&ast; € 30,-</td>
 </tr>
 
 <tr style="height: 40px;">
