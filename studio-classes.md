@@ -185,7 +185,7 @@ Version 1<sup>st</sup> of August 2022
 </tr>
 
 <tr>
-  <td>Tue, 24 August</td>
+  <td>Wed, 24 August</td>
   <td>
     Gilson
     &
