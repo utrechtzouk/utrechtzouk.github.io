@@ -13,7 +13,7 @@ lang: en
 ref: studio-classes
 ---
 
-Version 20<sup>th</sup> of June 2022
+Version 1<sup>st</sup> of August 2022
 
 <table id="schedule">
 <tbody>
@@ -157,7 +157,9 @@ Version 20<sup>th</sup> of June 2022
 <tr>
   <td>Tue, 26 July</td>
   <td>
-    UZ Team (t.b.d.)
+    <a href="/about#lisa">Lisa</a>
+    &
+    <a href="/about#marcos">Marcos</a>
   </td>
   <td>20:00&#8209;21:00</td>
   <td>Zouk Flashmob Choreography Training</td>
@@ -176,6 +178,23 @@ Version 20<sup>th</sup> of June 2022
   <td>Zouk Advanced</td>
   <td>7x1h</td>
   <td>&ast;&ast; € 90,-</td>
+</tr>
+
+<tr style="height: 40px;">
+  <th colspan="9">August</th>
+</tr>
+
+<tr>
+  <td>Tue, 24 August</td>
+  <td>
+    Gilson
+    &
+    <a href="/about#lisa">Lisa</a>
+  </td>
+  <td>19:00&#8209;22:00</td>
+  <td>Lambada for Brazilian Zouk Dancers</td>
+  <td>1x3h</td>
+  <td>&ast; € 35,-</td>
 </tr>
 
 </tbody>
