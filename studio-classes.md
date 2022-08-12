@@ -13,7 +13,7 @@ lang: en
 ref: studio-classes
 ---
 
-Version 1<sup>st</sup> of August 2022
+Version 12<sup>th</sup> of August 2022
 
 <table id="schedule">
 <tbody>
@@ -195,6 +195,21 @@ Version 1<sup>st</sup> of August 2022
   <td>Lambada for Brazilian Zouk Dancers</td>
   <td>1x3h</td>
   <td>&ast; € 35,-</td>
+</tr>
+
+<tr style="height: 40px;">
+  <th colspan="9">September</th>
+</tr>
+
+<tr>
+  <td>Tue, 20 September</td>
+  <td>
+    <a href="/about#xanne">Xanne</a>
+  </td>
+  <td>19:30&#8209;22:30</td>
+  <td>Flow, Wild & Free: Dance & Live Percussion</td>
+  <td>1x3h</td>
+  <td>&ast; € 30,-</td>
 </tr>
 
 </tbody>
