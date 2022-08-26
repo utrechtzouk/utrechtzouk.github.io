@@ -13,7 +13,7 @@ lang: en
 ref: studio-classes
 ---
 
-Version 12<sup>th</sup> of August 2022
+Version 26<sup>th</sup> of August 2022
 
 <table id="schedule">
 <tbody>
@@ -202,14 +202,105 @@ Version 12<sup>th</sup> of August 2022
 </tr>
 
 <tr>
+  <td>Tue, 13 September</td>
+  <td>
+    <a href="/about#lisa">Lisa</a>
+    &
+    <a href="/about#marcos">Marcos</a>
+  </td>
+  <td>19:00&#8209;21:30</td>
+  <td>Zouk Intermediate/Advanced - Frame & Direction Workshop</td>
+  <td>1x2.5h</td>
+  <td>&ast; € 30,-</td>
+</tr>
+
+<tr>
   <td>Tue, 20 September</td>
   <td>
     <a href="/about#xanne">Xanne</a>
   </td>
   <td>19:30&#8209;22:30</td>
-  <td>Flow, Wild & Free: Dance & Live Percussion</td>
+  <td>Flow & Free: Dance & Live Percussion</td>
   <td>1x3h</td>
   <td>&ast; € 30,-</td>
+</tr>
+
+<tr>
+  <td>Fri, 23 September</td>
+  <td>
+    <a href="/about#lisa">Lisa</a>
+    &
+    <a href="/about#steven">Steven</a>
+  </td>
+  <td>19:30&#8209;21:30</td>
+  <td>Zouk Level 1 - Introduction Workshop + 1h Practice Time</td>
+  <td>1x2h</td>
+  <td>&ast; € 24,-</td>
+</tr>
+
+<tr>
+  <td>Tue, 27 September</td>
+  <td>
+    <a href="/about#lisa">Lisa</a>
+    &
+    <a href="/about#marcos">Marcos</a>
+  </td>
+  <td>19:00&#8209;20:15</td>
+  <td>Zouk Level 4 - Headmovements</td>
+  <td>10x1.25h</td>
+  <td>&ast;&ast; € 150,-</td>
+</tr>
+
+<tr>
+  <td>Tue, 27 September</td>
+  <td>
+    <a href="/about#lisa">Lisa</a>
+    &
+    <a href="/about#marcos">Marcos</a>
+  </td>
+  <td>20:30&#8209;22:00</td>
+  <td>Zouk Advanced</td>
+  <td>10x1.5h</td>
+  <td>&ast;&ast; € 165,-</td>
+</tr>
+
+<tr>
+  <td>Fri, 30 September</td>
+  <td>
+    <a href="/about#lisa">Lisa</a>
+    &
+    <a href="/about#steven">Steven</a>
+  </td>
+  <td>19:00&#8209;20:00</td>
+  <td>Zouk Level 1</td>
+  <td>10x1h</td>
+  <td>&ast;&ast; € 135,-</td>
+</tr>
+
+<tr>
+  <td>Fri, 30 September</td>
+  <td>
+    <a href="/about#steven">Steven</a>
+    &
+    <a href="/about#xanne">Xanne</a>
+  </td>
+  <td>20:00&#8209;21:00</td>
+  <td>Zouk Level 2</td>
+  <td>10x1h</td>
+  <td>&ast;&ast; € 135,-</td>
+</tr>
+
+<tr>
+  <td>Fri, 30 September</td>
+  <td>
+    <a href="/about#lisa">Lisa</a>
+    &
+    <a href="/about#steven">Steven</a>
+  </td>
+  <td>21:00&#8209;22:00</td>
+  <td>Zouk Level 3 - Undulations & Isolations</td>
+  <td>10x1h</td>
+  <td>&ast;&ast; € 135,-</td>
 </tr>
 
 </tbody>
