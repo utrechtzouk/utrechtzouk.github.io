@@ -10,6 +10,7 @@ seo:
   type: Organization
 lang: en
 ref: online-classes
+image: utrecht-zouk-logo.png
 ---
 
 We do not provide online classes for now.

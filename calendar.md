@@ -10,6 +10,7 @@ seo:
   name: All Utrecht Zouk Events
 lang: en
 ref: calendar
+image: utrecht-zouk-logo.png
 ---
 
 Keep up to date with Utrecht Zouk events by subscribing to our calendar:

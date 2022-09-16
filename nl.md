@@ -7,6 +7,7 @@ seo:
   type: Organisatie
 lang: nl
 ref: home
+image: utrecht-zouk-logo.png
 ---
 
 Utrecht Zouk is een dansschool en community waar je Braziliaanse Zouk danslessen kunt volgen in onze prachtige studio in Theaterhuis de Berenkuil.

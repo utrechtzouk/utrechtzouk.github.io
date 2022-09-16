@@ -11,6 +11,7 @@ seo:
   type: Organization
 lang: en
 ref: studio-classes
+image: utrecht-zouk-logo.png
 ---
 
 Version 26<sup>th</sup> of August 2022

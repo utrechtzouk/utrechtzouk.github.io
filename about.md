@@ -8,6 +8,7 @@ seo:
   type: Organization
 lang: en
 ref: about
+image: utrecht-zouk-logo.png
 ---
 
 # Welcome to Utrecht Zouk!
