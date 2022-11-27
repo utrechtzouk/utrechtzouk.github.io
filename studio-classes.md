@@ -14,7 +14,7 @@ ref: studio-classes
 image: utrecht-zouk-logo.png
 ---
 
-Version 26<sup>th</sup> of August 2022
+Version 27<sup>th</sup> of November 2022
 
 <table id="schedule">
 <tbody>
@@ -26,176 +26,6 @@ Version 26<sup>th</sup> of August 2022
   <td>Description / Level</td>
   <td>Course</td>
   <td style="width:60px">Price</td>
-</tr>
-
-<tr style="height: 40px;">
-  <th colspan="9">May</th>
-</tr>
-
-<tr>
-  <td>Tue, 3 May</td>
-  <td>
-    <a href="/about#lisa">Lisa</a>
-    &
-    <a href="/about#marcos">Marcos</a>
-  </td>
-  <td>20:30&#8209;22:00</td>
-  <td>Zouk Advanced</td>
-  <td>9x1.5h</td>
-  <td>&ast;&ast; € 145,-</td>
-</tr>
-
-<tr>
-  <td>Fri, 6 May</td>
-  <td>
-    <a href="/about#lisa">Lisa</a>
-    &
-    <a href="/about#steven">Steven</a>
-  </td>
-  <td>19:00&#8209;20:00</td>
-  <td>Zouk Level 1</td>
-  <td>8x1h</td>
-  <td>&ast;&ast; € 100,-</td>
-</tr>
-
-<tr>
-  <td>Fri, 6 May</td>
-  <td>
-    <a href="/about#lisa">Lisa</a>
-    &
-    <a href="/about#steven">Steven</a>
-  </td>
-  <td>20:00&#8209;21:00</td>
-  <td>Zouk Level 2</td>
-  <td>8x1h</td>
-  <td>&ast;&ast; € 100,-</td>
-</tr>
-
-<tr>
-  <td>Fri, 6 May</td>
-  <td>
-    <a href="/about#lisa">Lisa</a>
-    &
-    <a href="/about#steven">Steven</a>
-  </td>
-  <td>21:00&#8209;22:00</td>
-  <td>Zouk Level 3 - Linear & Circular Head Movements</td>
-  <td>8x1h</td>
-  <td>&ast;&ast; € 100,-</td>
-</tr>
-
-<tr>
-  <td>Tue, 31 May</td>
-  <td>
-    <a href="/about#lisa">Lisa</a>
-  </td>
-  <td>19:00&#8209;20:00</td>
-  <td>Followers Technique Project</td>
-  <td>5x1h</td>
-  <td>&ast;&ast; € 70,-</td>
-</tr>
-
-<tr style="height: 40px;">
-  <th colspan="9">July</th>
-</tr>
-
-<tr>
-  <td>Tue, 5 July</td>
-  <td>
-    <a href="/about#lisa">Lisa</a>
-    &
-    <a href="/about#marcos">Marcos</a>
-  </td>
-  <td>19:00&#8209;21:30</td>
-  <td>Zouk Intermediate / Advanced - Dive & Aeroplane Technique</td>
-  <td>1x2.5h</td>
-  <td>&ast; € 30,-</td>
-</tr>
-
-<tr>
-  <td>Tue, 12 July</td>
-  <td>
-    Gilson
-    &
-    <a href="/about#lisa">Lisa</a>
-  </td>
-  <td>19:00&#8209;22:00</td>
-  <td>Lambada - From Zero to Hero workshop</td>
-  <td>1x3h</td>
-  <td>&ast; € 35,-</td>
-</tr>
-
-<tr>
-  <td>Tue, 19 July</td>
-  <td>
-    <a href="/about#lisa">Lisa</a>
-    &
-    <a href="/about#steven">Steven</a>
-  </td>
-  <td>19:00&#8209;21:30</td>
-  <td>Zouk Intermediate - Undulations & Waves in Zouk</td>
-  <td>2.5h</td>
-  <td>&ast; € 30,-</td>
-</tr>
-
-<tr style="height: 40px;">
-  <th colspan="9">July - Summer Program</th>
-</tr>
-
-<tr>
-  <td>Tue, 26 July</td>
-  <td>
-    <a href="/about#lisa">Lisa</a>
-    &
-    <a href="/about#steven">Steven</a>
-  </td>
-  <td>19:00&#8209;20:00</td>
-  <td>Zouk level 2 & 3</td>
-  <td>7x1h</td>
-  <td>&ast;&ast; € 90,-</td>
-</tr>
-
-<tr>
-  <td>Tue, 26 July</td>
-  <td>
-    <a href="/about#lisa">Lisa</a>
-    &
-    <a href="/about#marcos">Marcos</a>
-  </td>
-  <td>20:00&#8209;21:00</td>
-  <td>Zouk Flashmob Choreography Training</td>
-  <td>7x1h</td>
-  <td>&ast;&ast; € 70,-</td>
-</tr>
-
-<tr>
-  <td>Tue, 26 July</td>
-  <td>
-    <a href="/about#lisa">Lisa</a>
-    &
-    <a href="/about#marcos">Marcos</a>
-  </td>
-  <td>21:00&#8209;22:00</td>
-  <td>Zouk Advanced</td>
-  <td>7x1h</td>
-  <td>&ast;&ast; € 90,-</td>
-</tr>
-
-<tr style="height: 40px;">
-  <th colspan="9">August</th>
-</tr>
-
-<tr>
-  <td>Wed, 24 August</td>
-  <td>
-    Gilson
-    &
-    <a href="/about#lisa">Lisa</a>
-  </td>
-  <td>19:00&#8209;22:00</td>
-  <td>Lambada for Brazilian Zouk Dancers</td>
-  <td>1x3h</td>
-  <td>&ast; € 35,-</td>
 </tr>
 
 <tr style="height: 40px;">
@@ -302,6 +132,109 @@ Version 26<sup>th</sup> of August 2022
   <td>Zouk Level 3 - Undulations & Isolations</td>
   <td>10x1h</td>
   <td>&ast;&ast; € 135,-</td>
+</tr>
+
+<tr style="height: 40px;">
+  <th colspan="9">December</th>
+</tr>
+
+<tr>
+  <td>Tue, 20 December</td>
+  <td>
+    <a href="/about#marcos">Marcos</a>
+    &
+    Ilse
+  </td>
+  <td>19:00&#8209;20:15</td>
+  <td>Workshop Zouk Intermediate</td>
+  <td>1x1.25h</td>
+  <td>€ 17,50</td>
+</tr>
+
+<tr>
+  <td>Tue, 20 December</td>
+  <td>
+    <a href="/about#marcos">Marcos</a>
+    &
+    Ilse
+  </td>
+  <td>20:30&#8209;21:45</td>
+  <td>Workshop Zouk Advanced</td>
+  <td>1x1.25h</td>
+  <td>€ 17,50</td>
+</tr>
+
+<tr style="height: 40px;">
+  <th colspan="9">January</th>
+</tr>
+
+<tr>
+  <td>Tue, 10 January</td>
+  <td>
+    <a href="/about#marcos">Marcos</a>
+    &
+    Ilse
+  </td>
+  <td>19:00&#8209;20:15</td>
+  <td>Workshop Zouk Intermediate</td>
+  <td>1x1.25h</td>
+  <td>€ 17,50</td>
+</tr>
+
+<tr>
+  <td>Tue, 10 January</td>
+  <td>
+    <a href="/about#marcos">Marcos</a>
+    &
+    Ilse
+  </td>
+  <td>20:30&#8209;21:45</td>
+  <td>Workshop Zouk Advanced</td>
+  <td>1x1.25h</td>
+  <td>€ 17,50</td>
+</tr>
+
+<tr style="height: 40px;">
+  <th colspan="9">February</th>
+</tr>
+
+<tr>
+  <td>Fri, 3 February</td>
+  <td>
+    <a href="/about#lisa">Lisa</a>
+    &
+    Team
+  </td>
+  <td>19:00&#8209;21:30</td>
+  <td>Zouk Level 1 – Introduction Workshop + 1h Practice Time</td>
+  <td>1x2h</td>
+  <td>&ast; € 25,-</td>
+</tr>
+
+<tr>
+  <td>Tue, 7 February</td>
+  <td>
+    <a href="/about#lisa">Lisa</a>
+    &
+    <a href="/about#marcos">Marcos</a>
+  </td>
+  <td>19:00&#8209;20:15</td>
+  <td>Zouk Level 4 - Headmovements</td>
+  <td>10x1.25h</td>
+  <td>&ast;&ast; € 160,-</td>
+</tr>
+
+<tr>
+  <td>Tue, 7 February</td>
+  <td>
+    <a href="/about#lisa">Lisa</a>
+    &
+    <a href="/about#marcos">Marcos</a>
+  </td>
+  <td>19:00&#8209;20:15</td>
+  <td>Zouk Advanced Training</td>
+  <td>10x1.5h</td>
+  <td>&ast;&ast; € 180,-</td>
 </tr>
 
 </tbody>
