@@ -237,8 +237,54 @@ Version 27<sup>th</sup> of November 2022
   <td>&ast;&ast; € 180,-</td>
 </tr>
 
+<tr>
+  <td>Tue, 10 February</td>
+  <td>
+    <a href="/about#lisa">Lisa</a>,
+    <a href="/about#steven">Steven</a>,
+    &
+    <a href="/about#xanne">Xanne</a>
+  </td>
+  <td>19:00&#8209;20:00</td>
+  <td>Zouk Level 1</td>
+  <td>8x1h</td>
+  <td>&ast;&ast; € 110,-</td>
+</tr>
+
+<tr>
+  <td>Tue, 10 February</td>
+  <td>
+    <a href="/about#lisa">Lisa</a>,
+    <a href="/about#steven">Steven</a>,
+    &
+    <a href="/about#xanne">Xanne</a>
+  </td>
+  <td>20:00&#8209;21:00</td>
+  <td>Zouk Level 2</td>
+  <td>8x1h</td>
+  <td>&ast;&ast; € 110,-</td>
+</tr>
+
+<tr>
+  <td>Tue, 10 February</td>
+  <td>
+    <a href="/about#lisa">Lisa</a>,
+    <a href="/about#steven">Steven</a>,
+    &
+    <a href="/about#xanne">Xanne</a>
+  </td>
+  <td>21:00&#8209;22:00</td>
+  <td>Zouk Level 3</td>
+  <td>8x1h</td>
+  <td>&ast;&ast; € 110,-</td>
+</tr>
+
 </tbody>
 </table>
+
+
+Note that there's no classes on Friday the 3rd and 24th of March!
+
 
 Early Bird discounts; Pay 8 days before classes start to get:
 <br/>
