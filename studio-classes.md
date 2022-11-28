@@ -194,6 +194,19 @@ Version 27<sup>th</sup> of November 2022
   <td>€ 17,50</td>
 </tr>
 
+<tr>
+  <td>Fri, 27 January</td>
+  <td>
+    <a href="/about#steven">Steven</a>
+    &
+    <a href="/about#xanne">Xanne</a>
+  </td>
+  <td>19:30&#8209;21:30</td>
+  <td>Open/Intermediate Level Workshop + 1hr Practise time</td>
+  <td>1x2h</td>
+  <td>€ 25,-</td>
+</tr>
+
 <tr style="height: 40px;">
   <th colspan="9">February</th>
 </tr>
