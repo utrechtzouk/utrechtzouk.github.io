@@ -244,14 +244,14 @@ Version 7<sup>th</sup> of December 2022
     &
     <a href="/about#marcos">Marcos</a>
   </td>
-  <td>19:00&#8209;20:15</td>
+  <td>20:30&#8209;22:00</td>
   <td>Zouk Advanced Training</td>
   <td>10x1.5h</td>
   <td>&ast;&ast; € 180,-</td>
 </tr>
 
 <tr>
-  <td>Tue, 10 February</td>
+  <td>Fri, 10 February</td>
   <td>
     <a href="/about#lisa">Lisa</a>,
     <a href="/about#steven">Steven</a>,
@@ -265,7 +265,7 @@ Version 7<sup>th</sup> of December 2022
 </tr>
 
 <tr>
-  <td>Tue, 10 February</td>
+  <td>Fri, 10 February</td>
   <td>
     <a href="/about#lisa">Lisa</a>,
     <a href="/about#steven">Steven</a>,
@@ -279,7 +279,7 @@ Version 7<sup>th</sup> of December 2022
 </tr>
 
 <tr>
-  <td>Tue, 10 February</td>
+  <td>Fri, 10 February</td>
   <td>
     <a href="/about#lisa">Lisa</a>,
     <a href="/about#steven">Steven</a>,
