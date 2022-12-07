@@ -14,7 +14,7 @@ ref: studio-classes
 image: utrecht-zouk-logo.png
 ---
 
-Version 27<sup>th</sup> of November 2022
+Version 7<sup>th</sup> of December 2022
 
 <table id="schedule">
 <tbody>
@@ -202,26 +202,26 @@ Version 27<sup>th</sup> of November 2022
     <a href="/about#xanne">Xanne</a>
   </td>
   <td>19:30&#8209;21:30</td>
-  <td>Open/Intermediate Level Workshop + 1hr Practise time</td>
+  <td>Zouk Workshop Open/Intermediate + 1hr Practice Time</td>
   <td>1x2h</td>
   <td>€ 25,-</td>
 </tr>
 
-<tr style="height: 40px;">
-  <th colspan="9">February</th>
-</tr>
-
 <tr>
-  <td>Fri, 3 February</td>
+  <td>Tue, 31 January</td>
   <td>
     <a href="/about#lisa">Lisa</a>
     &
-    Team
+    <a href="/about#marcos">Marcos</a>
   </td>
-  <td>19:00&#8209;21:30</td>
+  <td>19:30&#8209;21:30</td>
   <td>Zouk Level 1 – Introduction Workshop + 1h Practice Time</td>
   <td>1x2h</td>
   <td>&ast; € 25,-</td>
+</tr>
+
+<tr style="height: 40px;">
+  <th colspan="9">February</th>
 </tr>
 
 <tr>
