@@ -317,6 +317,32 @@ We hope to see you there soon! Register using the link below.
 </a>
 for classes at Theaterhuis de Berenkuil.
 
+<picture>
+    <a
+    href="/brazilian-zouk-movements-and-concepts-checklist-level-1-and-2.jpg"
+    target="_blank"
+    >
+    <img
+    alt='Brazilian-zouk-movements-and-concepts-checklist-level-1-and-2'
+    src='/brazilian-zouk-movements-and-concepts-checklist-level-1-and-2.jpg'
+    width='240px'
+    />
+    </a>
+</picture>
+
+<picture>
+    <a
+    href="/brazilian-zouk-movements-and-concepts-checklist-level-3-and-4.jpg"
+    target="_blank"
+    >
+    <img
+    alt='Brazilian-zouk-movements-and-concepts-checklist-level-3-and-4'
+    src='/brazilian-zouk-movements-and-concepts-checklist-level-3-and-4.jpg'
+    width='240px'
+    />
+    </a>
+</picture>
+
 We are organising our dance classes in accordance with the following guidelines,
 terms & conditions.
 We count on everyone to help keep Utrecht Zouk a safe space to enjoy Brazilian Zouk.
