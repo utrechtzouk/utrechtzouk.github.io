@@ -33,11 +33,11 @@ Version 7<sup>th</sup> of December 2022
 </tr>
 
 <tr>
-  <td>Tue, 13 September</td>
+  <td>Tue, 13 <b>September</b></td>
   <td>
-    <a href="/about#lisa">Lisa</a>
+    <a href="/about#lisa">L<b>isa</b></a>
     &
-    <a href="/about#marcos">Marcos</a>
+    <a href="/about#marcos">M<b>arcos</b></a>
   </td>
   <td>19:00&#8209;21:30</td>
   <td>Zouk Intermediate/Advanced - Frame & Direction Workshop</td>
@@ -46,9 +46,9 @@ Version 7<sup>th</sup> of December 2022
 </tr>
 
 <tr>
-  <td>Tue, 20 September</td>
+  <td>Tue, 20 <b><b>September</b></b></td>
   <td>
-    <a href="/about#xanne">Xanne</a>
+    <a href="/about#xanne">X<b>anne</b></a>
   </td>
   <td>19:30&#8209;22:30</td>
   <td>Flow & Free: Dance & Live Percussion</td>
@@ -57,11 +57,11 @@ Version 7<sup>th</sup> of December 2022
 </tr>
 
 <tr>
-  <td>Fri, 23 September</td>
+  <td>Fri, 23 <b>September</b></td>
   <td>
-    <a href="/about#lisa">Lisa</a>
+    <a href="/about#lisa">L<b>isa</b></a>
     &
-    <a href="/about#steven">Steven</a>
+    <a href="/about#steven">S<b>teven</b></a>
   </td>
   <td>19:30&#8209;21:30</td>
   <td>Zouk Level 1 - Introduction Workshop + 1h Practice Time</td>
@@ -70,11 +70,11 @@ Version 7<sup>th</sup> of December 2022
 </tr>
 
 <tr>
-  <td>Tue, 27 September</td>
+  <td>Tue, 27 <b>September</b></td>
   <td>
-    <a href="/about#lisa">Lisa</a>
+    <a href="/about#lisa">L<b>isa</b></a>
     &
-    <a href="/about#marcos">Marcos</a>
+    <a href="/about#marcos">M<b>arcos</b></a>
   </td>
   <td>19:00&#8209;20:15</td>
   <td>Zouk Level 4 - Headmovements</td>
@@ -83,11 +83,11 @@ Version 7<sup>th</sup> of December 2022
 </tr>
 
 <tr>
-  <td>Tue, 27 September</td>
+  <td>Tue, 27 <b>September</b></td>
   <td>
-    <a href="/about#lisa">Lisa</a>
+    <a href="/about#lisa">L<b>isa</b></a>
     &
-    <a href="/about#marcos">Marcos</a>
+    <a href="/about#marcos">M<b>arcos</b></a>
   </td>
   <td>20:30&#8209;22:00</td>
   <td>Zouk Advanced</td>
@@ -96,11 +96,11 @@ Version 7<sup>th</sup> of December 2022
 </tr>
 
 <tr>
-  <td>Fri, 30 September</td>
+  <td>Fri, 30 <b>September</b></td>
   <td>
-    <a href="/about#lisa">Lisa</a>
+    <a href="/about#lisa">L<b>isa</b></a>
     &
-    <a href="/about#steven">Steven</a>
+    <a href="/about#steven">S<b>teven</b></a>
   </td>
   <td>19:00&#8209;20:00</td>
   <td>Zouk Level 1</td>
@@ -109,11 +109,11 @@ Version 7<sup>th</sup> of December 2022
 </tr>
 
 <tr>
-  <td>Fri, 30 September</td>
+  <td>Fri, 30 <b>September</b></td>
   <td>
-    <a href="/about#steven">Steven</a>
+    <a href="/about#steven">S<b>teven</b></a>
     &
-    <a href="/about#xanne">Xanne</a>
+    <a href="/about#xanne">X<b>anne</b></a>
   </td>
   <td>20:00&#8209;21:00</td>
   <td>Zouk Level 2</td>
@@ -122,11 +122,11 @@ Version 7<sup>th</sup> of December 2022
 </tr>
 
 <tr>
-  <td>Fri, 30 September</td>
+  <td>Fri, 30 <b>September</b></td>
   <td>
-    <a href="/about#lisa">Lisa</a>
+    <a href="/about#lisa">L<b>isa</b></a>
     &
-    <a href="/about#steven">Steven</a>
+    <a href="/about#steven">S<b>teven</b></a>
   </td>
   <td>21:00&#8209;22:00</td>
   <td>Zouk Level 3 - Undulations & Isolations</td>
@@ -139,11 +139,11 @@ Version 7<sup>th</sup> of December 2022
 </tr>
 
 <tr>
-  <td>Tue, 20 December</td>
+  <td>Tue, 20 <b>December</b></td>
   <td>
-    <a href="/about#marcos">Marcos</a>
+    <a href="/about#marcos">M<b>arcos</b></a>
     &
-    Ilse
+    <a href="">I<b>lse</b></a>
   </td>
   <td>19:00&#8209;20:15</td>
   <td>Workshop Zouk Intermediate</td>
@@ -152,11 +152,11 @@ Version 7<sup>th</sup> of December 2022
 </tr>
 
 <tr>
-  <td>Tue, 20 December</td>
+  <td>Tue, 20 <b>December</b></td>
   <td>
-    <a href="/about#marcos">Marcos</a>
+    <a href="/about#marcos">M<b>arcos</b></a>
     &
-    Ilse
+    <a href="">I<b>lse</b></a>
   </td>
   <td>20:30&#8209;21:45</td>
   <td>Workshop Zouk Advanced</td>
@@ -169,11 +169,11 @@ Version 7<sup>th</sup> of December 2022
 </tr>
 
 <tr>
-  <td>Tue, 10 January</td>
+  <td>Tue, 10 <b>January</b></td>
   <td>
-    <a href="/about#marcos">Marcos</a>
+    <a href="/about#marcos">M<b>arcos</b></a>
     &
-    Ilse
+    <a href="">I<b>lse</b></a>
   </td>
   <td>19:00&#8209;20:15</td>
   <td>Workshop Zouk Intermediate</td>
@@ -182,11 +182,11 @@ Version 7<sup>th</sup> of December 2022
 </tr>
 
 <tr>
-  <td>Tue, 10 January</td>
+  <td>Tue, 10 <b>January</b></td>
   <td>
-    <a href="/about#marcos">Marcos</a>
+    <a href="/about#marcos">M<b>arcos</b></a>
     &
-    Ilse
+    <a href="">I<b>lse</b></a>
   </td>
   <td>20:30&#8209;21:45</td>
   <td>Workshop Zouk Advanced</td>
@@ -195,11 +195,11 @@ Version 7<sup>th</sup> of December 2022
 </tr>
 
 <tr>
-  <td>Fri, 27 January</td>
+  <td>Fri, 27 <b>January</b></td>
   <td>
-    <a href="/about#steven">Steven</a>
+    <a href="/about#steven">S<b>teven</b></a>
     &
-    <a href="/about#xanne">Xanne</a>
+    <a href="/about#xanne">X<b>anne</b></a>
   </td>
   <td>19:30&#8209;21:30</td>
   <td>Zouk Workshop Open/Intermediate + 1hr Practice Time</td>
@@ -208,11 +208,11 @@ Version 7<sup>th</sup> of December 2022
 </tr>
 
 <tr>
-  <td>Tue, 31 January</td>
+  <td>Tue, 31 <b>January</b></td>
   <td>
-    <a href="/about#lisa">Lisa</a>
+    <a href="/about#lisa">L<b>isa</b></a>
     &
-    <a href="/about#marcos">Marcos</a>
+    <a href="/about#marcos">M<b>arcos</b></a>
   </td>
   <td>19:30&#8209;21:30</td>
   <td>Zouk Level 1 – Introduction Workshop + 1h Practice Time</td>
@@ -225,11 +225,11 @@ Version 7<sup>th</sup> of December 2022
 </tr>
 
 <tr>
-  <td>Tue, 7 February</td>
+  <td>Tue, 7 <b>February</b></td>
   <td>
-    <a href="/about#lisa">Lisa</a>
+    <a href="/about#lisa">L<b>isa</b></a>
     &
-    <a href="/about#marcos">Marcos</a>
+    <a href="/about#marcos">M<b>arcos</b></a>
   </td>
   <td>19:00&#8209;20:15</td>
   <td>Zouk Level 4 - Headmovements</td>
@@ -238,11 +238,11 @@ Version 7<sup>th</sup> of December 2022
 </tr>
 
 <tr>
-  <td>Tue, 7 February</td>
+  <td>Tue, 7 <b>February</b></td>
   <td>
-    <a href="/about#lisa">Lisa</a>
+    <a href="/about#lisa">L<b>isa</b></a>
     &
-    <a href="/about#marcos">Marcos</a>
+    <a href="/about#marcos">M<b>arcos</b></a>
   </td>
   <td>20:30&#8209;22:00</td>
   <td>Zouk Advanced Training</td>
@@ -251,12 +251,12 @@ Version 7<sup>th</sup> of December 2022
 </tr>
 
 <tr>
-  <td>Fri, 10 February</td>
+  <td>Fri, 10 <b>February</b></td>
   <td>
-    <a href="/about#lisa">Lisa</a>,
-    <a href="/about#steven">Steven</a>,
+    <a href="/about#lisa">L<b>isa</b></a>,
+    <a href="/about#steven">S<b>teven</b></a>,
     &
-    <a href="/about#xanne">Xanne</a>
+    <a href="/about#xanne">X<b>anne</b></a>
   </td>
   <td>19:00&#8209;20:00</td>
   <td>Zouk Level 1</td>
@@ -265,12 +265,12 @@ Version 7<sup>th</sup> of December 2022
 </tr>
 
 <tr>
-  <td>Fri, 10 February</td>
+  <td>Fri, 10 <b>February</b></td>
   <td>
-    <a href="/about#lisa">Lisa</a>,
-    <a href="/about#steven">Steven</a>,
+    <a href="/about#lisa">L<b>isa</b></a>,
+    <a href="/about#steven">S<b>teven</b></a>,
     &
-    <a href="/about#xanne">Xanne</a>
+    <a href="/about#xanne">X<b>anne</b></a>
   </td>
   <td>20:00&#8209;21:00</td>
   <td>Zouk Level 2</td>
@@ -279,12 +279,12 @@ Version 7<sup>th</sup> of December 2022
 </tr>
 
 <tr>
-  <td>Fri, 10 February</td>
+  <td>Fri, 10 <b>February</b></td>
   <td>
-    <a href="/about#lisa">Lisa</a>,
-    <a href="/about#steven">Steven</a>,
+    <a href="/about#lisa">L<b>isa</b></a>,
+    <a href="/about#steven">S<b>teven</b></a>,
     &
-    <a href="/about#xanne">Xanne</a>
+    <a href="/about#xanne">X<b>anne</b></a>
   </td>
   <td>21:00&#8209;22:00</td>
   <td>Zouk Level 3</td>

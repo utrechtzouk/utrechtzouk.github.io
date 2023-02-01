@@ -82,6 +82,12 @@ $on-laptop: 800px !default;
     padding-left: #{$spacing-unit / 5};
     padding-right: 0;
   }
+  #schedule {
+    b {
+      font-weight: inherit;
+      display: none;
+    }
+  }
 }
 
 .site-title {
@@ -254,6 +260,10 @@ a.button, .buttons a {
 table#schedule {
   font-size: 0.6em;
 
+  td b {
+    font-weight: inherit;
+  }
+
   th, td {
     padding: 0.125em 0.5em;
   }
@@ -266,6 +276,7 @@ table#schedule {
   tr td:last-child {
     text-align: right;
   }
+
 }
 
 .en:lang(en), .nl:lang(nl) {
