@@ -5,9 +5,9 @@ en:
   studio-classes:
     name: Studio Classes
     url: /studio-classes/
-  online-classes:
-    name: Online Classes
-    url: /online-classes/
+  bookings:
+    name: Bookings
+    url: /bookings/
   calendar:
     name: Calendar
     url: /calendar/

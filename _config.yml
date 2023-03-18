@@ -58,7 +58,7 @@ show_excerpts: true
 
 header_pages:
   - studio-classes.md
-  - online-classes.md
+  - bookings.md
   - calendar.md
   - about.md
   - portfolio.md
