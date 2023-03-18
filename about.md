@@ -88,7 +88,7 @@ image: utrecht-zouk-logo.png
     allowfullscreen
     frameborder="0"
     height="315"
-    src="https://www.youtube.com/embed/X_GtH00AlFs"
+    src="https://www.youtube.com/embed/25SDYjpvcTA"
     width="560"
   ></iframe>
   </div>
