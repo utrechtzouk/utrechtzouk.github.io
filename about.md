@@ -201,3 +201,8 @@ image: utrecht-zouk-logo.png
   <!-- <a href='' class='more'>read more</a> -->
   </p>
 </section>
+<h3>Looking for our address?</h3><ul>
+<ul>
+    <li>Biltstraat 166, 3572 BP Utrecht</li>
+    <li><a href="https://www.google.com/maps/place/Biltstraat+166,+3572+BP+Utrecht"> our address on Google Maps </a></li>
+</ul>
