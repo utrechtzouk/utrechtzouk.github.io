@@ -171,36 +171,6 @@ image: utrecht-zouk-logo.png
   </p>
 </section>
 
-<section class="palm-right">
-  <picture>
-  <img
-    alt='Tim & Sascha dancing Zouk'
-    id='tim-and-sascha'
-    height='160px'
-    src='/tim-and-sascha.jpg'
-    style='object-position:50% 40%'
-    width='200px'
-  />
-  </picture>
-  <h4>Tim & Sascha</h4>
-  <p>
-  From the moment they met they started exploring their love for partner dance.
-  From Dancing,
-  to performing,
-  and teaching various styles such as:
-  Salsa,
-  Bachata,
-  Merengue,
-  and Zouk.
-  Having started a Zouk scene in Edmonton
-  and helped foster Zouk in West Canada,
-  they know how to build a community.
-  All that experience is brought to nurture Utrecht Zouk,
-  and their infectious energy helps provide a great space for learning
-  during classes or one of their workshops in Holland or abroad.
-  <!-- <a href='' class='more'>read more</a> -->
-  </p>
-</section>
 <h3>Looking for our address?</h3><ul>
 <ul>
     <li>Biltstraat 166, 3572 BP Utrecht</li>
