@@ -14,7 +14,7 @@ ref: studio-classes
 image: utrecht-zouk-logo.png
 ---
 
-Version 7<sup>th</sup> of December 2022
+Version 19<sup>th</sup> of March 2023
 
 <table id="schedule">
 <tbody>
@@ -26,142 +26,6 @@ Version 7<sup>th</sup> of December 2022
   <td>Description / Level</td>
   <td>Course</td>
   <td style="width:60px">Price</td>
-</tr>
-
-<tr style="height: 40px;">
-  <th colspan="9">September</th>
-</tr>
-
-<tr>
-  <td>Tue, 13 <b>September</b></td>
-  <td>
-    <a href="/about#lisa">L<b>isa</b></a>
-    &
-    <a href="/about#marcos">M<b>arcos</b></a>
-  </td>
-  <td>19:00&#8209;21:30</td>
-  <td>Zouk Intermediate/Advanced - Frame & Direction Workshop</td>
-  <td>1x2.5h</td>
-  <td>&ast; € 30,-</td>
-</tr>
-
-<tr>
-  <td>Tue, 20 <b><b>September</b></b></td>
-  <td>
-    <a href="/about#xanne">X<b>anne</b></a>
-  </td>
-  <td>19:30&#8209;22:30</td>
-  <td>Flow & Free: Dance & Live Percussion</td>
-  <td>1x3h</td>
-  <td>&ast; € 30,-</td>
-</tr>
-
-<tr>
-  <td>Fri, 23 <b>September</b></td>
-  <td>
-    <a href="/about#lisa">L<b>isa</b></a>
-    &
-    <a href="/about#steven">S<b>teven</b></a>
-  </td>
-  <td>19:30&#8209;21:30</td>
-  <td>Zouk Level 1 - Introduction Workshop + 1h Practice Time</td>
-  <td>1x2h</td>
-  <td>&ast; € 24,-</td>
-</tr>
-
-<tr>
-  <td>Tue, 27 <b>September</b></td>
-  <td>
-    <a href="/about#lisa">L<b>isa</b></a>
-    &
-    <a href="/about#marcos">M<b>arcos</b></a>
-  </td>
-  <td>19:00&#8209;20:15</td>
-  <td>Zouk Level 4 - Headmovements</td>
-  <td>10x1.25h</td>
-  <td>&ast;&ast; € 150,-</td>
-</tr>
-
-<tr>
-  <td>Tue, 27 <b>September</b></td>
-  <td>
-    <a href="/about#lisa">L<b>isa</b></a>
-    &
-    <a href="/about#marcos">M<b>arcos</b></a>
-  </td>
-  <td>20:30&#8209;22:00</td>
-  <td>Zouk Advanced</td>
-  <td>10x1.5h</td>
-  <td>&ast;&ast; € 165,-</td>
-</tr>
-
-<tr>
-  <td>Fri, 30 <b>September</b></td>
-  <td>
-    <a href="/about#lisa">L<b>isa</b></a>
-    &
-    <a href="/about#steven">S<b>teven</b></a>
-  </td>
-  <td>19:00&#8209;20:00</td>
-  <td>Zouk Level 1</td>
-  <td>10x1h</td>
-  <td>&ast;&ast; € 135,-</td>
-</tr>
-
-<tr>
-  <td>Fri, 30 <b>September</b></td>
-  <td>
-    <a href="/about#steven">S<b>teven</b></a>
-    &
-    <a href="/about#xanne">X<b>anne</b></a>
-  </td>
-  <td>20:00&#8209;21:00</td>
-  <td>Zouk Level 2</td>
-  <td>10x1h</td>
-  <td>&ast;&ast; € 135,-</td>
-</tr>
-
-<tr>
-  <td>Fri, 30 <b>September</b></td>
-  <td>
-    <a href="/about#lisa">L<b>isa</b></a>
-    &
-    <a href="/about#steven">S<b>teven</b></a>
-  </td>
-  <td>21:00&#8209;22:00</td>
-  <td>Zouk Level 3 - Undulations & Isolations</td>
-  <td>10x1h</td>
-  <td>&ast;&ast; € 135,-</td>
-</tr>
-
-<tr style="height: 40px;">
-  <th colspan="9">December</th>
-</tr>
-
-<tr>
-  <td>Tue, 20 <b>December</b></td>
-  <td>
-    <a href="/about#marcos">M<b>arcos</b></a>
-    &
-    <a href="">I<b>lse</b></a>
-  </td>
-  <td>19:00&#8209;20:15</td>
-  <td>Workshop Zouk Intermediate</td>
-  <td>1x1.25h</td>
-  <td>€ 17,50</td>
-</tr>
-
-<tr>
-  <td>Tue, 20 <b>December</b></td>
-  <td>
-    <a href="/about#marcos">M<b>arcos</b></a>
-    &
-    <a href="">I<b>lse</b></a>
-  </td>
-  <td>20:30&#8209;21:45</td>
-  <td>Workshop Zouk Advanced</td>
-  <td>1x1.25h</td>
-  <td>€ 17,50</td>
 </tr>
 
 <tr style="height: 40px;">
@@ -202,7 +66,7 @@ Version 7<sup>th</sup> of December 2022
     <a href="/about#xanne">X<b>anne</b></a>
   </td>
   <td>19:30&#8209;21:30</td>
-  <td>Zouk Workshop Open/Intermediate + 1hr Practice Time</td>
+  <td>Zouk Workshop<b> Open/Intermediate + 1hr Practice Time</b></td>
   <td>1x2h</td>
   <td>€ 25,-</td>
 </tr>
@@ -215,7 +79,7 @@ Version 7<sup>th</sup> of December 2022
     <a href="/about#marcos">M<b>arcos</b></a>
   </td>
   <td>19:30&#8209;21:30</td>
-  <td>Zouk Level 1 – Introduction Workshop + 1h Practice Time</td>
+  <td>Zouk Level 1<b> – Introduction Workshop + 1h Practice Time</b></td>
   <td>1x2h</td>
   <td>&ast; € 25,-</td>
 </tr>
@@ -232,7 +96,7 @@ Version 7<sup>th</sup> of December 2022
     <a href="/about#marcos">M<b>arcos</b></a>
   </td>
   <td>19:00&#8209;20:15</td>
-  <td>Zouk Level 4 - Headmovements</td>
+  <td>Zouk Level 4<b> - Headmovements</b></td>
   <td>10x1.25h</td>
   <td>&ast;&ast; € 160,-</td>
 </tr>
@@ -292,6 +156,95 @@ Version 7<sup>th</sup> of December 2022
   <td>&ast;&ast; € 110,-</td>
 </tr>
 
+<tr style="height: 40px;">
+  <th colspan="9">April</th>
+</tr>
+
+<tr>
+  <td>Tue, 25 <b>April</b></td>
+  <td>
+    <a href="/about#lisa">L<b>isa</b></a>
+    &
+    <a href="/about#marcos">M<b>arcos</b></a>
+  </td>
+  <td>19:00&#8209;20:00</td>
+  <td>Zouk Level 4<b> - Headmovements</b></td>
+  <td>10x1h</td>
+  <td>&ast;&ast; € 135,-</td>
+</tr>
+
+<tr>
+  <td>Tue, 25 <b>April</b></td>
+  <td>
+    <a href="/about#lisa">L<b>isa</b></a>
+    &
+    <a href="/about#marcos">M<b>arcos</b></a>
+  </td>
+  <td>20:15&#8209;21:15</td>
+  <td>Zouk Level 5<b> - Advanced Lab</b></td>
+  <td>10x1h</td>
+  <td>&ast;&ast; € 135,-</td>
+</tr>
+
+<tr>
+  <td>Tue, 25 <b>April</b></td>
+  <td>
+    <a href="/about#lisa">L<b>isa</b></a>
+    &
+    <a href="/about#marcos">M<b>arcos</b></a>
+  </td>
+  <td>21:30&#8209;22:30</td>
+  <td>Lambada<b> - Open level</b></td>
+  <td>10x1h</td>
+  <td>&ast;&ast; € 135,-</td>
+</tr>
+
+<tr style="height: 40px;">
+  <th colspan="9">May</th>
+</tr>
+
+<tr>
+  <td>Tue, 12 <b>May</b></td>
+  <td>
+    <a href="/about#lisa">L<b>isa</b></a>,
+    <a href="/about#steven">S<b>teven</b></a>,
+    &
+    <a href="/about#xanne">X<b>anne</b></a>
+  </td>
+  <td>19:00&#8209;20:00</td>
+  <td>Zouk level 1</td>
+  <td>8x1h</td>
+  <td>&ast;&ast; € 110,-</td>
+</tr>
+
+<tr>
+  <td>Tue, 12 <b>May</b></td>
+  <td>
+    <a href="/about#lisa">L<b>isa</b></a>,
+    <a href="/about#steven">S<b>teven</b></a>,
+    &
+    <a href="/about#xanne">X<b>anne</b></a>
+  </td>
+  <td>20:15&#8209;21:15</td>
+  <td>Zouk level 2<b> - Footwork Fundamentals</b></td>
+  <td>8x1h</td>
+  <td>&ast;&ast; € 110,-</td>
+</tr>
+
+<tr>
+  <td>Tue, 12 <b>May</b></td>
+  <td>
+    <a href="/about#lisa">L<b>isa</b></a>,
+    <a href="/about#steven">S<b>teven</b></a>,
+    &
+    <a href="/about#xanne">X<b>anne</b></a>
+  </td>
+  <td>21:30&#8209;22:30</td>
+  <td>Zouk level 3<b> - Undulations & Isolations</b></td>
+  <td>8x1h</td>
+  <td>&ast;&ast; € 110,-</td>
+</tr>
+
 </tbody>
 </table>
 
@@ -343,6 +296,7 @@ for classes at Theaterhuis de Berenkuil.
     </a>
 </picture>
 
+<br>
 We are organising our dance classes in accordance with the following guidelines,
 terms & conditions.
 We count on everyone to help keep Utrecht Zouk a safe space to enjoy Brazilian Zouk.
