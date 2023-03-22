@@ -14,7 +14,7 @@ ref: studio-classes
 image: utrecht-zouk-logo.png
 ---
 
-Version 19<sup>th</sup> of March 2023
+Version 22<sup>nd</sup> of March 2023
 
 <table id="schedule">
 <tbody>
@@ -204,7 +204,7 @@ Version 19<sup>th</sup> of March 2023
 </tr>
 
 <tr>
-  <td>Tue, 12 <b>May</b></td>
+  <td>Fri, 12 <b>May</b></td>
   <td>
     <a href="/about#lisa">L<b>isa</b></a>,
     <a href="/about#steven">S<b>teven</b></a>,
@@ -218,7 +218,7 @@ Version 19<sup>th</sup> of March 2023
 </tr>
 
 <tr>
-  <td>Tue, 12 <b>May</b></td>
+  <td>Fri, 12 <b>May</b></td>
   <td>
     <a href="/about#lisa">L<b>isa</b></a>,
     <a href="/about#steven">S<b>teven</b></a>,
@@ -232,7 +232,7 @@ Version 19<sup>th</sup> of March 2023
 </tr>
 
 <tr>
-  <td>Tue, 12 <b>May</b></td>
+  <td>Fri, 12 <b>May</b></td>
   <td>
     <a href="/about#lisa">L<b>isa</b></a>,
     <a href="/about#steven">S<b>teven</b></a>,
