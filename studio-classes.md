@@ -14,7 +14,7 @@ ref: studio-classes
 image: utrecht-zouk-logo.png
 ---
 
-Version 22<sup>nd</sup> of March 2023
+Version 12<sup>th</sup> of June 2023
 
 <table id="schedule">
 <tbody>
@@ -26,62 +26,6 @@ Version 22<sup>nd</sup> of March 2023
   <td>Description / Level</td>
   <td>Course</td>
   <td style="width:60px">Price</td>
-</tr>
-
-<tr style="height: 40px;">
-  <th colspan="9">January</th>
-</tr>
-
-<tr>
-  <td>Tue, 10 <b>January</b></td>
-  <td>
-    <a href="/about#marcos">M<b>arcos</b></a>
-    &
-    <a href="">I<b>lse</b></a>
-  </td>
-  <td>19:00&#8209;20:15</td>
-  <td>Workshop Zouk Intermediate</td>
-  <td>1x1.25h</td>
-  <td>€ 17,50</td>
-</tr>
-
-<tr>
-  <td>Tue, 10 <b>January</b></td>
-  <td>
-    <a href="/about#marcos">M<b>arcos</b></a>
-    &
-    <a href="">I<b>lse</b></a>
-  </td>
-  <td>20:30&#8209;21:45</td>
-  <td>Workshop Zouk Advanced</td>
-  <td>1x1.25h</td>
-  <td>€ 17,50</td>
-</tr>
-
-<tr>
-  <td>Fri, 27 <b>January</b></td>
-  <td>
-    <a href="/about#steven">S<b>teven</b></a>
-    &
-    <a href="/about#xanne">X<b>anne</b></a>
-  </td>
-  <td>19:30&#8209;21:30</td>
-  <td>Zouk Workshop<b> Open/Intermediate + 1hr Practice Time</b></td>
-  <td>1x2h</td>
-  <td>€ 25,-</td>
-</tr>
-
-<tr>
-  <td>Tue, 31 <b>January</b></td>
-  <td>
-    <a href="/about#lisa">L<b>isa</b></a>
-    &
-    <a href="/about#marcos">M<b>arcos</b></a>
-  </td>
-  <td>19:30&#8209;21:30</td>
-  <td>Zouk Level 1<b> – Introduction Workshop + 1h Practice Time</b></td>
-  <td>1x2h</td>
-  <td>&ast; € 25,-</td>
 </tr>
 
 <tr style="height: 40px;">
@@ -245,11 +189,121 @@ Version 22<sup>nd</sup> of March 2023
   <td>&ast;&ast; € 110,-</td>
 </tr>
 
+<tr style="height: 40px;">
+  <th colspan="9">July</th>
+</tr>
+
+<tr>
+  <td>Tue, 11 <b>July</b></td>
+  <td>
+    <a href="/about#lisa">L<b>isa</b></a>,
+    <a href="/about#steven">S<b>teven</b></a>,
+    &
+    <a href="/about#xanne">X<b>anne</b></a>
+  </td>
+  <td>19:00&#8209;20:00</td>
+  <td>Zouk level 2-3<b> - Summer Classes</b></td>
+  <td>8x1h</td>
+  <td>&ast;&ast; € 110,-</td>
+</tr>
+
+<tr>
+  <td>Tue, 11 <b>July</b></td>
+  <td>
+    <a href="/about#lisa">L<b>isa</b></a>,
+    <a href="/about#steven">S<b>teven</b></a>,
+    &
+    <a href="/about#xanne">X<b>anne</b></a>
+  </td>
+  <td>20:15&#8209;21:15</td>
+  <td>Zouk Choreo<b> - Flashmob Training</b></td>
+  <td>8x1h</td>
+  <td>&ast;&ast; € 110,-</td>
+</tr>
+
+<tr>
+  <td>Tue, 11 <b>July</b></td>
+  <td>
+    <a href="/about#lisa">L<b>isa</b></a>,
+    <a href="/about#steven">S<b>teven</b></a>,
+    &
+    <a href="/about#xanne">X<b>anne</b></a>
+  </td>
+  <td>21:30&#8209;22:30</td>
+  <td>Zouk level 4-5<b> - Summer Classes</b></td>
+  <td>8x1h</td>
+  <td>&ast;&ast; € 110,-</td>
+</tr>
+
+<tr>
+  <td>Fri, 7 <b>July</b></td>
+  <td>
+    <a href="/about#lisa">L<b>isa</b></a> &
+    I<b>lse</b>
+  </td>
+  <td>TBD</td>
+  <td>Followers Workshop<b> - Technique</b></td>
+  <td>1</td>
+  <td>TBD</td>
+</tr>
+
+<tr>
+  <td>Fri, 21 <b>July</b></td>
+  <td>
+    <a href="/about#lisa">L<b>isa</b></a> &
+    ...
+  </td>
+  <td>TBD</td>
+  <td>Basics Workshop<b> - Level up your Basics/BaddAssBasics</b></td>
+  <td>1</td>
+  <td>TBD</td>
+</tr>
+
+<tr style="height: 40px;">
+  <th colspan="9">August</th>
+</tr>
+
+<tr>
+  <td>Fri, 4 <b>August</b></td>
+  <td>
+    <a href="/about#lisa">L<b>isa</b></a> &
+    ...
+  </td>
+  <td>TBD</td>
+  <td>Lambada Workshop<b> - Open Level</b></td>
+  <td>1</td>
+  <td>TBD</td>
+</tr>
+
+<tr>
+  <td>Fri, 18 <b>August</b></td>
+  <td>
+    <a href="/about#lisa">L<b>isa</b></a> &
+    <a href="/about#marcos">M<b>arcos</b></a>
+  </td>
+  <td>TBD</td>
+  <td>Zouk Workshop<b> - Headmovement</b></td>
+  <td>1</td>
+  <td>TBD</td>
+</tr>
+
+<tr style="height: 40px;">
+  <th colspan="9">September</th>
+</tr>
+
+<tr>
+  <td>Fri, 1 <b>September</b></td>
+  <td>
+    S<b>u</b>z<b>e</b>
+  </td>
+  <td>TBD</td>
+  <td>Styling Workshop<b> - Ladystyling</b></td>
+  <td>1</td>
+  <td>TBD</td>
+</tr>
+
 </tbody>
 </table>
-
-
-Note that there's no classes on Friday the 3rd and 24th of March!
 
 
 Early Bird discounts; Pay 8 days before classes start to get:
