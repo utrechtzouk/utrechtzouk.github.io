@@ -14,7 +14,7 @@ ref: studio-classes
 image: utrecht-zouk-logo.png
 ---
 
-Version 12<sup>th</sup> of June 2023
+Version 22<sup>nd</sup> of June 2023
 
 <table id="schedule">
 <tbody>
@@ -241,10 +241,10 @@ Version 12<sup>th</sup> of June 2023
     <a href="/about#lisa">L<b>isa</b></a> &
     I<b>lse</b>
   </td>
-  <td>TBD</td>
-  <td>Followers Workshop<b> - Technique</b></td>
-  <td>1</td>
-  <td>TBD</td>
+  <td>19:30&#8209;22:00</td>
+  <td>Followers Workshop<b> - Technique & Style</b></td>
+  <td>1x2.5h</td>
+  <td>&ast; € 35,-</td>
 </tr>
 
 <tr>
