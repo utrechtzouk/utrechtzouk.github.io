@@ -14,7 +14,7 @@ ref: studio-classes
 image: utrecht-zouk-logo.png
 ---
 
-Version 22<sup>nd</sup> of June 2023
+Version 4<sup>th</sup> of July 2023
 
 <table id="schedule">
 <tbody>
@@ -251,12 +251,12 @@ Version 22<sup>nd</sup> of June 2023
   <td>Fri, 21 <b>July</b></td>
   <td>
     <a href="/about#lisa">L<b>isa</b></a> &
-    ...
+    <a href="/about#marcos">M<b>arcos</b></a>
   </td>
-  <td>TBD</td>
-  <td>Basics Workshop<b> - Level up your Basics/BaddAssBasics</b></td>
-  <td>1</td>
-  <td>TBD</td>
+  <td>19:30&#8209;22:00</td>
+  <td>Zouk Workshop<b> - BaddAss Basics</b></td>
+  <td>1x2.5hr</td>
+  <td>&ast; € 35,-</td>
 </tr>
 
 <tr style="height: 40px;">
@@ -267,12 +267,12 @@ Version 22<sup>nd</sup> of June 2023
   <td>Fri, 4 <b>August</b></td>
   <td>
     <a href="/about#lisa">L<b>isa</b></a> &
-    ...
+    <a href="/about#marcos">M<b>arcos</b></a>
   </td>
-  <td>TBD</td>
+  <td>19:30&#8209;22:00</td>
   <td>Lambada Workshop<b> - Open Level</b></td>
-  <td>1</td>
-  <td>TBD</td>
+  <td>1x2.5hr</td>
+  <td>&ast; € 35,-</td>
 </tr>
 
 <tr>
@@ -281,10 +281,10 @@ Version 22<sup>nd</sup> of June 2023
     <a href="/about#lisa">L<b>isa</b></a> &
     <a href="/about#marcos">M<b>arcos</b></a>
   </td>
-  <td>TBD</td>
-  <td>Zouk Workshop<b> - Headmovement</b></td>
-  <td>1</td>
-  <td>TBD</td>
+  <td>19:00&#8209;22:00</td>
+  <td>Zouk Workshop<b> - Headmovement (Open level)</b></td>
+  <td>1x3hr</td>
+  <td>&ast; € 40,-</td>
 </tr>
 
 <tr style="height: 40px;">
