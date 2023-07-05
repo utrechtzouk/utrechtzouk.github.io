@@ -255,7 +255,7 @@ Version 4<sup>th</sup> of July 2023
   </td>
   <td>19:30&#8209;22:00</td>
   <td>Zouk Workshop<b> - BaddAss Basics</b></td>
-  <td>1x2.5hr</td>
+  <td>1x2.5h</td>
   <td>&ast; € 35,-</td>
 </tr>
 
@@ -271,7 +271,7 @@ Version 4<sup>th</sup> of July 2023
   </td>
   <td>19:30&#8209;22:00</td>
   <td>Lambada Workshop<b> - Open Level</b></td>
-  <td>1x2.5hr</td>
+  <td>1x2.5h</td>
   <td>&ast; € 35,-</td>
 </tr>
 
@@ -283,7 +283,7 @@ Version 4<sup>th</sup> of July 2023
   </td>
   <td>19:00&#8209;22:00</td>
   <td>Zouk Workshop<b> - Headmovement (Open level)</b></td>
-  <td>1x3hr</td>
+  <td>1x3h</td>
   <td>&ast; € 40,-</td>
 </tr>
 
