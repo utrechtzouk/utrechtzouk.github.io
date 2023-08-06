@@ -14,7 +14,7 @@ ref: studio-classes
 image: utrecht-zouk-logo.png
 ---
 
-Version 4<sup>th</sup> of July 2023
+Version 6<sup>th</sup> of August 2023
 
 <table id="schedule">
 <tbody>
@@ -264,18 +264,6 @@ Version 4<sup>th</sup> of July 2023
 </tr>
 
 <tr>
-  <td>Fri, 4 <b>August</b></td>
-  <td>
-    <a href="/about#lisa">L<b>isa</b></a> &
-    <a href="/about#marcos">M<b>arcos</b></a>
-  </td>
-  <td>19:30&#8209;22:00</td>
-  <td>Lambada Workshop<b> - Open Level</b></td>
-  <td>1x2.5h</td>
-  <td>&ast; € 35,-</td>
-</tr>
-
-<tr>
   <td>Fri, 18 <b>August</b></td>
   <td>
     <a href="/about#lisa">L<b>isa</b></a> &
@@ -292,14 +280,17 @@ Version 4<sup>th</sup> of July 2023
 </tr>
 
 <tr>
-  <td>Fri, 1 <b>September</b></td>
+  <td>Sat, 2 <b>September</b></td>
   <td>
-    S<b>u</b>z<b>e</b>
+    S<b>heila </b>d<b>os </b>S<b>antos</b>,
+    <a href="/about#lisa">L<b>isa</b></a>,
+    I<b>lse</b>, &
+    <a href="/about#marcos">M<b>arcos</b></a>
   </td>
-  <td>TBD</td>
-  <td>Styling Workshop<b> - Ladystyling</b></td>
-  <td>1</td>
-  <td>TBD</td>
+  <td>13:30&#8209;18:00</td>
+  <td>Unlock Musicality // Automony<b> - Creativity in Zouk</b></td>
+  <td>1x4u</td>
+  <td>&ast;&ast; € 60,-</td>
 </tr>
 
 </tbody>
