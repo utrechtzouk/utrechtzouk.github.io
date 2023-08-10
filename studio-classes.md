@@ -383,9 +383,6 @@ Version 10<sup>th</sup> of August 2023
 </tbody>
 </table>
 
-</tbody>
-</table>
-
 
 Early Bird discounts; Pay 8 days before classes start to get:
 <br/>
