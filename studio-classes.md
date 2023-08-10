@@ -14,7 +14,7 @@ ref: studio-classes
 image: utrecht-zouk-logo.png
 ---
 
-Version 6<sup>th</sup> of August 2023
+Version 10<sup>th</sup> of August 2023
 
 <table id="schedule">
 <tbody>
@@ -292,6 +292,96 @@ Version 6<sup>th</sup> of August 2023
   <td>1x4u</td>
   <td>&ast;&ast; € 60,-</td>
 </tr>
+
+<tr>
+  <td>Tue, 19 <b>September</b></td>
+  <td>
+    <a href="/about#lisa">L<b>isa</b></a>, &
+    TBD
+  </td>
+  <td>19:30&#8209;22:00</td>
+  <td>Level 1<b> - Introduction Workshop</b></td>
+  <td>1x2.5u</td>
+  <td>&ast; € 30,-</td>
+</tr>
+
+<tr>
+  <td>Tue, 26 <b>September</b></td>
+  <td>
+    <a href="/about#lisa">L<b>isa</b></a>, &
+    <a href="/about#marcos">M<b>arcos</b></a>
+  </td>
+  <td>19:00&#8209;20:00</td>
+  <td>Level 4<b> - Headmovements</b></td>
+  <td>10x1u</td>
+  <td>&ast;&ast; € 135,-</td>
+</tr>
+
+<tr>
+  <td>Tue, 26 <b>September</b></td>
+  <td>
+    <a href="/about#lisa">L<b>isa</b></a>, &
+    <a href="/about#marcos">M<b>arcos</b></a>
+  </td>
+  <td>20:15&#8209;21:15</td>
+  <td>Level 5<b> - Advanced Lab</b></td>
+  <td>10x1u</td>
+  <td>&ast;&ast; € 135,-</td>
+</tr>
+
+<tr>
+  <td>Tue, 26 <b>September</b></td>
+  <td>
+    <a href="/about#lisa">L<b>isa</b></a>, &
+    <a href="/about#marcos">M<b>arcos</b></a>
+  </td>
+  <td>20:30&#8209;21:30</td>
+  <td>Lambada<b> - Open Level</b></td>
+  <td>10x1u</td>
+  <td>&ast;&ast; € 135,-</td>
+</tr>
+
+<tr>
+  <td>Fri, 29 <b>September</b></td>
+  <td>
+    <a href="/about#lisa">L<b>isa</b></a>,
+    <a href="/about#steven">S<b>teven</b></a>, &
+    <a href="/about#xanne">X<b>anne</b></a>
+  </td>
+  <td>19:00&#8209;20:00</td>
+  <td>Zouk Level 1<b> - Beginners</b></td>
+  <td>10x1u</td>
+  <td>&ast;&ast; € 135,-</td>
+</tr>
+
+<tr>
+  <td>Fri, 29 <b>September</b></td>
+  <td>
+    <a href="/about#lisa">L<b>isa</b></a>,
+    <a href="/about#steven">S<b>teven</b></a>, &
+    <a href="/about#xanne">X<b>anne</b></a>
+  </td>
+  <td>20:15&#8209;21:15</td>
+  <td>Zouk Level 2<b> - Fundamentals</b></td>
+  <td>10x1u</td>
+  <td>&ast;&ast; € 135,-</td>
+</tr>
+
+<tr>
+  <td>Fri, 29 <b>September</b></td>
+  <td>
+    <a href="/about#lisa">L<b>isa</b></a>,
+    <a href="/about#steven">S<b>teven</b></a>, &
+    <a href="/about#xanne">X<b>anne</b></a>
+  </td>
+  <td>21:30&#8209;22:30</td>
+  <td>Zouk Level 3<b> - Undulations & Isolations</b></td>
+  <td>10x1u</td>
+  <td>&ast;&ast; € 135,-</td>
+</tr>
+
+</tbody>
+</table>
 
 </tbody>
 </table>
