@@ -288,7 +288,7 @@ Version 10<sup>th</sup> of August 2023
     <a href="/about#marcos">M<b>arcos</b></a>
   </td>
   <td>13:30&#8209;18:00</td>
-  <td>Unlock Musicality // Automony<b> - Creativity in Zouk</b></td>
+  <td>Unlock Musicality // Automony<b> // Creativity in Zouk</b></td>
   <td>1x4u</td>
   <td>&ast;&ast; € 60,-</td>
 </tr>
