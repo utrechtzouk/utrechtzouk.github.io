@@ -14,7 +14,7 @@ ref: studio-classes
 image: utrecht-zouk-logo.png
 ---
 
-Version 10<sup>th</sup> of August 2023
+Version 24<sup>th</sup> of August 2023
 
 <table id="schedule">
 <tbody>
@@ -280,7 +280,7 @@ Version 10<sup>th</sup> of August 2023
 </tr>
 
 <tr>
-  <td>Sat, 2 <b>September</b></td>
+  <td>Sat, 2 <b>September</b> &ast;&ast;&ast;</td>
   <td>
     S<b>heila </b>d<b>os </b>S<b>antos</b>,
     <a href="/about#lisa">L<b>isa</b></a>,
@@ -383,16 +383,24 @@ Version 10<sup>th</sup> of August 2023
 </tbody>
 </table>
 
-
 Early Bird discounts; Pay 8 days before classes start to get:
 <br/>
 \* € 5,- off!
 <br/>
 \*\* € 10,- off!
 
-All our classes and events are hosted
-<a href='https://goo.gl/maps/86Nr5hmZY3mu5sVP6'>@Theaterhuis de Berenkuil, Studio OOST</a>.
-We hope to see you there soon! Register using the link below.
+We teach at the following locations:
+<ol>
+    <li>
+    <a href='https://goo.gl/maps/KxfXr854UHQBLYj37'>Beyaertdreef 3, 3562 LG Utrecht Salsaventura - Utrecht</a>
+    &ast;&ast;&ast;
+    </li>
+    <li>
+    <a href='https://goo.gl/maps/86Nr5hmZY3mu5sVP6'>Theaterhuis de Berenkuil, Studio OOST</a>
+    </li>
+</ol>
+We hope to see you there soon!
+Register using the link below.
 
 <a
   class="button"
