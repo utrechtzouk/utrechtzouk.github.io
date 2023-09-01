@@ -335,7 +335,7 @@ Version 24<sup>th</sup> of August 2023
     <a href="/about#lisa">L<b>isa</b></a>, &
     <a href="/about#marcos">M<b>arcos</b></a>
   </td>
-  <td>20:30&#8209;21:30</td>
+  <td>21:30&#8209;22:30</td>
   <td>Lambada<b> - Open Level</b></td>
   <td>10x1u</td>
   <td>&ast;&ast; € 135,-</td>
