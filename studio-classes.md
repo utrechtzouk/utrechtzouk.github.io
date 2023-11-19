@@ -16,24 +16,6 @@ image: utrecht-zouk-logo.png
 
 Version 24<sup>th</sup> of August 2023
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/iframe-resizer/4.3.2/iframeResizer.min.js"></script>
-<iframe
-    id="bueno-schedule"
-    src="https://www.bueno.nu/webshop/school/521/schedule?currentDate=24-11-2023&skipEmptyWeeksOnFirstLoad=NO&calendarEntryTypes=&locations=&genres=&levels=&employees="
-    style="width: 1px; min-width: 100%"></iframe>
-<script>
-    iFrameResize(
-        {
-            log: false,
-            heightCalculationMethod: 'lowestElement',
-            onScroll: function() {document.getElementById('bueno-schedule').scrollIntoView({behavior: 'smooth'}); return false},
-            checkOrigin: false
-        },
-        '#bueno-schedule'
-    )
-</script>
-
-
 <table id="schedule">
 <tbody>
 
@@ -418,7 +400,23 @@ We teach at the following locations:
     </li>
 </ol>
 We hope to see you there soon!
-Register using the link below.
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/iframe-resizer/4.3.2/iframeResizer.min.js"></script>
+<iframe
+    id="bueno-schedule"
+    src="https://www.bueno.nu/webshop/school/521/schedule?currentDate=24-11-2023&skipEmptyWeeksOnFirstLoad=NO&calendarEntryTypes=&locations=&genres=&levels=&employees="
+    style="width: 1px; min-width: 100%"></iframe>
+<script>
+    iFrameResize(
+        {
+            log: false,
+            heightCalculationMethod: 'lowestElement',
+            onScroll: function() {document.getElementById('bueno-schedule').scrollIntoView({behavior: 'smooth'}); return false},
+            checkOrigin: false
+        },
+        '#bueno-schedule'
+    )
+</script>
 
 <picture>
     <a
