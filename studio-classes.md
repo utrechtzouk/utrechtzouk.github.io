@@ -14,10 +14,14 @@ ref: studio-classes
 image: utrecht-zouk-logo.png
 ---
 
-Version 24<sup>th</sup> of August 2023
+Version 19<sup>th</sup> of November 2023
 
 <table id="schedule">
 <tbody>
+
+<tr>
+  <td colspan="7" style="text-align:right"> Register ⤵ </td>
+</tr>
 
 <tr>
   <td>Starting Day</td>
@@ -26,86 +30,65 @@ Version 24<sup>th</sup> of August 2023
   <td>Description / Level</td>
   <td>Course</td>
   <td style="width:60px">Price</td>
+  <td style="width:12px"> </td>
 </tr>
 
 <tr style="height: 40px;">
-  <th colspan="9">February</th>
+  <th colspan="7">2023 - December</th>
 </tr>
 
 <tr>
-  <td>Tue, 7 <b>February</b></td>
+  <td>Sun, 17 <b>December</b></td>
   <td>
     <a href="/about#lisa">L<b>isa</b></a>
     &
     <a href="/about#marcos">M<b>arcos</b></a>
   </td>
-  <td>19:00&#8209;20:15</td>
-  <td>Zouk Level 4<b> - Headmovements</b></td>
-  <td>10x1.25h</td>
-  <td>&ast;&ast; € 160,-</td>
+  <td>13:00&#8209;17:00</td>
+  <td><b>Sunday</b> UZouk Matinee<b> + Workshop</b></td>
+  <td>4h</td>
+  <td>€ 10,- / 15,-</td>
+  <td> <a href="https://www.bueno.nu/webshop/school/521/schedule-detail/589059">📝 </a></td>
+</tr>
+
+<tr style="height: 40px;">
+  <th colspan="7">2024 - January</th>
 </tr>
 
 <tr>
-  <td>Tue, 7 <b>February</b></td>
+  <td>Tue, 30 <b>January</b></td>
   <td>
     <a href="/about#lisa">L<b>isa</b></a>
     &
     <a href="/about#marcos">M<b>arcos</b></a>
   </td>
-  <td>20:30&#8209;22:00</td>
-  <td>Zouk Advanced Training</td>
-  <td>10x1.5h</td>
-  <td>&ast;&ast; € 180,-</td>
-</tr>
-
-<tr>
-  <td>Fri, 10 <b>February</b></td>
-  <td>
-    <a href="/about#lisa">L<b>isa</b></a>,
-    <a href="/about#steven">S<b>teven</b></a>,
-    &
-    <a href="/about#xanne">X<b>anne</b></a>
-  </td>
-  <td>19:00&#8209;20:00</td>
-  <td>Zouk Level 1</td>
-  <td>8x1h</td>
-  <td>&ast;&ast; € 110,-</td>
-</tr>
-
-<tr>
-  <td>Fri, 10 <b>February</b></td>
-  <td>
-    <a href="/about#lisa">L<b>isa</b></a>,
-    <a href="/about#steven">S<b>teven</b></a>,
-    &
-    <a href="/about#xanne">X<b>anne</b></a>
-  </td>
-  <td>20:00&#8209;21:00</td>
-  <td>Zouk Level 2</td>
-  <td>8x1h</td>
-  <td>&ast;&ast; € 110,-</td>
-</tr>
-
-<tr>
-  <td>Fri, 10 <b>February</b></td>
-  <td>
-    <a href="/about#lisa">L<b>isa</b></a>,
-    <a href="/about#steven">S<b>teven</b></a>,
-    &
-    <a href="/about#xanne">X<b>anne</b></a>
-  </td>
-  <td>21:00&#8209;22:00</td>
-  <td>Zouk Level 3</td>
-  <td>8x1h</td>
-  <td>&ast;&ast; € 110,-</td>
+  <td>19:00&#8209;22:00</td>
+  <td>Workshop - Understanding Headmovements</td>
+  <td>3h</td>
+  <td>&ast; € 40,-</td>
+  <td> <a href="https://www.bueno.nu/webshop/school/521/calendar-entry/595823/class-ticket/30155?discountCode=EARLYBIRD5">📝 </a></td>
 </tr>
 
 <tr style="height: 40px;">
-  <th colspan="9">April</th>
+  <th colspan="7">2024 - February</th>
 </tr>
 
 <tr>
-  <td>Tue, 25 <b>April</b></td>
+  <td>Tue, 6 <b>February</b></td>
+  <td>
+    <a href="/about#lisa">L<b>isa</b></a>
+    &
+    <a href="/about#marcos">M<b>arcos</b></a>
+  </td>
+  <td>19:30&#8209;22:00</td>
+  <td>Level 1<b> - Introduction Workshop</b></td>
+  <td>1x2.5u</td>
+  <td>&ast; € 30,-</td>
+  <td> <a href="https://www.bueno.nu/webshop/school/521/calendar-entry/595705/class-ticket/30144?discountCode=EARLYBIRD5BEGINNERS">📝 </a></td>
+</tr>
+
+<tr>
+  <td>Tue, 13 <b>February</b></td>
   <td>
     <a href="/about#lisa">L<b>isa</b></a>
     &
@@ -114,11 +97,12 @@ Version 24<sup>th</sup> of August 2023
   <td>19:00&#8209;20:00</td>
   <td>Zouk Level 4<b> - Headmovements</b></td>
   <td>10x1h</td>
-  <td>&ast;&ast; € 135,-</td>
+  <td>€ 135,-</td>
+  <td> <a href="https://www.bueno.nu/webshop/school/521/schedule-detail/589067">📝 </a></td>
 </tr>
 
 <tr>
-  <td>Tue, 25 <b>April</b></td>
+  <td>Tue, 13 <b>February</b></td>
   <td>
     <a href="/about#lisa">L<b>isa</b></a>
     &
@@ -127,222 +111,29 @@ Version 24<sup>th</sup> of August 2023
   <td>20:15&#8209;21:15</td>
   <td>Zouk Level 5<b> - Advanced Lab</b></td>
   <td>10x1h</td>
-  <td>&ast;&ast; € 135,-</td>
+  <td>€ 135,-</td>
+  <td> <a href="https://www.bueno.nu/webshop/school/521/schedule-detail/595736">📝 </a></td>
 </tr>
 
 <tr>
-  <td>Tue, 25 <b>April</b></td>
+  <td>Tue, 13 <b>February</b></td>
   <td>
     <a href="/about#lisa">L<b>isa</b></a>
     &
     <a href="/about#marcos">M<b>arcos</b></a>
   </td>
   <td>21:30&#8209;22:30</td>
-  <td>Lambada<b> - Open level</b></td>
+  <td>
+    Choreography<b> - Project</b>
+    <b class=status> invitation only</b>
+</td>
   <td>10x1h</td>
-  <td>&ast;&ast; € 135,-</td>
-</tr>
-
-<tr style="height: 40px;">
-  <th colspan="9">May</th>
+  <td>€ 70,-</td>
+  <td> <a href="https://www.bueno.nu/webshop/school/521/schedule-detail/595804">📝 </a></td>
 </tr>
 
 <tr>
-  <td>Fri, 12 <b>May</b></td>
-  <td>
-    <a href="/about#lisa">L<b>isa</b></a>,
-    <a href="/about#steven">S<b>teven</b></a>,
-    &
-    <a href="/about#xanne">X<b>anne</b></a>
-  </td>
-  <td>19:00&#8209;20:00</td>
-  <td>Zouk level 1</td>
-  <td>8x1h</td>
-  <td>&ast;&ast; € 110,-</td>
-</tr>
-
-<tr>
-  <td>Fri, 12 <b>May</b></td>
-  <td>
-    <a href="/about#lisa">L<b>isa</b></a>,
-    <a href="/about#steven">S<b>teven</b></a>,
-    &
-    <a href="/about#xanne">X<b>anne</b></a>
-  </td>
-  <td>20:15&#8209;21:15</td>
-  <td>Zouk level 2<b> - Footwork Fundamentals</b></td>
-  <td>8x1h</td>
-  <td>&ast;&ast; € 110,-</td>
-</tr>
-
-<tr>
-  <td>Fri, 12 <b>May</b></td>
-  <td>
-    <a href="/about#lisa">L<b>isa</b></a>,
-    <a href="/about#steven">S<b>teven</b></a>,
-    &
-    <a href="/about#xanne">X<b>anne</b></a>
-  </td>
-  <td>21:30&#8209;22:30</td>
-  <td>Zouk level 3<b> - Undulations & Isolations</b></td>
-  <td>8x1h</td>
-  <td>&ast;&ast; € 110,-</td>
-</tr>
-
-<tr style="height: 40px;">
-  <th colspan="9">July</th>
-</tr>
-
-<tr>
-  <td>Tue, 11 <b>July</b></td>
-  <td>
-    <a href="/about#lisa">L<b>isa</b></a>,
-    <a href="/about#steven">S<b>teven</b></a>,
-    &
-    <a href="/about#xanne">X<b>anne</b></a>
-  </td>
-  <td>19:00&#8209;20:00</td>
-  <td>Zouk level 2-3<b> - Summer Classes</b></td>
-  <td>8x1h</td>
-  <td>&ast;&ast; € 110,-</td>
-</tr>
-
-<tr>
-  <td>Tue, 11 <b>July</b></td>
-  <td>
-    <a href="/about#lisa">L<b>isa</b></a>,
-    <a href="/about#steven">S<b>teven</b></a>,
-    &
-    <a href="/about#xanne">X<b>anne</b></a>
-  </td>
-  <td>20:15&#8209;21:15</td>
-  <td>Zouk Choreo<b> - Flashmob Training</b></td>
-  <td>8x1h</td>
-  <td>&ast;&ast; € 110,-</td>
-</tr>
-
-<tr>
-  <td>Tue, 11 <b>July</b></td>
-  <td>
-    <a href="/about#lisa">L<b>isa</b></a>,
-    <a href="/about#steven">S<b>teven</b></a>,
-    &
-    <a href="/about#xanne">X<b>anne</b></a>
-  </td>
-  <td>21:30&#8209;22:30</td>
-  <td>Zouk level 4-5<b> - Summer Classes</b></td>
-  <td>8x1h</td>
-  <td>&ast;&ast; € 110,-</td>
-</tr>
-
-<tr>
-  <td>Fri, 7 <b>July</b></td>
-  <td>
-    <a href="/about#lisa">L<b>isa</b></a> &
-    I<b>lse</b>
-  </td>
-  <td>19:30&#8209;22:00</td>
-  <td>Followers Workshop<b> - Technique & Style</b></td>
-  <td>1x2.5h</td>
-  <td>&ast; € 35,-</td>
-</tr>
-
-<tr>
-  <td>Fri, 21 <b>July</b></td>
-  <td>
-    <a href="/about#lisa">L<b>isa</b></a> &
-    <a href="/about#marcos">M<b>arcos</b></a>
-  </td>
-  <td>19:30&#8209;22:00</td>
-  <td>Zouk Workshop<b> - BaddAss Basics</b></td>
-  <td>1x2.5h</td>
-  <td>&ast; € 35,-</td>
-</tr>
-
-<tr style="height: 40px;">
-  <th colspan="9">August</th>
-</tr>
-
-<tr>
-  <td>Fri, 18 <b>August</b></td>
-  <td>
-    <a href="/about#lisa">L<b>isa</b></a> &
-    <a href="/about#marcos">M<b>arcos</b></a>
-  </td>
-  <td>19:00&#8209;22:00</td>
-  <td>Zouk Workshop<b> - Headmovement (Open level)</b></td>
-  <td>1x3h</td>
-  <td>&ast; € 40,-</td>
-</tr>
-
-<tr style="height: 40px;">
-  <th colspan="9">September</th>
-</tr>
-
-<tr>
-  <td>Sat, 2 <b>September</b> &ast;&ast;&ast;</td>
-  <td>
-    S<b>heila </b>d<b>os </b>S<b>antos</b>,
-    <a href="/about#lisa">L<b>isa</b></a>,
-    I<b>lse</b>, &
-    <a href="/about#marcos">M<b>arcos</b></a>
-  </td>
-  <td>13:30&#8209;18:00</td>
-  <td>Unlock Musicality // Automony<b> // Creativity in Zouk</b></td>
-  <td>1x4u</td>
-  <td>&ast;&ast; € 60,-</td>
-</tr>
-
-<tr>
-  <td>Tue, 19 <b>September</b></td>
-  <td>
-    <a href="/about#lisa">L<b>isa</b></a>, &
-    TBD
-  </td>
-  <td>19:30&#8209;22:00</td>
-  <td>Level 1<b> - Introduction Workshop</b></td>
-  <td>1x2.5u</td>
-  <td>&ast; € 30,-</td>
-</tr>
-
-<tr>
-  <td>Tue, 26 <b>September</b></td>
-  <td>
-    <a href="/about#lisa">L<b>isa</b></a>, &
-    <a href="/about#marcos">M<b>arcos</b></a>
-  </td>
-  <td>19:00&#8209;20:00</td>
-  <td>Level 4<b> - Headmovements</b></td>
-  <td>10x1u</td>
-  <td>&ast;&ast; € 135,-</td>
-</tr>
-
-<tr>
-  <td>Tue, 26 <b>September</b></td>
-  <td>
-    <a href="/about#lisa">L<b>isa</b></a>, &
-    <a href="/about#marcos">M<b>arcos</b></a>
-  </td>
-  <td>20:15&#8209;21:15</td>
-  <td>Level 5<b> - Advanced Lab</b></td>
-  <td>10x1u</td>
-  <td>&ast;&ast; € 135,-</td>
-</tr>
-
-<tr>
-  <td>Tue, 26 <b>September</b></td>
-  <td>
-    <a href="/about#lisa">L<b>isa</b></a>, &
-    <a href="/about#marcos">M<b>arcos</b></a>
-  </td>
-  <td>21:30&#8209;22:30</td>
-  <td>Lambada<b> - Open Level</b></td>
-  <td>10x1u</td>
-  <td>&ast;&ast; € 135,-</td>
-</tr>
-
-<tr>
-  <td>Fri, 29 <b>September</b></td>
+  <td>Fri, 16 <b>February</b></td>
   <td>
     <a href="/about#lisa">L<b>isa</b></a>,
     <a href="/about#steven">S<b>teven</b></a>, &
@@ -351,11 +142,12 @@ Version 24<sup>th</sup> of August 2023
   <td>19:00&#8209;20:00</td>
   <td>Zouk Level 1<b> - Beginners</b></td>
   <td>10x1u</td>
-  <td>&ast;&ast; € 135,-</td>
+  <td>€ 135,-</td>
+  <td> <a href="https://www.bueno.nu/webshop/school/521/schedule-detail/595739">📝 </a></td>
 </tr>
 
 <tr>
-  <td>Fri, 29 <b>September</b></td>
+  <td>Fri, 16 <b>February</b></td>
   <td>
     <a href="/about#lisa">L<b>isa</b></a>,
     <a href="/about#steven">S<b>teven</b></a>, &
@@ -364,11 +156,12 @@ Version 24<sup>th</sup> of August 2023
   <td>20:15&#8209;21:15</td>
   <td>Zouk Level 2<b> - Fundamentals</b></td>
   <td>10x1u</td>
-  <td>&ast;&ast; € 135,-</td>
+  <td>€ 135,-</td>
+  <td> <a href="https://www.bueno.nu/webshop/school/521/schedule-detail/595741">📝 </a></td>
 </tr>
 
 <tr>
-  <td>Fri, 29 <b>September</b></td>
+  <td>Fri, 16 <b>February</b></td>
   <td>
     <a href="/about#lisa">L<b>isa</b></a>,
     <a href="/about#steven">S<b>teven</b></a>, &
@@ -377,23 +170,24 @@ Version 24<sup>th</sup> of August 2023
   <td>21:30&#8209;22:30</td>
   <td>Zouk Level 3<b> - Undulations & Isolations</b></td>
   <td>10x1u</td>
-  <td>&ast;&ast; € 135,-</td>
+  <td>€ 135,-</td>
+  <td> <a href="https://www.bueno.nu/webshop/school/521/schedule-detail/595744">📝 </a></td>
+</tr>
+
+<tr>
+  <td colspan="7" style="text-align:right"> Register ⤴ </td>
 </tr>
 
 </tbody>
 </table>
 
-Early Bird discounts; Pay 8 days before classes start to get:
-<br/>
-\* € 5,- off!
-<br/>
-\*\* € 10,- off!
+\* Early Bird discounts; Pay 8 days before classes start to get € 5,- off!
 
 We teach at the following locations:
 <ol>
     <li>
     <a href='https://goo.gl/maps/KxfXr854UHQBLYj37'>Beyaertdreef 3, 3562 LG Utrecht Salsaventura - Utrecht</a>
-    &ast;&ast;&ast;
+    
     </li>
     <li>
     <a href='https://goo.gl/maps/86Nr5hmZY3mu5sVP6'>Theaterhuis de Berenkuil, Studio OOST</a>
@@ -404,7 +198,7 @@ We hope to see you there soon!
 <script src="https://cdnjs.cloudflare.com/ajax/libs/iframe-resizer/4.3.2/iframeResizer.min.js"></script>
 <iframe
     id="bueno-schedule"
-    src="https://www.bueno.nu/webshop/school/521/schedule?currentDate=24-11-2023&skipEmptyWeeksOnFirstLoad=NO&calendarEntryTypes=&locations=&genres=&levels=&employees="
+    src="https://www.bueno.nu/webshop/school/521/schedule?currentDate=24-11-2023&skipEmptyWeeksOnFirstLoad=YES&calendarEntryTypes=&locations=&genres=&levels=&employees="
     style="width: 1px; min-width: 100%"></iframe>
 <script>
     iFrameResize(
