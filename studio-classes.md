@@ -98,7 +98,7 @@ Version 19<sup>th</sup> of November 2023
   <td>Zouk Level 4<b> - Headmovements</b></td>
   <td>10x1h</td>
   <td>€ 135,-</td>
-  <td> <a href="https://www.bueno.nu/webshop/school/521/schedule-detail/589067">📝 </a></td>
+  <td> <a href="https://www.bueno.nu/webshop/school/521/schedule-detail/595734">📝 </a></td>
 </tr>
 
 <tr>
