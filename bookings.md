@@ -13,12 +13,12 @@ lang: en
 ref: studio-classes
 image: utrecht-zouk-logo.png
 ---
-
 <picture>
 <img
 alt='Available for Private Classes & Bookings'
 src='/available-for-private-classes.jpg'
 height='381px'
+style='float:left;padding-right:1em'
 />
 </picture>
 Looking to improve your dance skills,
