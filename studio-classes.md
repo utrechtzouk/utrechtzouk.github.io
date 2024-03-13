@@ -14,191 +14,105 @@ ref: studio-classes
 image: utrecht-zouk-logo.png
 ---
 
-Version 19<sup>th</sup> of November 2023
+Version 13<sup>th</sup> of March 2024
 
-<table id="schedule">
-<tbody>
+We offer a variety of dance opportunities in the form of progressive courses,
+workshops,
+bootcamps,
+weekend events and socials.
+Scroll down through this page to find all options to join us!
 
-<tr>
-  <td colspan="7" style="text-align:right"> Register ⤵ </td>
-</tr>
+\*
+    Levels are as indicated below,
+    and if necessary by assessment to give everyone the best possible learning experience and growth opportunity.
 
-<tr>
-  <td>Starting Day</td>
-  <td>Teacher(s)</td>
-  <td>Time</td>
-  <td>Description / Level</td>
-  <td>Course</td>
-  <td style="width:60px">Price</td>
-  <td style="width:12px"> </td>
-</tr>
+\*\*
+    We start a new beginner course 3 times per year.
+    You are invited to join the Level 1 Introduction Bootcamp for the best kick-off to your Brazilian Zouk dance experience.
+    Alternatively,
+    it is possible to join the first class of a season as a free try-out class,
+    although we highly recommend taking the bootcamp for the best experience.
+    We do not allow try-out classes in any other cases as it will hinder the progress of the group.
 
-<tr style="height: 40px;">
-  <th colspan="7">2023 - December</th>
-</tr>
+\*\*\*
+    We sadly cannot offer any refunds or credit for missed classes.
 
-<tr>
-  <td>Sun, 17 <b>December</b></td>
-  <td>
-    <a href="/about#lisa">L<b>isa</b></a>
-    &
-    <a href="/about#marcos">M<b>arcos</b></a>
-  </td>
-  <td>13:00&#8209;17:00</td>
-  <td><b>Sunday</b> UZouk Matinee<b> + Workshop</b></td>
-  <td>4h</td>
-  <td>€ 10,- / 15,-</td>
-  <td> <a href="https://www.bueno.nu/webshop/school/521/schedule-detail/589059">📝 </a></td>
-</tr>
 
-<tr style="height: 40px;">
-  <th colspan="7">2024 - January</th>
-</tr>
+## Dance with us every week!
 
-<tr>
-  <td>Tue, 30 <b>January</b></td>
-  <td>
-    <a href="/about#lisa">L<b>isa</b></a>
-    &
-    <a href="/about#marcos">M<b>arcos</b></a>
-  </td>
-  <td>19:00&#8209;22:00</td>
-  <td>Workshop - Understanding Headmovements</td>
-  <td>3h</td>
-  <td>&ast; € 40,-</td>
-  <td> <a href="https://www.bueno.nu/webshop/school/521/calendar-entry/595823/class-ticket/30155?discountCode=EARLYBIRD5">📝 </a></td>
-</tr>
+Join us weekly for your favorite Brazilian Zouk progressive courses where we work hard,
+play hard!
 
-<tr style="height: 40px;">
-  <th colspan="7">2024 - February</th>
-</tr>
+Startdates next season:
+* Tuesday 14 May Level 1 Introduction Bootcamp (check out Bootcamps at the bottom of the page)
+* Tuesday 21 May & Friday 24 May
 
-<tr>
-  <td>Tue, 6 <b>February</b></td>
-  <td>
-    <a href="/about#lisa">L<b>isa</b></a>
-    &
-    <a href="/about#marcos">M<b>arcos</b></a>
-  </td>
-  <td>19:30&#8209;22:00</td>
-  <td>Level 1<b> - Introduction Workshop</b></td>
-  <td>1x2.5u</td>
-  <td>&ast; € 30,-</td>
-  <td> <a href="https://www.bueno.nu/webshop/school/521/calendar-entry/595705/class-ticket/30144?discountCode=EARLYBIRD5BEGINNERS">📝 </a></td>
-</tr>
+## Level 1 - Beginners
+This course introduces the first 8 fundamental Brazilian Zouk patterns,
+the Brazilian Zouk rhythm,
+Lego Blocks structure,
+frame and lines.
+It is a course you cannot miss!
+(Even if you dance Bachata/Salsa/etc for many years!)
+Brazilian Zouk is a unique dance with its own set of language rules and we are building solid foundations in this course.
+Also check out the Level 1 Introduction Bootcamp below for the best kick-off to your Brazilian Zouk dance experience!
 
-<tr>
-  <td>Tue, 13 <b>February</b></td>
-  <td>
-    <a href="/about#lisa">L<b>isa</b></a>
-    &
-    <a href="/about#marcos">M<b>arcos</b></a>
-  </td>
-  <td>19:00&#8209;20:00</td>
-  <td>Zouk Level 4<b> - Headmovements</b></td>
-  <td>10x1h</td>
-  <td>€ 135,-</td>
-  <td> <a href="https://www.bueno.nu/webshop/school/521/schedule-detail/595734">📝 </a></td>
-</tr>
+## Level 2 - Fundamentals & Footwork
+This course has an A,
+B,
+and C variation,
+which can be taken in any order.
+You need the fundamentals from Level 1 to receive access to Level 2.
+Want a shortcut?
+If you follow the Level 1 Introduction Bootcamp you can join Level 1 and Level 2 simultaneously!
+In Level 2 we continue to build strong fundamentals by introducing more footwork patterns while building our confidence through practicing changing directions,
+adapting frame,
+understanding lines,
+and much more!
 
-<tr>
-  <td>Tue, 13 <b>February</b></td>
-  <td>
-    <a href="/about#lisa">L<b>isa</b></a>
-    &
-    <a href="/about#marcos">M<b>arcos</b></a>
-  </td>
-  <td>20:15&#8209;21:15</td>
-  <td>Zouk Level 5<b> - Advanced Lab</b></td>
-  <td>10x1h</td>
-  <td>€ 135,-</td>
-  <td> <a href="https://www.bueno.nu/webshop/school/521/schedule-detail/595736">📝 </a></td>
-</tr>
+## Level 3 - Undulations & Isolations
+This course has an A and B variation,
+which can be taken in any order.
+You need the fundamentals from Level 1,
+and the practice of one course Level 2 to receive access to Level 3.
+It is possible to follow Level 2 and Level 3 simultaneously.
 
-<tr>
-  <td>Tue, 13 <b>February</b></td>
-  <td>
-    <a href="/about#lisa">L<b>isa</b></a>
-    &
-    <a href="/about#marcos">M<b>arcos</b></a>
-  </td>
-  <td>21:30&#8209;22:30</td>
-  <td>
-    Choreography<b> - Project</b>
-    <b class=status> invitation only</b>
-</td>
-  <td>10x1h</td>
-  <td>€ 70,-</td>
-  <td> <a href="https://www.bueno.nu/webshop/school/521/schedule-detail/595804">📝 </a></td>
-</tr>
+In Level 3 we introduce the concepts of bodymovements in Brazilian Zouk,
+where we mostly focus on undulations (waves, fluid movements)
+and isolations (sharp, isolated movements).
+We also work on our communication, body control and sensitivity.
+Training these movements are absolutely vital to prepare your body for the iconic headmovements, and are a must in your Brazilian Zouk journey.
 
-<tr>
-  <td>Fri, 16 <b>February</b></td>
-  <td>
-    <a href="/about#lisa">L<b>isa</b></a>,
-    <a href="/about#steven">S<b>teven</b></a>, &
-    <a href="/about#xanne">X<b>anne</b></a>
-  </td>
-  <td>19:00&#8209;20:00</td>
-  <td>Zouk Level 1<b> - Beginners</b></td>
-  <td>10x1u</td>
-  <td>€ 135,-</td>
-  <td> <a href="https://www.bueno.nu/webshop/school/521/schedule-detail/595739">📝 </a></td>
-</tr>
+## Level 4 - Head movements
+This course has an A, B and C variation, which can be taken in any order.
+You need to have completed Level 1, 2 and 3 (all variations) ánd the Understanding Head movements bootcamp to receive access to Level 4.
 
-<tr>
-  <td>Fri, 16 <b>February</b></td>
-  <td>
-    <a href="/about#lisa">L<b>isa</b></a>,
-    <a href="/about#steven">S<b>teven</b></a>, &
-    <a href="/about#xanne">X<b>anne</b></a>
-  </td>
-  <td>20:15&#8209;21:15</td>
-  <td>Zouk Level 2<b> - Fundamentals</b></td>
-  <td>10x1u</td>
-  <td>€ 135,-</td>
-  <td> <a href="https://www.bueno.nu/webshop/school/521/schedule-detail/595741">📝 </a></td>
-</tr>
+In Level 4 we continuously work on understanding the structures of the head movements in Brazilian Zouk, training our frame response, our footwork to support the head movements and we will start to play with some variations.
 
-<tr>
-  <td>Fri, 16 <b>February</b></td>
-  <td>
-    <a href="/about#lisa">L<b>isa</b></a>,
-    <a href="/about#steven">S<b>teven</b></a>, &
-    <a href="/about#xanne">X<b>anne</b></a>
-  </td>
-  <td>21:30&#8209;22:30</td>
-  <td>Zouk Level 3<b> - Undulations & Isolations</b></td>
-  <td>10x1u</td>
-  <td>€ 135,-</td>
-  <td> <a href="https://www.bueno.nu/webshop/school/521/schedule-detail/595744">📝 </a></td>
-</tr>
+## Level 5 - Advanced Lab
+This course does not follow a set structure, but in this class international instructors Lisa & Marcos share the latest trends in Brazilian Zouk, offer more complex variations, and dive deeper into the fundamentals on an advanced level, to further improve the group’s level in the dance.
+You need to have completed Level 1,
+2,
+3,
+and 4 (all variations) and the Understanding Head movements bootcamp to receive access to Level 5.
 
-<tr>
-  <td colspan="7" style="text-align:right"> Register ⤴ </td>
-</tr>
+## How to register?
+In the calendar below,
+please select the class/course you would like to join,
+and then select the ticket you would like to purchase.
+You can purchase a ticket for 1,
+2, or 3 classes a week,
+and then choose which classes you want to do within your ticket.
+You receive a 50% discount on the 2nd and 3rd course you take with us in the same season.
 
-</tbody>
-</table>
-
-\* Early Bird discounts; Pay 8 days before classes start to get € 5,- off!
-
-We teach at the following locations:
-<ol>
-    <li>
-    <a href='https://goo.gl/maps/KxfXr854UHQBLYj37'>Beyaertdreef 3, 3562 LG Utrecht Salsaventura - Utrecht</a>
-    
-    </li>
-    <li>
-    <a href='https://goo.gl/maps/86Nr5hmZY3mu5sVP6'>Theaterhuis de Berenkuil, Studio OOST</a>
-    </li>
-</ol>
-We hope to see you there soon!
+All of our regular classes are in Studio OOST,
+Theaterhuis de Berenkuil,
+Biltstraat 166 in Utrecht.
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/iframe-resizer/4.3.2/iframeResizer.min.js"></script>
 <iframe
     id="bueno-schedule"
-    src="https://www.bueno.nu/webshop/school/521/schedule?currentDate=24-11-2023&skipEmptyWeeksOnFirstLoad=YES&calendarEntryTypes=&locations=&genres=&levels=&employees="
+    src="https://www.bueno.nu/webshop/school/521/schedule?skipEmptyWeeksOnFirstLoad=YES&calendarEntryTypes=2"
     style="width: 1px; min-width: 100%"></iframe>
 <script>
     iFrameResize(
