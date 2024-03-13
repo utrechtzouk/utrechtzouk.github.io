@@ -131,11 +131,9 @@ section {
 
   picture {
     display: block;
-    height: 160px;
 
     img {
       max-width: auto;
-      height: 160px;
       border-radius: 8px;
       object-fit: cover;
     }
@@ -276,7 +274,11 @@ table#schedule {
   tr td:nth-child(6) {
     text-align: right;
   }
+}
 
+h3 {
+  font-weight: bold;
+  margin-bottom: 0;
 }
 
 .en:lang(en), .nl:lang(nl) {
@@ -289,12 +291,38 @@ table#schedule {
   top: 8px;
 }
 
-
 .status {
-  color:white;
-  display:inline-block;
-  background:grey;
-  border-radius:25em;
-  padding:0 0.5em;
+  font-size: 2em;
   font-variant:small-caps;
+}
+
+@keyframes pulse {
+  from { border-radius: $spacing-unit; }
+  to { border-radius: #{2 * $spacing-unit} }
+}
+
+.heros {
+  figure {
+    display: inline;
+    float: left;
+    margin-right: $spacing-unit;
+
+    img {
+      max-width: auto;
+      border-radius: $spacing-unit;
+      object-fit: cover;
+    }
+
+    a:hover img {
+      animation-name: pulse;
+      animation-duration: 0.3s;
+      animation-direction: alternate;
+      animation-iteration-count: infinite;
+    }
+
+    figcaption {
+      font-weight: bold;
+      font-size: 1em;
+    }
+  }
 }

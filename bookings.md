@@ -10,7 +10,7 @@ seo:
   name: Brazilian Zouk Private Classes
   type: Organization
 lang: en
-ref: studio-classes
+ref: bookings
 image: utrecht-zouk-logo.png
 ---
 <picture>
