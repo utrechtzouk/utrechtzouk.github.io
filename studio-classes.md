@@ -127,6 +127,7 @@ Biltstraat 166 in Utrecht.
         {
             log: false,
             heightCalculationMethod: 'lowestElement',
+            maxHeight: 1466,
             onScroll: function() {document.getElementById('bueno-schedule').scrollIntoView({behavior: 'smooth'}); return false},
             checkOrigin: false
         },
@@ -140,13 +141,13 @@ Biltstraat 166 in Utrecht.
 
 <section class="heros">
 <figure>
-<a href="https://www.bueno.nu/webshop/school/521/schedule-detail/675710">
+<a href="https://www.bueno.nu/webshop/school/521/schedule-detail/675881">
 <figcaption>
 April 28th
 </figcaption>
 <img
 alt='Sara and Otavio - Utrecht Zouk meets Sao Paulo'
-src='/sara-otavio-meet-sao-paulo.png'
+src='/sara-and-otavio-unlocking-head-movements.png'
 style='object-position:50% 40%'
 height='380px'
 width='380px'
