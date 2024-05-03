@@ -127,7 +127,6 @@ Biltstraat 166 in Utrecht.
         {
             log: false,
             heightCalculationMethod: 'lowestElement',
-            maxHeight: 1466,
             onScroll: function() {document.getElementById('bueno-schedule').scrollIntoView({behavior: 'smooth'}); return false},
             checkOrigin: false
         },
