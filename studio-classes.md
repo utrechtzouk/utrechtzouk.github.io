@@ -140,13 +140,13 @@ Biltstraat 166 in Utrecht.
 
 <section class="heros">
 <figure>
-<a href="https://www.bueno.nu/webshop/school/521/schedule-detail/675881">
+<a href="https://www.bueno.nu/webshop/school/521/schedule-detail/711491">
 <figcaption>
-April 28th
+6th of August
 </figcaption>
 <img
-alt='Sara and Otavio - Utrecht Zouk meets Sao Paulo'
-src='/sara-and-otavio-unlocking-head-movements.png'
+alt="It's all about FOOTWORK"
+src='/events/its-all-about-footwork.png'
 style='object-position:50% 40%'
 height='380px'
 width='380px'
@@ -155,13 +155,13 @@ width='380px'
 </figure>
 
 <figure>
-<a href="https://www.bueno.nu/webshop/school/521/schedule-detail/675848">
+<a href="https://www.bueno.nu/webshop/school/521/schedule-detail/716242">
 <figcaption>
-May 7th
+13th of August
 </figcaption>
 <img
-alt='Understanding Head Movements'
-src='/understanding-head-movements.png'
+alt="It's all about FRAME"
+src='/events/its-all-about-frame.png'
 height='380px'
 width='380px'
 />
@@ -169,13 +169,13 @@ width='380px'
 </figure>
 
 <figure>
-<a href="https://www.bueno.nu/webshop/school/521/schedule-detail/660773">
+<a href="https://www.bueno.nu/webshop/school/521/schedule-detail/716243">
 <figcaption>
-May 11th & 12th
+20th of August
 </figcaption>
 <img
-alt='Lets level up with Julinha and Wilson'
-src='/lets-level-up-with-julinha-and-wilson.jpg'
+alt="It's all about TURNS"
+src='/events/its-all-about-turns.png'
 height='380px'
 width='380px'
 />
@@ -183,13 +183,13 @@ width='380px'
 </figure>
 
 <figure>
-<a href="https://www.bueno.nu/webshop/school/521/schedule-detail/675849">
+<a href="https://www.bueno.nu/webshop/school/521/schedule-detail/716244">
 <figcaption>
-May 14th
+27th of August
 </figcaption>
 <img
-alt='Level 1 Introduction Workshop'
-src='/level-1-introduction-workshop.png'
+alt="It's all about SOLO CHOREOGRAPHY"
+src='/events/its-all-about-solo-choreography.png'
 height='380px'
 width='380px'
 />
