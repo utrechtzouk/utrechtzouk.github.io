@@ -50,9 +50,12 @@ Scroll down through this page to find all options to join us!
 Join us weekly for your favorite Brazilian Zouk progressive courses where we work hard,
 play hard!
 
-Startdates next season:
-* Tuesday 14 May Level 1 Introduction Bootcamp (check out Bootcamps at the bottom of the page)
-* Tuesday 21 May & Friday 24 May
+Startdates next season & events:
+* Every Tuesday in August: Work Hard, Play Hard Summer Bootcamps (check out Bootcamps at the bottom of the page)
+* (hier kan dan later ook nog jullie bootcamp op vrijdag 30 aug als je weet wanneer dat is)
+* Tuesday 10 September: Understanding Headmovements Bootcamp (Registration not open yet)
+* Tuesday 17 September: Level 1 Introduction Bootcamp (Registration not open yet)
+* Tuesday 24 September & Friday 27 September: Start 10 weeks regular weekly classes (Registration not open yet)
 
 ### Level 1 - Beginners
 This course introduces the first 8 fundamental Brazilian Zouk patterns,
