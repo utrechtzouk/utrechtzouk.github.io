@@ -198,6 +198,20 @@ width='380px'
 </a>
 </figure>
 
+<figure>
+<a href="https://www.bueno.nu/webshop/school/521/schedule-detail/736812">
+<figcaption>
+30th of August
+</figcaption>
+<img
+alt="Creativity & Connection"
+src='/events/utrecht-zouk-creativity-and-connection-xanne-and-steven.png'
+height='380px'
+width='380px'
+/>
+</a>
+</figure>
+
 </section>
 
 <br style="clear:both">
