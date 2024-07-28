@@ -14,7 +14,7 @@ ref: studio-classes
 image: utrecht-zouk-logo.png
 ---
 
-Version 13<sup>th</sup> of March 2024
+Version 28<sup>th</sup> of July 2024
 
 We offer a variety of dance opportunities in the form of progressive courses,
 workshops,
@@ -51,10 +51,11 @@ Join us weekly for your favorite Brazilian Zouk progressive courses where we wor
 play hard!
 
 Startdates next season & events:
-* Every Tuesday in August: Work Hard, Play Hard Summer Bootcamps (check out Bootcamps at the bottom of the page)
-* Tuesday 10 September: Understanding Headmovements Bootcamp (Registration not open yet)
-* Tuesday 17 September: Level 1 Introduction Bootcamp (Registration not open yet)
-* Tuesday 24 September & Friday 27 September: Start 10 weeks regular weekly classes (Registration not open yet)
+* Every Tuesday in August: Work Hard, Play Hard Summer Bootcamps (sold out)
+* Friday 10 August: Creativity & Connection (check out Bootcamps at the bottom of the page)
+* Tuesday 10 September: Understanding Headmovements Bootcamp (check out Bootcamps at the bottom of the page)
+* Tuesday 17 September: Level 1 Introduction Bootcamp (check out Bootcamps at the bottom of the page)
+* Tuesday 24 September & Friday 27 September: Start our regular weekly classes (register at the bottom of the page)
 
 ### Level 1 - Beginners
 This course introduces the first 8 fundamental Brazilian Zouk patterns,
