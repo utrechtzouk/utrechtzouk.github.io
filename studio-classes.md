@@ -122,7 +122,7 @@ Biltstraat 166 in Utrecht.
 <script src="https://cdnjs.cloudflare.com/ajax/libs/iframe-resizer/4.3.2/iframeResizer.min.js"></script>
 <iframe
     id="bueno-schedule"
-    src="https://www.bueno.nu/webshop/school/521/schedule?skipEmptyWeeksOnFirstLoad=YES"
+    src="https://www.bueno.nu/webshop/school/521/schedule?currentDate=23-09-2024&skipEmptyWeeksOnFirstLoad=NO"
     style="width: 1px; min-width: 100%"></iframe>
 <script>
     iFrameResize(
