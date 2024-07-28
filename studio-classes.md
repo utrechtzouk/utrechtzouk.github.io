@@ -139,65 +139,7 @@ Biltstraat 166 in Utrecht.
 
 <h2 class='status'> Special Events, Workshops and Bootcamps </h2>
 
-
 <section class="heros">
-<figure>
-<a href="https://www.bueno.nu/webshop/school/521/schedule-detail/711491">
-<figcaption>
-6th of August
-</figcaption>
-<img
-alt="It's all about FOOTWORK"
-src='/events/its-all-about-footwork.png'
-style='object-position:50% 40%'
-height='380px'
-width='380px'
-/>
-</a>
-</figure>
-
-<figure>
-<a href="https://www.bueno.nu/webshop/school/521/schedule-detail/716242">
-<figcaption>
-13th of August
-</figcaption>
-<img
-alt="It's all about FRAME"
-src='/events/its-all-about-frame.png'
-height='380px'
-width='380px'
-/>
-</a>
-</figure>
-
-<figure>
-<a href="https://www.bueno.nu/webshop/school/521/schedule-detail/716243">
-<figcaption>
-20th of August
-</figcaption>
-<img
-alt="It's all about TURNS"
-src='/events/its-all-about-turns.png'
-height='380px'
-width='380px'
-/>
-</a>
-</figure>
-
-<figure>
-<a href="https://www.bueno.nu/webshop/school/521/schedule-detail/716244">
-<figcaption>
-27th of August
-</figcaption>
-<img
-alt="It's all about SOLO CHOREOGRAPHY"
-src='/events/its-all-about-solo-choreography.png'
-height='380px'
-width='380px'
-/>
-</a>
-</figure>
-
 <figure>
 <a href="https://www.bueno.nu/webshop/school/521/schedule-detail/736812">
 <figcaption>
@@ -206,6 +148,34 @@ width='380px'
 <img
 alt="Creativity & Connection"
 src='/events/utrecht-zouk-creativity-and-connection-xanne-and-steven.png'
+height='380px'
+width='380px'
+/>
+</a>
+</figure>
+
+<figure>
+<a href="https://www.bueno.nu/webshop/school/521/schedule-detail/884491 ">
+<figcaption>
+10th of September
+</figcaption>
+<img
+alt="Understanding Headmovements"
+src='/events/understanding-headmovements.png'
+height='380px'
+width='380px'
+/>
+</a>
+</figure>
+
+<figure>
+<a href="https://www.bueno.nu/webshop/school/521/schedule-detail/884223">
+<figcaption>
+17th of September
+</figcaption>
+<img
+alt="Level 1 Introduction Bootcamp"
+src='/events/level-1-introduction-bootcamp.png'
 height='380px'
 width='380px'
 />
