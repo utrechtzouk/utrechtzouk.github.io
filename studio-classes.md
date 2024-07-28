@@ -55,7 +55,7 @@ Startdates next season & events:
 * Friday 10 August: Creativity & Connection (check out Bootcamps at the bottom of the page)
 * Tuesday 10 September: Understanding Headmovements Bootcamp (check out Bootcamps at the bottom of the page)
 * Tuesday 17 September: Level 1 Introduction Bootcamp (check out Bootcamps at the bottom of the page)
-* Tuesday 24 September & Friday 27 September: Start our regular weekly classes (register at the bottom of the page)
+* Tuesday 24 September & Friday 27 September: Start our regular weekly classes (register in the calendar below)
 
 ### Level 1 - Beginners
 This course introduces the first 8 fundamental Brazilian Zouk patterns,
