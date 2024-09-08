@@ -14,14 +14,13 @@ ref: studio-classes
 image: utrecht-zouk-logo.png
 ---
 
-Version 28<sup>th</sup> of July 2024
+Version 8<sup>th</sup> of September 2024
 
 We offer a variety of dance opportunities in the form of progressive courses,
 workshops,
 bootcamps,
 weekend events and socials.
 Scroll down through this page to find all options to join us!
-
 
 <i>
 \*
@@ -113,7 +112,6 @@ and then select the ticket you would like to purchase.
 You can purchase a ticket for 1,
 2, or 3 classes a week,
 and then choose which classes you want to do within your ticket.
-You receive a 50% discount on the 2nd and 3rd course you take with us in the same season.
 
 All of our regular classes are in Studio OOST,
 Theaterhuis de Berenkuil,
@@ -177,6 +175,20 @@ width='380px'
 <img
 alt="Level 1 Introduction Bootcamp"
 src='/events/level-1-introduction-bootcamp.png'
+height='380px'
+width='380px'
+/>
+</a>
+</figure>
+
+<figure>
+<a href="https://www.bueno.nu/webshop/school/521/schedule-detail/920841">
+<figcaption>
+5th / 6th of October
+</figcaption>
+<img
+alt="Let's level up Spins! - Felipe & Bruna"
+src='/events/lets-level-up-spins--felipe--bruna.png'
 height='380px'
 width='380px'
 />
