@@ -14,7 +14,7 @@ ref: studio-classes
 image: utrecht-zouk-logo.png
 ---
 
-Version 8<sup>th</sup> of September 2024
+Version 12<sup>th</sup> of October 2024
 
 We offer a variety of dance opportunities in the form of progressive courses,
 workshops,
@@ -139,56 +139,15 @@ Biltstraat 166 in Utrecht.
 <h2 class='status'> Special Events, Workshops and Bootcamps </h2>
 
 <section class="heros">
-<figure>
-<a href="https://www.bueno.nu/webshop/school/521/schedule-detail/736812">
-<figcaption>
-30th of August
-</figcaption>
-<img
-alt="Creativity & Connection"
-src='/events/utrecht-zouk-creativity-and-connection-xanne-and-steven.png'
-height='380px'
-width='380px'
-/>
-</a>
-</figure>
 
 <figure>
-<a href="https://www.bueno.nu/webshop/school/521/schedule-detail/884491 ">
+<a href="https://www.bueno.nu/webshop/school/521/schedule-detail/971975">
 <figcaption>
-10th of September
+3rd of November
 </figcaption>
 <img
-alt="Understanding Headmovements"
-src='/events/understanding-headmovements.png'
-height='380px'
-width='380px'
-/>
-</a>
-</figure>
-
-<figure>
-<a href="https://www.bueno.nu/webshop/school/521/schedule-detail/884223">
-<figcaption>
-17th of September
-</figcaption>
-<img
-alt="Level 1 Introduction Bootcamp"
-src='/events/level-1-introduction-bootcamp.png'
-height='380px'
-width='380px'
-/>
-</a>
-</figure>
-
-<figure>
-<a href="https://www.bueno.nu/webshop/school/521/schedule-detail/920841">
-<figcaption>
-5th / 6th of October
-</figcaption>
-<img
-alt="Let's level up Spins! - Felipe & Bruna"
-src='/events/lets-level-up-spins--felipe--bruna.png'
+alt="Identity in Dance"
+src='/events/lets-level-up-identity-in-dance--sheila.png'
 height='380px'
 width='380px'
 />
