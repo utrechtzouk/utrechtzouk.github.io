@@ -14,24 +14,26 @@ ref: studio-classes
 image: utrecht-zouk-logo.png
 ---
 
-Version 8<sup>th</sup> of November 2024
+Version 20<sup>th</sup> of November 2024
 
 We offer a variety of dance opportunities in the form of progressive courses,
 workshops,
 bootcamps,
-weekend events and socials.
+weekend events,
+and socials.
 Scroll down through this page to find all options to join us!
 
 <i>
 \*
     Levels are as indicated below,
-    and if necessary by assessment to give everyone the best possible learning experience and growth opportunity.
+    for some classes we do a level assessment to give everyone the best possible learning experience and growth opportunity.
+    Contact us for more information.
 </i>
 
 <i>
 \*\*
-    We start a new beginner course 3 times per year.
-    You are invited to join the Level 1 Introduction Bootcamp for the best kick-off to your Brazilian Zouk dance experience.
+    We start a new beginner course 2 times per year.
+    You are invited to join the Brazilian Zouk Introduction Bootcamp for the best kick-off to your Brazilian Zouk dance experience.
     Alternatively,
     it is possible to join the first class of a season as a free try-out class,
     although we highly recommend taking the bootcamp for the best experience.
@@ -50,60 +52,11 @@ Join us weekly for your favorite Brazilian Zouk progressive courses where we wor
 play hard!
 
 Startdates next season & events:
-* Every Tuesday in August: Work Hard, Play Hard Summer Bootcamps (sold out)
-* Friday 10 August: Creativity & Connection (check out Bootcamps at the bottom of the page)
-* Tuesday 10 September: Understanding Headmovements Bootcamp (check out Bootcamps at the bottom of the page)
-* Tuesday 17 September: Level 1 Introduction Bootcamp (check out Bootcamps at the bottom of the page)
-* Tuesday 24 September & Friday 27 September: Start our regular weekly classes (register in the calendar below)
-
-### Level 1 - Beginners
-This course introduces the first 8 fundamental Brazilian Zouk patterns,
-the Brazilian Zouk rhythm,
-Lego Blocks structure,
-frame and lines.
-It is a course you cannot miss!
-(Even if you dance Bachata/Salsa/etc for many years!)
-Brazilian Zouk is a unique dance with its own set of language rules and we are building solid foundations in this course.
-Also check out the Level 1 Introduction Bootcamp below for the best kick-off to your Brazilian Zouk dance experience!
-
-### Level 2 - Fundamentals & Footwork
-This course has an A,
-B,
-and C variation,
-which can be taken in any order.
-You need the fundamentals from Level 1 to receive access to Level 2.
-Want a shortcut?
-If you follow the Level 1 Introduction Bootcamp you can join Level 1 and Level 2 simultaneously!
-In Level 2 we continue to build strong fundamentals by introducing more footwork patterns while building our confidence through practicing changing directions,
-adapting frame,
-understanding lines,
-and much more!
-
-### Level 3 - Undulations & Isolations
-This course has an A and B variation,
-which can be taken in any order.
-You need the fundamentals from Level 1,
-and the practice of one course Level 2 to receive access to Level 3.
-It is possible to follow Level 2 and Level 3 simultaneously.
-
-In Level 3 we introduce the concepts of bodymovements in Brazilian Zouk,
-where we mostly focus on undulations (waves, fluid movements)
-and isolations (sharp, isolated movements).
-We also work on our communication, body control and sensitivity.
-Training these movements are absolutely vital to prepare your body for the iconic headmovements, and are a must in your Brazilian Zouk journey.
-
-### Level 4 - Head movements
-This course has an A, B and C variation, which can be taken in any order.
-You need to have completed Level 1, 2 and 3 (all variations) ánd the Understanding Head movements bootcamp to receive access to Level 4.
-
-In Level 4 we continuously work on understanding the structures of the head movements in Brazilian Zouk, training our frame response, our footwork to support the head movements and we will start to play with some variations.
-
-### Level 5 - Advanced Lab
-This course does not follow a set structure, but in this class international instructors Lisa & Marcos share the latest trends in Brazilian Zouk, offer more complex variations, and dive deeper into the fundamentals on an advanced level, to further improve the group’s level in the dance.
-You need to have completed Level 1,
-2,
-3,
-and 4 (all variations) and the Understanding Head movements bootcamp to receive access to Level 5.
+* Tuesday 21 January: Understanding Headmovements Bootcamp (check out Bootcamps at the bottom of the page)
+* Tuesday 28 January: Brazilian Zouk Introduction Bootcamp (check out Bootcamps at the bottom of the page)
+* Tuesday 4 February & Friday 7 February: Start our regular weekly classes (register in the calendar below)
+* Saturday 22 February: Bootcamp + Social -> Mark your calendar, more info coming soon!
+* Saturday 5 April & Sunday 6 April: Brazilian Zouk Weekender with international artists -> Mark your calendar, more info coming soon!
 
 ### How to register?
 In the calendar below,
@@ -117,11 +70,13 @@ All of our regular classes are in Studio OOST,
 Theaterhuis de Berenkuil,
 Biltstraat 166 in Utrecht.
 
+![Spring Term](/spring-term.png)
+
 <!-- src="https://www.bueno.nu/webshop/school/521/schedule?skipEmptyWeeksOnFirstLoad=YES&calendarEntryTypes=2" -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/iframe-resizer/4.3.2/iframeResizer.min.js"></script>
 <iframe
     id="bueno-schedule"
-    src="https://www.bueno.nu/webshop/school/521/schedule?currentDate=23-09-2024&skipEmptyWeeksOnFirstLoad=NO"
+    src="https://www.bueno.nu/webshop/school/521/schedule?currentDate=04-02-2025&skipEmptyWeeksOnFirstLoad=NO"
     style="width: 1px; min-width: 100%"></iframe>
 <script>
     iFrameResize(
@@ -148,6 +103,34 @@ Biltstraat 166 in Utrecht.
 <img
 alt="Gilson & Lisa - Get Playful with Lambada"
 src="/events/gilson-lisa-playful-lambada.png"
+height='380px'
+width='380px'
+/>
+</a>
+</figure>
+
+<figure>
+<a href="https://www.bueno.nu/webshop/school/521/schedule-detail/987107">
+<figcaption>
+21st of January
+</figcaption>
+<img
+alt="Lisa & Marcos - Understanding Headmovements"
+src="/events/lisa-marcos-understanding-headmovements.png"
+height='380px'
+width='380px'
+/>
+</a>
+</figure>
+
+<figure>
+<a href="https://www.bueno.nu/webshop/school/521/schedule-detail/987108">
+<figcaption>
+28th of January
+</figcaption>
+<img
+alt="Lisa & Marcos - Introduction Bootcamp"
+src="/events/lisa-marcos-introduction-bootcamp.png"
 height='380px'
 width='380px'
 />
