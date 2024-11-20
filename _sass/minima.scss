@@ -51,13 +51,15 @@ $on-laptop: 1000px !default;
 ;
 
 .site-header {
-  background-color: $text-color;
+  background-color: #000;
   border-top: 2px solid #444;
   border-bottom: 2px solid #444;
-  padding: 8px 0 4px 0;
+  min-height: 80px;
+  padding: 0;
 
   .site-nav {
-    background-color: $text-color;
+    background-color: inherit;
+    line-height: 100px;
     .page-link {
       color: $background-color;
       background: $text-color;
@@ -94,8 +96,7 @@ $on-laptop: 1000px !default;
   color: transparent;
   background: center center url('../utrecht-zouk-logo.png') no-repeat;
   background-size: contain;
-  min-width: 150px;
-  font-size: 12px;
+  line-height: 100px;
   overflow: hidden;
 
   &:hover {
