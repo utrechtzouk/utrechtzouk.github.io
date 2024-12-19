@@ -14,7 +14,7 @@ ref: studio-classes
 image: utrecht-zouk-logo.png
 ---
 
-Version 20<sup>th</sup> of November 2024
+Version 19<sup>th</sup> of December 2024
 
 We offer a variety of dance opportunities in the form of progressive courses,
 workshops,
@@ -96,13 +96,13 @@ Biltstraat 166 in Utrecht.
 <section class="heros">
 
 <figure>
-<a href="https://www.bueno.nu/webshop/school/521/schedule-detail/980882">
+<a href="https://www.bueno.nu/webshop/school/521/schedule-detail/995168">
 <figcaption>
-7th of December
+5th of January
 </figcaption>
 <img
-alt="Gilson & Lisa - Get Playful with Lambada"
-src="/events/gilson-lisa-playful-lambada.png"
+alt="Lisa & Marcos - UZ Social"
+src="/events/ny-utrecht-social.png"
 height='380px'
 width='380px'
 />
